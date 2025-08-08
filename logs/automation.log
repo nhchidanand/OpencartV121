@@ -1,0 +1,100 @@
+14:53:41.525 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** This is the start of the test execution ***
+14:53:41.530 [main] INFO  testCases.TC_001_AccountRegistrationTest - This is the execution of the home page
+14:53:41.702 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on my account link
+14:53:42.916 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on registration link
+14:53:42.917 [main] INFO  testCases.TC_001_AccountRegistrationTest - This is the execution of registration page
+14:53:44.471 [main] INFO  testCases.TC_001_AccountRegistrationTest - this is the validation of the registration message
+14:53:44.509 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** This is the completion of the test execution ***
+00:51:35.173 [main] INFO  testCases.TC_005_SearchIphoneTest - *****Start of test*****
+00:51:35.178 [main] INFO  testCases.TC_005_SearchIphoneTest - **invoke of home page**
+00:51:35.910 [main] INFO  testCases.TC_005_SearchIphoneTest - **invoke of search page**
+00:51:37.244 [main] INFO  testCases.TC_005_SearchIphoneTest - **invoke of add to cart page**
+00:51:38.094 [main] INFO  testCases.TC_005_SearchIphoneTest - **invoke of checkout page**
+00:51:38.855 [main] INFO  testCases.TC_005_SearchIphoneTest - ****End of test****
+09:57:57.348 [main] INFO  testCases.TC_005_SearchIphoneTest - *****Start of test*****
+09:57:57.351 [main] INFO  testCases.TC_005_SearchIphoneTest - **invoke of home page**
+09:57:57.903 [main] INFO  testCases.TC_005_SearchIphoneTest - **invoke of search page**
+09:57:58.447 [main] INFO  testCases.TC_005_SearchIphoneTest - **invoke of add to cart page**
+09:57:59.355 [main] INFO  testCases.TC_005_SearchIphoneTest - **invoke of checkout page**
+09:57:59.790 [main] INFO  testCases.TC_005_SearchIphoneTest - ****End of test****
+10:07:31.557 [main] INFO  testCases.TC_005_SearchIphoneTest - *****Start of test*****
+10:07:31.558 [main] INFO  testCases.TC_005_SearchIphoneTest - **invoke of home page**
+10:07:32.102 [main] INFO  testCases.TC_005_SearchIphoneTest - **invoke of search page**
+10:07:33.408 [main] INFO  testCases.TC_005_SearchIphoneTest - **invoke of add to cart page**
+10:07:35.633 [main] INFO  testCases.TC_005_SearchIphoneTest - **invoke of checkout page**
+10:07:36.449 [main] INFO  testCases.TC_005_SearchIphoneTest - ****End of test****
+10:13:24.279 [main] INFO  testCases.TC_005_SearchIphoneTest - *****Start of test*****
+10:13:24.280 [main] INFO  testCases.TC_005_SearchIphoneTest - **invoke of home page**
+10:13:24.720 [main] INFO  testCases.TC_005_SearchIphoneTest - **invoke of search page**
+10:13:25.355 [main] INFO  testCases.TC_005_SearchIphoneTest - **invoke of add to cart page**
+10:13:26.079 [main] INFO  testCases.TC_005_SearchIphoneTest - **invoke of checkout page**
+10:13:26.713 [main] INFO  testCases.TC_005_SearchIphoneTest - ****End of test****
+11:47:10.907 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - **Start of the test**
+11:47:10.910 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - *Invoke of homepage*
+11:47:11.386 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - *Invoke of login page*
+11:47:12.795 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - *Invoke of searchpage*
+12:15:31.595 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - **Start of the test**
+12:15:31.598 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - *Invoke of homepage*
+12:15:32.057 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - *Invoke of login page*
+12:15:33.281 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - *Invoke of searchpage*
+13:49:34.143 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - **Start of the test**
+13:49:34.145 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - *Invoke of homepage*
+13:49:34.669 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - *Invoke of login page*
+13:49:35.960 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - *Invoke of searchpage*
+14:05:48.300 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - **Start of the test**
+14:05:48.303 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - *Invoke of homepage*
+14:05:48.778 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - *Invoke of login page*
+14:05:49.946 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - *Invoke of searchpage*
+14:07:30.716 [main] INFO  testCases.TC_005_SearchIphoneTest - *****Start of test*****
+14:07:30.719 [main] INFO  testCases.TC_005_SearchIphoneTest - **invoke of home page**
+14:07:31.464 [main] INFO  testCases.TC_005_SearchIphoneTest - **invoke of search page**
+14:07:32.380 [main] INFO  testCases.TC_005_SearchIphoneTest - **invoke of add to cart page**
+14:07:33.243 [main] INFO  testCases.TC_005_SearchIphoneTest - **invoke of checkout page**
+14:07:33.902 [main] INFO  testCases.TC_005_SearchIphoneTest - ****End of test****
+14:16:30.362 [main] INFO  testCases.TC_004_LogoutTest - Srart of the test!
+14:16:30.367 [main] INFO  testCases.TC_004_LogoutTest - Calling home page
+14:16:30.819 [main] INFO  testCases.TC_004_LogoutTest - calling login page
+14:16:31.934 [main] INFO  testCases.TC_004_LogoutTest - calling logout page
+14:16:32.465 [main] INFO  testCases.TC_004_LogoutTest - Ending the test!
+14:24:16.749 [main] INFO  testCases.TC_005_SearchIphoneTest - *****Start of test*****
+14:24:16.752 [main] INFO  testCases.TC_005_SearchIphoneTest - **invoke of home page**
+14:31:29.212 [main] INFO  testCases.TC_005_SearchIphoneTest - *****Start of test*****
+14:31:29.215 [main] INFO  testCases.TC_005_SearchIphoneTest - **invoke of home page**
+14:31:29.776 [main] INFO  testCases.TC_005_SearchIphoneTest - **invoke of login age**
+14:31:31.089 [main] INFO  testCases.TC_005_SearchIphoneTest - **invoke of logout page where it has search elements**
+14:31:31.710 [main] INFO  testCases.TC_005_SearchIphoneTest - **invoke of search page**
+14:31:33.024 [main] INFO  testCases.TC_005_SearchIphoneTest - **invoke of add to cart page**
+14:31:33.574 [main] INFO  testCases.TC_005_SearchIphoneTest - **invoke of checkout page**
+14:31:34.163 [main] INFO  testCases.TC_005_SearchIphoneTest - ****End of test****
+14:35:29.015 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - **Start of the test**
+14:35:29.018 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - *Invoke of homepage*
+14:35:29.490 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - *Invoke of login page*
+14:35:30.804 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - invoke of logout page where it has element for entering for the search
+14:35:31.426 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - *Invoke of searchpage*
+14:35:33.454 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - *Invoke of Add tp cart page*
+14:35:33.774 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - *calling the method which is present inside the base page*
+14:35:34.187 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - *Invoke of wish list page*
+15:03:07.583 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - **Start of the test**
+15:03:07.588 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - *Invoke of homepage*
+15:03:08.235 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - *Invoke of login page*
+15:03:09.554 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - invoke of logout page where it has element for entering for the search
+15:03:10.369 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - *Invoke of searchpage*
+15:03:12.308 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - *Invoke of Add tp cart page*
+15:03:12.641 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - *calling the method which is present inside the base page*
+15:03:13.152 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - *Invoke of wish list page*
+15:04:02.397 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - **Start of the test**
+15:04:02.403 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - *Invoke of homepage*
+15:04:02.924 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - *Invoke of login page*
+15:04:04.585 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - invoke of logout page where it has element for entering for the search
+15:04:05.599 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - *Invoke of searchpage*
+15:04:12.671 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - *Invoke of Add tp cart page*
+15:04:13.080 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - *calling the method which is present inside the base page*
+15:04:13.460 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - *Invoke of wish list page*
+15:09:24.906 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - **Start of the test**
+15:09:24.911 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - *Invoke of homepage*
+15:09:26.412 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - *Invoke of login page*
+15:09:28.210 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - invoke of logout page where it has element for entering for the search
+15:09:28.933 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - *Invoke of searchpage*
+15:09:31.995 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - *Invoke of Add tp cart page*
+15:09:32.322 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - *calling the method which is present inside the base page*
+15:09:32.745 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - *Invoke of wish list page*
