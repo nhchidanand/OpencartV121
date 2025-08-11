@@ -1,0 +1,8 @@
+13:19:02.241 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - **Start of the test**
+13:19:02.245 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - *Invoke of homepage*
+13:19:03.135 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - *Invoke of login page*
+13:19:04.700 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - invoke of logout page where it has element for entering for the search
+13:19:05.258 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - *Invoke of searchpage*
+13:19:07.801 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - *Invoke of Add tp cart page*
+13:19:08.211 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - *calling the method which is present inside the base page*
+13:19:08.768 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - *Invoke of wish list page*
