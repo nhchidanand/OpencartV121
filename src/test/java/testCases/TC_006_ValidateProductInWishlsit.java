@@ -35,7 +35,7 @@ public class TC_006_ValidateProductInWishlsit extends BaseClass{
 		SearchPage sp = new SearchPage(driver);
 		sp.clickIphone();
 		
-		logger.info("*Invoke of Add tp cart page*");
+		logger.info("*Invoke of Add to cart page*");
 		AddToCartPage atp = new AddToCartPage(driver);
 		atp.addToWishList();
 		String success_message = atp.successOfWishLisMessage();
