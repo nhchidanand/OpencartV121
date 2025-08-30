@@ -35,6 +35,6 @@ public class SearchPage extends BasePage{
 	
 	public void AddressSuccessfullMessageCheck()
 	{
-		Assert.assertEquals(addressSuccessfullmsg.getText(), "Your address has been successfully updated", "Address updated successfully");
+		Assert.assertEquals(addressSuccessfullmsg.getText(), "Your address has been successfully added", "Address updated successfully");
 	}
 }

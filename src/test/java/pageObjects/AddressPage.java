@@ -12,7 +12,7 @@ public class AddressPage extends BasePage{
 	}
 	
 
-	@FindBy(xpath="div.buttons.clearfix > div.pull-right")
+	@FindBy(xpath="//a[normalize-space()='New Address']")
 	WebElement btnNewAddress;
 	
 	
