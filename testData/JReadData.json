@@ -1,0 +1,25 @@
+[
+	{
+		"fname": "aaa",
+		"lname": "bbb",
+		"company": "acc",
+		"add1": "ddddd",
+		"add2": "eeeee",
+		"city": "ffff",
+		"postcode": "222222",
+		"country": "India",
+		"state": "Karnataka"
+	},
+	{
+		"fname": "AAAA",
+		"lname": "BBBB",
+		"company": "CCCC",
+		"add1": "DDDD",
+		"add2": "EEEEE",
+		"city": "FFFFF",
+		"postcode": "123456",
+		"country": "India",
+		"state": "Karnataka"
+	}	
+	
+]

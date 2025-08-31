@@ -1,6 +1,9 @@
 package utilities;
-import org.testng.annotations.DataProvider;
 import java.io.IOException;
+import java.util.HashMap;
+import java.util.List;
+
+import org.testng.annotations.DataProvider;
 
 public class DataProviders {
 	
@@ -28,6 +31,7 @@ public class DataProviders {
 	}
 	
 	
+	
 	@DataProvider(name = "AddressData")
 	public String[][] AddressData() throws IOException
 	{
@@ -47,5 +51,17 @@ public class DataProviders {
 			}
 		}
 		return addressdata;
+	}
+	
+	
+	
+	@DataProvider(name="AddressData2")
+	public Object[][] AddressData2() throws IOException
+	{
+		String path = System.getProperty("user.dir")+"\\testData\\JReadData.json";
+		JSONUtility jsonutil = new JSONUtility();
+		List<HashMap<String, String>> data = jsonutil.JsonDataReader(path);
+		Object a[][] = new Object[][] {{data.get(0)}, {data.get(1)}};
+		return a;
 	}
 }
