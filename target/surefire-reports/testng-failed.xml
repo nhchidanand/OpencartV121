@@ -11,7 +11,7 @@
       <class name="testCases.TC_007_UpdateAddress">
         <methods>
           <include name="tearDown"/>
-          <include name="UpdateAddress"/>
+          <include name="UpdateAddress" invocation-numbers="1 3"/>
           <include name="setUp"/>
         </methods>
       </class> <!-- testCases.TC_007_UpdateAddress -->

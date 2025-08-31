@@ -22,6 +22,9 @@ public class SearchPage extends BasePage{
 	@FindBy(xpath="//div[contains(text(), 'successfully')]")
 	WebElement addressSuccessfullmsg;
 	
+	@FindBy(xpath="//a[@class='list-group-item'][normalize-space()='Logout']")
+	WebElement clkLogout;
+	
 	
 	public void clickIphone()
 	{
@@ -36,5 +39,10 @@ public class SearchPage extends BasePage{
 	public void AddressSuccessfullMessageCheck()
 	{
 		Assert.assertEquals(addressSuccessfullmsg.getText(), "Your address has been successfully added", "Address updated successfully");
+	}
+	
+	public void Logout()
+	{
+		clkLogout.click();
 	}
 }

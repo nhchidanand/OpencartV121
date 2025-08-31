@@ -26,4 +26,26 @@ public class DataProviders {
 		
 		return logindata;
 	}
+	
+	
+	@DataProvider(name = "AddressData")
+	public String[][] AddressData() throws IOException
+	{
+		String path = ".\\testData\\ReadData.xlsx";
+		
+		ExcelUtility exutil = new ExcelUtility(path);
+		int rows = exutil.getRowCount("Sheet2");
+		int columns = exutil.getCellCount("Sheet2", 1);
+		
+		String addressdata[][] = new String[rows][columns];
+		
+		for(int r=1; r<=rows; r++)
+		{
+			for(int c=0; c<columns; c++)
+			{
+				addressdata[r-1][c] = exutil.getCellData("Sheet2", r, c);
+			}
+		}
+		return addressdata;
+	}
 }

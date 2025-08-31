@@ -1,44 +1,68 @@
-13:19:02.241 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - **Start of the test**
-13:19:02.245 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - *Invoke of homepage*
-13:19:03.135 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - *Invoke of login page*
-13:19:04.700 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - invoke of logout page where it has element for entering for the search
-13:19:05.258 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - *Invoke of searchpage*
-13:19:07.801 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - *Invoke of Add tp cart page*
-13:19:08.211 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - *calling the method which is present inside the base page*
-13:19:08.768 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - *Invoke of wish list page*
-20:54:51.094 [main] INFO  testCases.TC_007_UpdateAddress - ***Start of the test***
-20:54:51.103 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the home page**
-20:54:51.410 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the login page**
-20:54:52.372 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the search page**
-20:54:52.693 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the address page**
-20:59:15.711 [main] INFO  testCases.TC_007_UpdateAddress - ***Start of the test***
-20:59:15.713 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the home page**
-20:59:16.023 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the login page**
-20:59:16.929 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the search page**
-20:59:17.181 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the address page**
-21:04:09.469 [main] INFO  testCases.TC_007_UpdateAddress - ***Start of the test***
-21:04:09.471 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the home page**
-21:04:09.892 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the login page**
-21:04:10.055 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the search page**
-21:04:11.148 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the address page**
-21:06:33.300 [main] INFO  testCases.TC_007_UpdateAddress - ***Start of the test***
-21:06:33.303 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the home page**
-21:06:33.792 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the login page**
-21:06:34.852 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the search page**
-21:06:35.091 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the address page**
-21:06:35.828 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the add address page**
-21:06:37.163 [main] INFO  testCases.TC_007_UpdateAddress - **Again calling search page for the validation**
-21:07:07.226 [main] INFO  testCases.TC_007_UpdateAddress - ***Start of the test***
-21:07:07.228 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the home page**
-21:07:07.677 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the login page**
-21:07:08.657 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the search page**
-21:07:08.908 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the address page**
-21:07:09.586 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the add address page**
-21:07:10.792 [main] INFO  testCases.TC_007_UpdateAddress - **Again calling search page for the validation**
-21:08:22.452 [main] INFO  testCases.TC_007_UpdateAddress - ***Start of the test***
-21:08:22.454 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the home page**
-21:08:22.757 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the login page**
-21:08:22.911 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the search page**
-21:08:24.228 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the address page**
-21:08:25.161 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the add address page**
-21:08:26.315 [main] INFO  testCases.TC_007_UpdateAddress - **Again calling search page for the validation**
+10:24:42.534 [main] INFO  testCases.TC_007_UpdateAddress - ***Start of the test***
+10:24:42.537 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the home page**
+10:24:43.035 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the login page**
+10:24:44.270 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the search page**
+10:24:44.599 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the address page**
+10:24:45.534 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the add address page**
+10:24:47.566 [main] INFO  testCases.TC_007_UpdateAddress - **Again calling search page for the validation**
+10:24:47.639 [main] INFO  testCases.TC_007_UpdateAddress - ***Start of the test***
+10:24:47.639 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the home page**
+10:24:57.911 [main] INFO  testCases.TC_007_UpdateAddress - ***Start of the test***
+10:24:57.911 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the home page**
+10:25:08.130 [main] INFO  testCases.TC_007_UpdateAddress - ***Start of the test***
+10:25:08.138 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the home page**
+10:25:18.252 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the login page**
+10:25:18.507 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the search page**
+10:25:19.931 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the address page**
+10:25:20.396 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the add address page**
+10:25:22.248 [main] INFO  testCases.TC_007_UpdateAddress - **Again calling search page for the validation**
+10:55:40.164 [main] INFO  testCases.TC_007_UpdateAddress - ***Start of the test***
+10:55:40.167 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the home page**
+10:55:40.662 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the login page**
+10:55:41.978 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the search page**
+10:55:42.303 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the address page**
+10:55:43.232 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the add address page**
+10:55:45.104 [main] INFO  testCases.TC_007_UpdateAddress - **Again calling search page for the validation**
+10:55:45.215 [main] INFO  testCases.TC_007_UpdateAddress - ***Start of the test***
+10:55:45.216 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the home page**
+10:55:55.478 [main] INFO  testCases.TC_007_UpdateAddress - ***Start of the test***
+10:55:55.478 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the home page**
+10:56:02.756 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the login page**
+10:56:04.046 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the search page**
+10:56:04.458 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the address page**
+10:56:04.870 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the add address page**
+10:56:06.886 [main] INFO  testCases.TC_007_UpdateAddress - **Again calling search page for the validation**
+10:56:06.907 [main] INFO  testCases.TC_007_UpdateAddress - ***Start of the test***
+10:56:06.907 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the home page**
+11:08:21.070 [main] INFO  testCases.TC_007_UpdateAddress - ***Start of the test***
+11:08:21.072 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the home page**
+11:08:21.594 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the login page**
+11:08:21.850 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the search page**
+11:08:23.234 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the address page**
+11:08:24.164 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the add address page**
+11:08:26.090 [main] INFO  testCases.TC_007_UpdateAddress - **Again calling search page for the validation**
+11:08:26.137 [main] INFO  testCases.TC_007_UpdateAddress - **Again calling search page object**
+11:08:26.819 [main] INFO  testCases.TC_007_UpdateAddress - ***Start of the test***
+11:08:26.819 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the home page**
+11:08:27.210 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the login page**
+11:08:28.348 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the search page**
+11:08:28.668 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the address page**
+11:08:29.098 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the add address page**
+11:08:30.911 [main] INFO  testCases.TC_007_UpdateAddress - **Again calling search page for the validation**
+11:08:30.989 [main] INFO  testCases.TC_007_UpdateAddress - **Again calling search page object**
+11:08:31.530 [main] INFO  testCases.TC_007_UpdateAddress - ***Start of the test***
+11:08:31.530 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the home page**
+11:08:32.030 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the login page**
+11:08:33.471 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the search page**
+11:08:33.875 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the address page**
+11:08:34.306 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the add address page**
+11:08:35.497 [main] INFO  testCases.TC_007_UpdateAddress - **Again calling search page for the validation**
+11:08:36.064 [main] INFO  testCases.TC_007_UpdateAddress - **Again calling search page object**
+11:08:36.748 [main] INFO  testCases.TC_007_UpdateAddress - ***Start of the test***
+11:08:36.749 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the home page**
+11:08:37.257 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the login page**
+11:08:38.601 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the search page**
+11:08:39.006 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the address page**
+11:08:39.371 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the add address page**
+11:08:41.019 [main] INFO  testCases.TC_007_UpdateAddress - **Again calling search page for the validation**
+11:08:41.091 [main] INFO  testCases.TC_007_UpdateAddress - **Again calling search page object**
