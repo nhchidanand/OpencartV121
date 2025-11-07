@@ -18,9 +18,9 @@ public class JSONUtility {
 	{
 	File file = new File(path);
 	String jsonContent = FileUtils.readFileToString(file, StandardCharsets.UTF_8);
-	ObjectMapper mapper =  new ObjectMapper();
 	List<HashMap<String, String>> data = new ArrayList<HashMap<String, String>>();  
-	TypeReference<List<HashMap<String, String>>> typeRef = new TypeReference<List<HashMap<String, String>>>(){};  
+	TypeReference<List<HashMap<String, String>>> typeRef = new TypeReference<List<HashMap<String, String>>>(){};
+	ObjectMapper mapper =  new ObjectMapper();
 	data = mapper.readValue(jsonContent, typeRef);
 	return data;
 	}
