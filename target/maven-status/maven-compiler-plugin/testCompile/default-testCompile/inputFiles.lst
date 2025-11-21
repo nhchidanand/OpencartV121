@@ -1,6 +1,9 @@
 D:\Work\AutomationTesting\OpencartV121\src\test\java\utilities\DataProviders.java
+D:\Work\AutomationTesting\OpencartV121\src\test\java\testCases\TC_009_EditAccount.java
+D:\Work\AutomationTesting\OpencartV121\src\test\java\testCases\TC_010_ChangePassword.java
 D:\Work\AutomationTesting\OpencartV121\src\test\java\testCases\TC_001_AccountRegistrationTest.java
 D:\Work\AutomationTesting\OpencartV121\src\test\java\basePage\BasePage.java
+D:\Work\AutomationTesting\OpencartV121\src\test\java\pageObjects\MyAccountInformation.java
 D:\Work\AutomationTesting\OpencartV121\src\test\java\pageObjects\SearchPage.java
 D:\Work\AutomationTesting\OpencartV121\src\test\java\pageObjects\AddressPage.java
 D:\Work\AutomationTesting\OpencartV121\src\test\java\pageObjects\AddAddressPage.java
@@ -14,6 +17,7 @@ D:\Work\AutomationTesting\OpencartV121\src\test\java\pageObjects\RegistrationPag
 D:\Work\AutomationTesting\OpencartV121\src\test\java\pageObjects\MyAccount.java
 D:\Work\AutomationTesting\OpencartV121\src\test\java\utilities\ExcelUtility.java
 D:\Work\AutomationTesting\OpencartV121\src\test\java\testCases\TC_004_LogoutTest.java
+D:\Work\AutomationTesting\OpencartV121\src\test\java\pageObjects\ChangePasswordPage.java
 D:\Work\AutomationTesting\OpencartV121\src\test\java\testCases\TC_002_LoginTest.java
 D:\Work\AutomationTesting\OpencartV121\src\test\java\testCases\TC_003_LoginDDT.java
 D:\Work\AutomationTesting\OpencartV121\src\test\java\pageObjects\AddToCartPage.java

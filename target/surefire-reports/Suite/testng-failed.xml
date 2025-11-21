@@ -8,13 +8,13 @@
     <parameter name="OS" value="Windows"/>
     <parameter name="Browser" value="Chrome"/>
     <classes>
-      <class name="testCases.TC_008_UpdateAddress">
+      <class name="testCases.TC_010_ChangePassword">
         <methods>
-          <include name="UpdateAddress"/>
           <include name="tearDown"/>
+          <include name="changePassword"/>
           <include name="setUp"/>
         </methods>
-      </class> <!-- testCases.TC_008_UpdateAddress -->
+      </class> <!-- testCases.TC_010_ChangePassword -->
     </classes>
   </test> <!-- EdgeTest(failed) -->
 </suite> <!-- Failed suite [Suite] -->

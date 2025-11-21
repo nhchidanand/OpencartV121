@@ -1,0 +1,97 @@
+00:34:05.318 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Work\AutomationTesting\OpencartV121\master.xml
+
+00:35:52.540 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+00:35:52.546 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+00:35:52.548 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+00:35:52.548 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+00:35:52.549 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+00:35:52.549 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+00:35:52.556 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+00:35:52.556 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+00:35:52.564 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms.
+00:35:52.573 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 9 ms.
+00:35:52.575 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+00:35:52.575 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+00:35:52.576 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+00:35:52.576 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+00:35:52.577 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+00:35:52.577 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+00:35:52.579 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+00:35:52.579 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+00:35:52.580 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+00:35:52.580 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+00:35:52.583 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+00:35:52.583 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+00:35:52.583 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+00:35:52.583 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+00:35:52.584 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+00:35:52.585 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+00:35:52.586 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+00:35:52.586 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+00:35:52.586 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+00:35:52.586 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+00:35:52.593 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\CHIDANAND N H\AppData\Local\Temp\testng-eclipse--701554052\testng-customsuite.xml
+
+00:35:52.611 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+00:35:52.796 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@16ecee1: 63 ms
+00:35:52.813 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@4721d212: 16 ms
+00:35:52.823 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@1e1d3956: 10 ms
+00:35:52.832 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@1623134f: 8 ms
+00:35:52.840 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@5ad10c1a: 8 ms
+00:35:52.841 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@6bb75258: 0 ms
+00:36:20.340 [main] INFO  testCases.TC_009_EditAccount - **Navigating to Home Page**
+00:36:20.823 [main] INFO  testCases.TC_009_EditAccount - **Navigating to Login Page**
+00:36:21.049 [main] INFO  testCases.TC_009_EditAccount - **Navigatting to Search Page**
+00:37:33.380 [main] INFO  testCases.TC_009_EditAccount - **Navigating to Home Page**
+00:37:33.933 [main] INFO  testCases.TC_009_EditAccount - **Navigating to Login Page**
+00:37:35.052 [main] INFO  testCases.TC_009_EditAccount - **Navigatting to Search Page**
+00:37:35.775 [main] INFO  testCases.TC_009_EditAccount - **Navigating through My Account Information page**
+00:37:36.971 [main] INFO  testCases.TC_009_EditAccount - **Again looping through Search Page**
+18:44:57.166 [main] INFO  testCases.TC_009_EditAccount - **Navigating to Home Page**
+18:44:57.695 [main] INFO  testCases.TC_009_EditAccount - **Navigating to Login Page**
+18:44:58.848 [main] INFO  testCases.TC_009_EditAccount - **Navigatting to Search Page**
+18:44:59.986 [main] INFO  testCases.TC_009_EditAccount - **Navigating through My Account Information page**
+18:45:00.929 [main] INFO  testCases.TC_009_EditAccount - **Again looping through Search Page**
+23:06:52.974 [main] INFO  testCases.TC_010_ChangePassword - **Opening the homepage**
+23:06:53.625 [main] INFO  testCases.TC_010_ChangePassword - **Opening the Login page**
+23:06:53.925 [main] INFO  testCases.TC_010_ChangePassword - **Opening the Search page**
+23:06:55.041 [main] INFO  testCases.TC_010_ChangePassword - **Opening the ChangePasswordPage**
+23:06:55.308 [main] INFO  testCases.TC_010_ChangePassword - **Again navigating through Search Page**
+23:11:17.725 [main] INFO  testCases.TC_010_ChangePassword - **Opening the homepage**
+23:11:18.209 [main] INFO  testCases.TC_010_ChangePassword - **Opening the Login page**
+23:11:18.509 [main] INFO  testCases.TC_010_ChangePassword - **Opening the Search page**
+23:11:19.641 [main] INFO  testCases.TC_010_ChangePassword - **Opening the ChangePasswordPage**
+23:11:21.000 [main] INFO  testCases.TC_010_ChangePassword - **Again navigating through Search Page**
+23:13:18.997 [main] INFO  testCases.TC_010_ChangePassword - **Opening the homepage**
+23:13:19.449 [main] INFO  testCases.TC_010_ChangePassword - **Opening the Login page**
+23:13:19.700 [main] INFO  testCases.TC_010_ChangePassword - **Opening the Search page**
+23:13:21.192 [main] INFO  testCases.TC_010_ChangePassword - **Opening the ChangePasswordPage**
+23:13:22.547 [main] INFO  testCases.TC_010_ChangePassword - **Again navigating through Search Page**
+15:26:16.392 [main] INFO  testCases.TC_002_LoginTest - *** Start of the Login test ***
+15:26:16.392 [main] INFO  testCases.TC_002_LoginTest - **Navigating to home page**
+15:26:16.412 [main] INFO  testCases.TC_002_LoginTest - **Clicking on my account link**
+15:26:16.523 [main] INFO  testCases.TC_002_LoginTest - **Clicking on my login link**
+15:26:16.821 [main] INFO  testCases.TC_002_LoginTest - **Navigating to email login page**
+15:26:17.759 [main] INFO  testCases.TC_002_LoginTest - **Navigating to My Account page**
+15:30:49.418 [main] INFO  testCases.TC_002_LoginTest - *** Start of the Login test ***
+15:30:49.421 [main] INFO  testCases.TC_002_LoginTest - **Navigating to home page**
+15:30:49.440 [main] INFO  testCases.TC_002_LoginTest - **Clicking on my account link**
+15:30:49.516 [main] INFO  testCases.TC_002_LoginTest - **Clicking on my login link**
+15:30:49.795 [main] INFO  testCases.TC_002_LoginTest - **Navigating to email login page**
+15:30:49.985 [main] INFO  testCases.TC_002_LoginTest - **Navigating to My Account page**
+15:32:56.874 [main] INFO  testCases.TC_002_LoginTest - *** Start of the Login test ***
+15:32:56.881 [main] INFO  testCases.TC_002_LoginTest - **Navigating to home page**
+15:32:56.900 [main] INFO  testCases.TC_002_LoginTest - **Clicking on my account link**
+15:32:56.973 [main] INFO  testCases.TC_002_LoginTest - **Clicking on my login link**
+15:32:57.300 [main] INFO  testCases.TC_002_LoginTest - **Navigating to email login page**
+15:32:57.512 [main] INFO  testCases.TC_002_LoginTest - **Navigating to My Account page**
+15:46:39.316 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Work\AutomationTesting\OpencartV121\master.xml
+
+15:46:42.331 [main] INFO  testCases.TC_010_ChangePassword - **Opening the homepage**
+15:46:42.796 [main] INFO  testCases.TC_010_ChangePassword - **Opening the Login page**
+15:46:42.964 [main] INFO  testCases.TC_010_ChangePassword - **Opening the Search page**
+15:46:44.003 [main] INFO  testCases.TC_010_ChangePassword - **Opening the ChangePasswordPage**
+15:46:45.220 [main] INFO  testCases.TC_010_ChangePassword - **Again navigating through Search Page**

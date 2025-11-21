@@ -14,16 +14,28 @@ public class SearchPage extends BasePage{
 
 	
 	@FindBy(xpath="//div[@class='caption']//a[contains(text(),'iPhone')]")
-	WebElement clkIphone;
+	private WebElement clkIphone;
 	
 	@FindBy(xpath="//a[contains(text(), \"Modify your address\")]")
-	WebElement addressModify;
+	private WebElement addressModify;
 	
 	@FindBy(xpath="//div[contains(text(), 'successfully')]")
-	WebElement addressSuccessfullmsg;
+	private WebElement addressSuccessfullmsg;
 	
 	@FindBy(xpath="//a[@class='list-group-item'][normalize-space()='Logout']")
-	WebElement clkLogout;
+	private WebElement clkLogout;
+	
+	@FindBy(xpath="//a[text()='Edit Account']")
+	private WebElement editAccount;
+	
+	@FindBy(xpath="//div[text()='Success: Your account has been successfully updated.']")
+	private WebElement accountUpdateSuccessfulmsg;
+	
+	@FindBy(xpath="//a[text()='Password']")
+	private WebElement password;
+	
+	@FindBy(xpath="//div[text()='Success: Your password has been successfully updated.']")
+	WebElement passwordChangeSuccessfulmsg;
 	
 	
 	public void clickIphone()
@@ -31,18 +43,43 @@ public class SearchPage extends BasePage{
 		clkIphone.click();
 	}
 	
+	
 	public void clickAddreddModify()
 	{
 		addressModify.click();
 	}
+	
 	
 	public void AddressSuccessfullMessageCheck()
 	{
 		Assert.assertEquals(addressSuccessfullmsg.getText(), "Your address has been successfully added", "Address updated successfully");
 	}
 	
+	
+	public void EditAccount()
+	{
+		editAccount.click();
+	}
+	
+	
 	public void Logout()
 	{
 		clkLogout.click();
+	}
+	
+	public void AccountSuccessfullMessageCheck()
+	{
+		Assert.assertEquals(accountUpdateSuccessfulmsg.getText(), "Success: Your account has been successfully updated.");
+	}
+	
+	public void ChangePassword()
+	{
+		password.click();
+	}
+	
+	
+	public void PasswordChangeSuccessfulMessage()
+	{
+		Assert.assertEquals(passwordChangeSuccessfulmsg.getText(), "Success: Your password has been successfully updated.");
 	}
 }
