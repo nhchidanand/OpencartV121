@@ -1,37 +1,97 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="0" failed="0" skipped="1">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-11-21T15:46:39 IST" name="Suite" finished-at="2025-11-21T15:46:45 IST" duration-ms="6071">
+  <suite started-at="2025-12-01T11:18:58 IST" name="Default suite" finished-at="2025-12-01T11:18:58 IST" duration-ms="43">
     <groups>
     </groups>
-    <test started-at="2025-11-21T15:46:39 IST" name="EdgeTest" finished-at="2025-11-21T15:46:45 IST" duration-ms="6071">
-      <class name="testCases.TC_010_ChangePassword">
-        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_010_ChangePassword@628c4ac0]" started-at="2025-11-21T15:46:39 IST" name="setUp" finished-at="2025-11-21T15:46:42 IST" duration-ms="2851" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[Windows]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[Chrome]]>
-              </value>
-            </param>
-          </params>
+    <test started-at="2025-12-01T11:18:58 IST" name="Default test" finished-at="2025-12-01T11:18:58 IST" duration-ms="43">
+      <class name="testCases.TC_011_LoginDB">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_011_LoginDB@5a9d6f02]" started-at="2025-12-01T11:18:58 IST" name="setUp" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1764568138064" status="FAIL">
+          <exception class="org.testng.TestNGException">
+            <message>
+              <![CDATA[
+Parameter 'OS' is required by BeforeClass on method setUp but has not been marked @Optional or defined
+in C:\Users\CHIDANAND N H\AppData\Local\Temp\testng-eclipse-337163349\testng-customsuite.xml]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.TestNGException: 
+Parameter 'OS' is required by BeforeClass on method setUp but has not been marked @Optional or defined
+in C:\Users\CHIDANAND N H\AppData\Local\Temp\testng-eclipse-337163349\testng-customsuite.xml
+at org.testng.internal.Parameters.createParams(Parameters.java:264)
+at org.testng.internal.Parameters.createParametersForMethod(Parameters.java:352)
+at org.testng.internal.Parameters.createParameters(Parameters.java:690)
+at org.testng.internal.Parameters.createConfigurationParameters(Parameters.java:163)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:313)
+at org.testng.internal.invokers.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:188)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.TestNGException -->
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="changePassword()[pri:0, instance:testCases.TC_010_ChangePassword@628c4ac0]" started-at="2025-11-21T15:46:42 IST" name="changePassword" finished-at="2025-11-21T15:46:45 IST" duration-ms="2926" status="PASS">
+        <test-method signature="loginDataBase()[pri:0, instance:testCases.TC_011_LoginDB@5a9d6f02]" started-at="2025-12-01T11:18:58 IST" name="loginDataBase" finished-at="2025-12-01T11:18:58 IST" duration-ms="0" status="SKIP">
+          <exception class="org.testng.TestNGException">
+            <message>
+              <![CDATA[
+Parameter 'OS' is required by BeforeClass on method setUp but has not been marked @Optional or defined
+in C:\Users\CHIDANAND N H\AppData\Local\Temp\testng-eclipse-337163349\testng-customsuite.xml]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.TestNGException: 
+Parameter 'OS' is required by BeforeClass on method setUp but has not been marked @Optional or defined
+in C:\Users\CHIDANAND N H\AppData\Local\Temp\testng-eclipse-337163349\testng-customsuite.xml
+at org.testng.internal.Parameters.createParams(Parameters.java:264)
+at org.testng.internal.Parameters.createParametersForMethod(Parameters.java:352)
+at org.testng.internal.Parameters.createParameters(Parameters.java:690)
+at org.testng.internal.Parameters.createConfigurationParameters(Parameters.java:163)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:313)
+at org.testng.internal.invokers.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:188)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.TestNGException -->
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- changePassword -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_010_ChangePassword@628c4ac0]" started-at="2025-11-21T15:46:45 IST" name="tearDown" finished-at="2025-11-21T15:46:45 IST" duration-ms="138" status="PASS">
+        </test-method> <!-- loginDataBase -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_011_LoginDB@5a9d6f02]" started-at="2025-12-01T11:18:58 IST" name="tearDown" finished-at="2025-12-01T11:18:58 IST" duration-ms="0" status="SKIP">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- testCases.TC_010_ChangePassword -->
-    </test> <!-- EdgeTest -->
-  </suite> <!-- Suite -->
+      </class> <!-- testCases.TC_011_LoginDB -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>

@@ -17,7 +17,8 @@
       <!--<class name="testCases.TC_005_SearchIphoneTest"/>-->
       <!--<class name="testCases.TC_008_UpdateAddress"/>-->
       <!--<class name="testCases.TC_009_EditAccount"/>-->
-      <class name="testCases.TC_010_ChangePassword"/>
+      <!--<class name="testCases.TC_010_ChangePassword"/>-->
+      <class name="testCases.TC_011_LoginDB"/>
     </classes>
   </test>
    

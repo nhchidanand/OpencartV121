@@ -17,6 +17,7 @@ D:\Work\AutomationTesting\OpencartV121\src\test\java\pageObjects\RegistrationPag
 D:\Work\AutomationTesting\OpencartV121\src\test\java\pageObjects\MyAccount.java
 D:\Work\AutomationTesting\OpencartV121\src\test\java\utilities\ExcelUtility.java
 D:\Work\AutomationTesting\OpencartV121\src\test\java\testCases\TC_004_LogoutTest.java
+D:\Work\AutomationTesting\OpencartV121\src\test\java\testCases\TC_011_LoginDB.java
 D:\Work\AutomationTesting\OpencartV121\src\test\java\pageObjects\ChangePasswordPage.java
 D:\Work\AutomationTesting\OpencartV121\src\test\java\testCases\TC_002_LoginTest.java
 D:\Work\AutomationTesting\OpencartV121\src\test\java\testCases\TC_003_LoginDDT.java

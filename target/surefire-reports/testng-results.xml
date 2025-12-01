@@ -2,18 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-11-21T15:32:54 IST" name="Suite" finished-at="2025-11-21T15:32:58 IST" duration-ms="4265">
+  <suite started-at="2025-12-01T11:29:29 IST" name="Suite" finished-at="2025-12-01T11:29:36 IST" duration-ms="7656">
     <groups>
-      <group name="Master">
-        <method signature="TC_002_LoginTest.Login_test()[pri:0, instance:testCases.TC_002_LoginTest@403f0a22]" name="Login_test" class="testCases.TC_002_LoginTest"/>
-      </group> <!-- Master -->
-      <group name="Regression">
-        <method signature="TC_002_LoginTest.Login_test()[pri:0, instance:testCases.TC_002_LoginTest@403f0a22]" name="Login_test" class="testCases.TC_002_LoginTest"/>
-      </group> <!-- Regression -->
     </groups>
-    <test started-at="2025-11-21T15:32:54 IST" name="EdgeTest" finished-at="2025-11-21T15:32:58 IST" duration-ms="4265">
-      <class name="testCases.TC_002_LoginTest">
-        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_002_LoginTest@403f0a22]" started-at="2025-11-21T15:32:54 IST" name="setUp" finished-at="2025-11-21T15:32:56 IST" duration-ms="2546" status="PASS">
+    <test started-at="2025-12-01T11:29:29 IST" name="EdgeTest" finished-at="2025-12-01T11:29:36 IST" duration-ms="7656">
+      <class name="testCases.TC_011_LoginDB">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_011_LoginDB@5143c662]" started-at="2025-12-01T11:29:29 IST" name="setUp" finished-at="2025-12-01T11:29:31 IST" duration-ms="2565" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -29,15 +23,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="Login_test()[pri:0, instance:testCases.TC_002_LoginTest@403f0a22]" started-at="2025-11-21T15:32:56 IST" name="Login_test" finished-at="2025-11-21T15:32:58 IST" duration-ms="1439" status="PASS">
+        <test-method signature="loginDataBase()[pri:0, instance:testCases.TC_011_LoginDB@5143c662]" started-at="2025-12-01T11:29:31 IST" name="loginDataBase" finished-at="2025-12-01T11:29:36 IST" duration-ms="4812" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Login_test -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_002_LoginTest@403f0a22]" started-at="2025-11-21T15:32:58 IST" name="tearDown" finished-at="2025-11-21T15:32:58 IST" duration-ms="146" status="PASS">
+        </test-method> <!-- loginDataBase -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_011_LoginDB@5143c662]" started-at="2025-12-01T11:29:36 IST" name="tearDown" finished-at="2025-12-01T11:29:36 IST" duration-ms="150" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- testCases.TC_002_LoginTest -->
+      </class> <!-- testCases.TC_011_LoginDB -->
     </test> <!-- EdgeTest -->
   </suite> <!-- Suite -->
 </testng-results>

@@ -1,97 +1,115 @@
-00:34:05.318 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  D:\Work\AutomationTesting\OpencartV121\master.xml
+09:47:30.442 [main] INFO  testCases.TC_011_LoginDB - **Calling the home page object**
+09:47:31.031 [main] INFO  testCases.TC_011_LoginDB - **Calling the login in page object**
+10:54:07.914 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:54:07.917 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+10:54:07.918 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:54:07.918 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:54:07.919 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:54:07.919 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:54:07.919 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:54:07.919 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:54:07.923 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+10:54:07.930 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+10:54:07.930 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:54:07.931 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:54:07.931 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:54:07.931 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:54:07.931 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:54:07.931 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:54:07.932 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:54:07.932 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:54:07.932 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:54:07.933 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:54:07.934 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:54:07.934 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:54:07.934 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:54:07.934 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:54:07.936 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+10:54:07.936 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:54:07.937 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:54:07.937 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:54:07.937 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:54:07.938 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:54:07.942 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\CHIDANAND N H\AppData\Local\Temp\testng-eclipse--403560361\testng-customsuite.xml
 
-00:35:52.540 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-00:35:52.546 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
-00:35:52.548 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-00:35:52.548 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-00:35:52.549 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-00:35:52.549 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-00:35:52.556 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-00:35:52.556 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-00:35:52.564 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms.
-00:35:52.573 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 9 ms.
-00:35:52.575 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-00:35:52.575 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-00:35:52.576 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-00:35:52.576 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-00:35:52.577 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-00:35:52.577 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-00:35:52.579 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-00:35:52.579 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-00:35:52.580 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-00:35:52.580 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-00:35:52.583 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-00:35:52.583 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-00:35:52.583 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-00:35:52.583 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-00:35:52.584 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-00:35:52.585 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-00:35:52.586 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-00:35:52.586 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-00:35:52.586 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-00:35:52.586 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-00:35:52.593 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\CHIDANAND N H\AppData\Local\Temp\testng-eclipse--701554052\testng-customsuite.xml
+10:54:07.953 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 1 ms.
+10:54:08.061 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@3dddefd8: 37 ms
+10:54:08.071 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@4bff1903: 10 ms
+10:54:08.078 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@24d4d7c9: 6 ms
+10:54:08.084 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@2b43529a: 6 ms
+10:54:08.088 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@2783717b: 4 ms
+10:54:08.089 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@76f7d241: 0 ms
+10:54:32.787 [main] INFO  testCases.TC_011_LoginDB - **Calling the home page object**
+10:54:33.261 [main] INFO  testCases.TC_011_LoginDB - **Calling the login in page object**
+10:54:34.576 [main] INFO  testCases.TC_011_LoginDB - **Calling the database method from base class**
+10:55:59.625 [main] INFO  testCases.TC_011_LoginDB - **Calling the home page object**
+10:55:59.988 [main] INFO  testCases.TC_011_LoginDB - **Calling the login in page object**
+10:56:00.189 [main] INFO  testCases.TC_011_LoginDB - **Calling the database method from base class**
+10:56:24.529 [main] INFO  testCases.TC_011_LoginDB - **Calling the home page object**
+10:56:24.978 [main] INFO  testCases.TC_011_LoginDB - **Calling the login in page object**
+10:56:25.160 [main] INFO  testCases.TC_011_LoginDB - **Calling the database method from base class**
+10:58:28.814 [main] INFO  testCases.TC_011_LoginDB - **Calling the home page object**
+10:58:29.152 [main] INFO  testCases.TC_011_LoginDB - **Calling the login in page object**
+10:58:29.348 [main] INFO  testCases.TC_011_LoginDB - **Calling the database method from base class**
+10:59:03.776 [main] INFO  testCases.TC_011_LoginDB - **Calling the home page object**
+10:59:04.111 [main] INFO  testCases.TC_011_LoginDB - **Calling the login in page object**
+10:59:04.298 [main] INFO  testCases.TC_011_LoginDB - **Calling the database method from base class**
+11:18:58.018 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:18:58.021 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:18:58.021 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:18:58.021 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:18:58.023 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:18:58.023 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:18:58.023 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:18:58.023 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:18:58.026 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+11:18:58.033 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+11:18:58.034 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:18:58.034 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:18:58.034 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:18:58.034 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:18:58.034 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:18:58.034 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:18:58.036 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:18:58.036 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:18:58.036 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:18:58.036 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:18:58.038 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:18:58.038 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:18:58.038 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:18:58.038 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:18:58.039 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:18:58.039 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:18:58.040 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:18:58.040 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:18:58.040 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+11:18:58.040 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+11:18:58.045 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\CHIDANAND N H\AppData\Local\Temp\testng-eclipse-337163349\testng-customsuite.xml
 
-00:35:52.611 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
-00:35:52.796 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@16ecee1: 63 ms
-00:35:52.813 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@4721d212: 16 ms
-00:35:52.823 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@1e1d3956: 10 ms
-00:35:52.832 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@1623134f: 8 ms
-00:35:52.840 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@5ad10c1a: 8 ms
-00:35:52.841 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@6bb75258: 0 ms
-00:36:20.340 [main] INFO  testCases.TC_009_EditAccount - **Navigating to Home Page**
-00:36:20.823 [main] INFO  testCases.TC_009_EditAccount - **Navigating to Login Page**
-00:36:21.049 [main] INFO  testCases.TC_009_EditAccount - **Navigatting to Search Page**
-00:37:33.380 [main] INFO  testCases.TC_009_EditAccount - **Navigating to Home Page**
-00:37:33.933 [main] INFO  testCases.TC_009_EditAccount - **Navigating to Login Page**
-00:37:35.052 [main] INFO  testCases.TC_009_EditAccount - **Navigatting to Search Page**
-00:37:35.775 [main] INFO  testCases.TC_009_EditAccount - **Navigating through My Account Information page**
-00:37:36.971 [main] INFO  testCases.TC_009_EditAccount - **Again looping through Search Page**
-18:44:57.166 [main] INFO  testCases.TC_009_EditAccount - **Navigating to Home Page**
-18:44:57.695 [main] INFO  testCases.TC_009_EditAccount - **Navigating to Login Page**
-18:44:58.848 [main] INFO  testCases.TC_009_EditAccount - **Navigatting to Search Page**
-18:44:59.986 [main] INFO  testCases.TC_009_EditAccount - **Navigating through My Account Information page**
-18:45:00.929 [main] INFO  testCases.TC_009_EditAccount - **Again looping through Search Page**
-23:06:52.974 [main] INFO  testCases.TC_010_ChangePassword - **Opening the homepage**
-23:06:53.625 [main] INFO  testCases.TC_010_ChangePassword - **Opening the Login page**
-23:06:53.925 [main] INFO  testCases.TC_010_ChangePassword - **Opening the Search page**
-23:06:55.041 [main] INFO  testCases.TC_010_ChangePassword - **Opening the ChangePasswordPage**
-23:06:55.308 [main] INFO  testCases.TC_010_ChangePassword - **Again navigating through Search Page**
-23:11:17.725 [main] INFO  testCases.TC_010_ChangePassword - **Opening the homepage**
-23:11:18.209 [main] INFO  testCases.TC_010_ChangePassword - **Opening the Login page**
-23:11:18.509 [main] INFO  testCases.TC_010_ChangePassword - **Opening the Search page**
-23:11:19.641 [main] INFO  testCases.TC_010_ChangePassword - **Opening the ChangePasswordPage**
-23:11:21.000 [main] INFO  testCases.TC_010_ChangePassword - **Again navigating through Search Page**
-23:13:18.997 [main] INFO  testCases.TC_010_ChangePassword - **Opening the homepage**
-23:13:19.449 [main] INFO  testCases.TC_010_ChangePassword - **Opening the Login page**
-23:13:19.700 [main] INFO  testCases.TC_010_ChangePassword - **Opening the Search page**
-23:13:21.192 [main] INFO  testCases.TC_010_ChangePassword - **Opening the ChangePasswordPage**
-23:13:22.547 [main] INFO  testCases.TC_010_ChangePassword - **Again navigating through Search Page**
-15:26:16.392 [main] INFO  testCases.TC_002_LoginTest - *** Start of the Login test ***
-15:26:16.392 [main] INFO  testCases.TC_002_LoginTest - **Navigating to home page**
-15:26:16.412 [main] INFO  testCases.TC_002_LoginTest - **Clicking on my account link**
-15:26:16.523 [main] INFO  testCases.TC_002_LoginTest - **Clicking on my login link**
-15:26:16.821 [main] INFO  testCases.TC_002_LoginTest - **Navigating to email login page**
-15:26:17.759 [main] INFO  testCases.TC_002_LoginTest - **Navigating to My Account page**
-15:30:49.418 [main] INFO  testCases.TC_002_LoginTest - *** Start of the Login test ***
-15:30:49.421 [main] INFO  testCases.TC_002_LoginTest - **Navigating to home page**
-15:30:49.440 [main] INFO  testCases.TC_002_LoginTest - **Clicking on my account link**
-15:30:49.516 [main] INFO  testCases.TC_002_LoginTest - **Clicking on my login link**
-15:30:49.795 [main] INFO  testCases.TC_002_LoginTest - **Navigating to email login page**
-15:30:49.985 [main] INFO  testCases.TC_002_LoginTest - **Navigating to My Account page**
-15:32:56.874 [main] INFO  testCases.TC_002_LoginTest - *** Start of the Login test ***
-15:32:56.881 [main] INFO  testCases.TC_002_LoginTest - **Navigating to home page**
-15:32:56.900 [main] INFO  testCases.TC_002_LoginTest - **Clicking on my account link**
-15:32:56.973 [main] INFO  testCases.TC_002_LoginTest - **Clicking on my login link**
-15:32:57.300 [main] INFO  testCases.TC_002_LoginTest - **Navigating to email login page**
-15:32:57.512 [main] INFO  testCases.TC_002_LoginTest - **Navigating to My Account page**
-15:46:39.316 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  D:\Work\AutomationTesting\OpencartV121\master.xml
-
-15:46:42.331 [main] INFO  testCases.TC_010_ChangePassword - **Opening the homepage**
-15:46:42.796 [main] INFO  testCases.TC_010_ChangePassword - **Opening the Login page**
-15:46:42.964 [main] INFO  testCases.TC_010_ChangePassword - **Opening the Search page**
-15:46:44.003 [main] INFO  testCases.TC_010_ChangePassword - **Opening the ChangePasswordPage**
-15:46:45.220 [main] INFO  testCases.TC_010_ChangePassword - **Again navigating through Search Page**
+11:18:58.056 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 1 ms.
+11:18:58.164 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@3dddefd8: 38 ms
+11:18:58.174 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@4bff1903: 9 ms
+11:18:58.181 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@24d4d7c9: 7 ms
+11:18:58.187 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@2b43529a: 6 ms
+11:18:58.191 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@2783717b: 4 ms
+11:18:58.192 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@76f7d241: 0 ms
+11:24:04.929 [main] INFO  testCases.TC_011_LoginDB - **Calling the home page object**
+11:24:05.380 [main] INFO  testCases.TC_011_LoginDB - **Calling the database method from base class**
+11:24:05.765 [main] INFO  testCases.TC_011_LoginDB - **Calling the login in page object**
+11:26:06.170 [main] INFO  testCases.TC_011_LoginDB - **Calling the home page object**
+11:26:06.518 [main] INFO  testCases.TC_011_LoginDB - **Calling the database method from base class**
+11:26:06.884 [main] INFO  testCases.TC_011_LoginDB - **Calling the login in page object**
+11:27:13.959 [main] INFO  testCases.TC_011_LoginDB - **Calling the home page object**
+11:27:14.357 [main] INFO  testCases.TC_011_LoginDB - **Calling the database method from base class**
+11:27:14.749 [main] INFO  testCases.TC_011_LoginDB - **Calling the login in page object**
+11:28:20.357 [main] INFO  testCases.TC_011_LoginDB - **Calling the home page object**
+11:28:20.719 [main] INFO  testCases.TC_011_LoginDB - **Calling the database method from base class**
+11:28:21.109 [main] INFO  testCases.TC_011_LoginDB - **Calling the login in page object**
+11:28:47.375 [main] INFO  testCases.TC_011_LoginDB - **Calling the home page object**
+11:28:47.711 [main] INFO  testCases.TC_011_LoginDB - **Calling the database method from base class**
+11:28:48.098 [main] INFO  testCases.TC_011_LoginDB - **Calling the login in page object**
+11:29:31.870 [main] INFO  testCases.TC_011_LoginDB - **Calling the home page object**
+11:29:32.237 [main] INFO  testCases.TC_011_LoginDB - **Calling the database method from base class**
+11:29:32.595 [main] INFO  testCases.TC_011_LoginDB - **Calling the login in page object**

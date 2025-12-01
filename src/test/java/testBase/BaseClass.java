@@ -4,9 +4,15 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.net.URL;
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.sql.Statement;
 import java.text.SimpleDateFormat;
 import java.time.Duration;
 import java.util.Date;
+import java.util.HashMap;
 import java.util.Properties;
 
 import org.apache.commons.lang3.RandomStringUtils;
@@ -105,7 +111,6 @@ public Properties property;
 	}
 	
 	
-	
 	public String randomStringValue_1()
 	{
 		return (RandomStringUtils.randomAlphabetic(5));
@@ -136,5 +141,23 @@ public Properties property;
 		File targetFile = new File(targetFilePath);
 		sourceFile.renameTo(targetFile);
 		return targetFilePath;
+	}
+	
+	
+	public HashMap<String, String> DataBaseConnection() throws SQLException
+	{
+		HashMap<String, String> data = new HashMap<>();
+		String host = "localhost";
+		String port = "3306";
+		String database = "opencart";
+		Connection con = DriverManager.getConnection("jdbc:mysql://"+host+":"+port+"/"+database+"", "root", "root");
+		Statement st = con.createStatement();
+		ResultSet re = st.executeQuery("select * from customer where email = 'cnh1@email.com';");
+		while(re.next())
+		{
+			data.put("email", re.getString("email"));
+			data.put("password", re.getString("password"));
+		}
+		return data;
 	}
 }

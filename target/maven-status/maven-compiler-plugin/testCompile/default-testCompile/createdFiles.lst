@@ -19,6 +19,7 @@ pageObjects\CheckOutPage.class
 utilities\ExtentReportUtility.class
 testCases\TC_006_ValidateProductInWishlsit.class
 utilities\ExcelUtility.class
+testCases\TC_011_LoginDB.class
 pageObjects\WishlistPage.class
 pageObjects\AddressPage.class
 testCases\TC_010_ChangePassword.class
