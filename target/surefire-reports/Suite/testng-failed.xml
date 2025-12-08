@@ -8,13 +8,13 @@
     <parameter name="OS" value="Windows"/>
     <parameter name="Browser" value="Chrome"/>
     <classes>
-      <class name="testCases.TC_011_LoginDB">
+      <class name="testCases.TC_003_LoginDDT">
         <methods>
           <include name="tearDown"/>
-          <include name="loginDataBase"/>
+          <include name="Login_validation" invocation-numbers="3 4 5"/>
           <include name="setUp"/>
         </methods>
-      </class> <!-- testCases.TC_011_LoginDB -->
+      </class> <!-- testCases.TC_003_LoginDDT -->
     </classes>
   </test> <!-- EdgeTest(failed) -->
 </suite> <!-- Failed suite [Suite] -->

@@ -128,7 +128,7 @@ public Properties property;
 	
 	public String randomAlphaNumeric()
 	{
-		return (RandomStringUtils.randomAlphanumeric(8));
+		return (RandomStringUtils.randomAlphanumeric(15));
 	}
 	
 	

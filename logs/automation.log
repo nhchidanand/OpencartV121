@@ -113,3 +113,350 @@
 11:29:31.870 [main] INFO  testCases.TC_011_LoginDB - **Calling the home page object**
 11:29:32.237 [main] INFO  testCases.TC_011_LoginDB - **Calling the database method from base class**
 11:29:32.595 [main] INFO  testCases.TC_011_LoginDB - **Calling the login in page object**
+00:46:02.832 [main] INFO  testCases.TC_011_LoginDB - **Calling the home page object**
+00:46:03.329 [main] INFO  testCases.TC_011_LoginDB - **Calling the database method from base class**
+00:46:03.840 [main] INFO  testCases.TC_011_LoginDB - **Calling the login in page object**
+16:09:05.105 [main] INFO  testCases.TC_011_LoginDB - **Calling the home page object**
+16:09:05.561 [main] INFO  testCases.TC_011_LoginDB - **Calling the database method from base class**
+16:09:06.173 [main] INFO  testCases.TC_011_LoginDB - **Calling the login in page object**
+16:13:13.030 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:13:13.034 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+16:13:13.035 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:13:13.035 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:13:13.035 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:13:13.035 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:13:13.036 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:13:13.036 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:13:13.041 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+16:13:13.048 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+16:13:13.050 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:13:13.050 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:13:13.052 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:13:13.053 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:13:13.053 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:13:13.053 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:13:13.055 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:13:13.056 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:13:13.056 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:13:13.056 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:13:13.057 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:13:13.057 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:13:13.057 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:13:13.057 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:13:13.059 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:13:13.059 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:13:13.060 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:13:13.060 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:13:13.060 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:13:13.060 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:13:13.067 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\CHIDANAND N H\AppData\Local\Temp\testng-eclipse-1485145308\testng-customsuite.xml
+
+16:13:13.082 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+16:13:14.236 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@185f7840: 50 ms
+16:13:14.249 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@769a58e5: 13 ms
+16:13:14.258 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@1704f67f: 9 ms
+16:13:14.267 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@7c6442c2: 8 ms
+16:13:14.271 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@3015db78: 4 ms
+16:13:14.271 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@515ebef3: 0 ms
+16:20:58.261 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** This is the start of the test execution ***
+16:20:58.265 [main] INFO  testCases.TC_001_AccountRegistrationTest - This is the execution of the home page
+16:20:58.384 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on my account link
+16:20:58.996 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on registration link
+16:20:58.996 [main] INFO  testCases.TC_001_AccountRegistrationTest - This is the execution of registration page
+16:21:00.844 [main] INFO  testCases.TC_001_AccountRegistrationTest - this is the validation of the registration message
+16:21:00.881 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** This is the completion of the test execution ***
+16:34:52.453 [main] INFO  testCases.TC_003_LoginDDT - ***Start of the login validation test***
+16:34:52.457 [main] INFO  testCases.TC_003_LoginDDT - **invoking home page**
+16:34:53.032 [main] INFO  testCases.TC_003_LoginDDT - **invoking login page**
+16:34:55.384 [main] INFO  testCases.TC_003_LoginDDT - **invoking my accont page**
+16:34:56.814 [main] INFO  testCases.TC_003_LoginDDT - ***end of the login validation test***
+16:34:56.831 [main] INFO  testCases.TC_003_LoginDDT - ***Start of the login validation test***
+16:34:56.831 [main] INFO  testCases.TC_003_LoginDDT - **invoking home page**
+16:34:57.216 [main] INFO  testCases.TC_003_LoginDDT - **invoking login page**
+16:34:57.456 [main] INFO  testCases.TC_003_LoginDDT - **invoking my accont page**
+16:34:59.159 [main] INFO  testCases.TC_003_LoginDDT - ***end of the login validation test***
+16:34:59.161 [main] INFO  testCases.TC_003_LoginDDT - ***Start of the login validation test***
+16:34:59.163 [main] INFO  testCases.TC_003_LoginDDT - **invoking home page**
+16:34:59.672 [main] INFO  testCases.TC_003_LoginDDT - **invoking login page**
+16:34:59.912 [main] INFO  testCases.TC_003_LoginDDT - **invoking my accont page**
+16:35:04.397 [main] INFO  testCases.TC_003_LoginDDT - ***end of the login validation test***
+16:35:04.398 [main] INFO  testCases.TC_003_LoginDDT - ***Start of the login validation test***
+16:35:04.398 [main] INFO  testCases.TC_003_LoginDDT - **invoking home page**
+16:35:11.061 [main] INFO  testCases.TC_003_LoginDDT - **invoking login page**
+16:35:11.073 [main] INFO  testCases.TC_003_LoginDDT - ***end of the login validation test***
+16:35:11.103 [main] INFO  testCases.TC_003_LoginDDT - ***Start of the login validation test***
+16:35:11.104 [main] INFO  testCases.TC_003_LoginDDT - **invoking home page**
+16:35:11.120 [main] INFO  testCases.TC_003_LoginDDT - ***end of the login validation test***
+16:35:11.129 [main] INFO  testCases.TC_003_LoginDDT - ***Start of the login validation test***
+16:35:11.129 [main] INFO  testCases.TC_003_LoginDDT - **invoking home page**
+16:35:11.136 [main] INFO  testCases.TC_003_LoginDDT - ***end of the login validation test***
+16:35:31.771 [main] INFO  testCases.TC_003_LoginDDT - ***Start of the login validation test***
+16:35:31.775 [main] INFO  testCases.TC_003_LoginDDT - **invoking home page**
+16:35:32.546 [main] INFO  testCases.TC_003_LoginDDT - **invoking login page**
+16:35:33.674 [main] INFO  testCases.TC_003_LoginDDT - **invoking my accont page**
+16:35:34.181 [main] INFO  testCases.TC_003_LoginDDT - ***end of the login validation test***
+16:35:34.196 [main] INFO  testCases.TC_003_LoginDDT - ***Start of the login validation test***
+16:35:34.196 [main] INFO  testCases.TC_003_LoginDDT - **invoking home page**
+16:35:34.599 [main] INFO  testCases.TC_003_LoginDDT - **invoking login page**
+16:35:34.852 [main] INFO  testCases.TC_003_LoginDDT - **invoking my accont page**
+16:35:36.686 [main] INFO  testCases.TC_003_LoginDDT - ***end of the login validation test***
+16:35:36.689 [main] INFO  testCases.TC_003_LoginDDT - ***Start of the login validation test***
+16:35:36.689 [main] INFO  testCases.TC_003_LoginDDT - **invoking home page**
+16:35:37.160 [main] INFO  testCases.TC_003_LoginDDT - **invoking login page**
+16:35:37.466 [main] INFO  testCases.TC_003_LoginDDT - **invoking my accont page**
+16:35:48.810 [main] INFO  testCases.TC_003_LoginDDT - ***end of the login validation test***
+16:35:48.812 [main] INFO  testCases.TC_003_LoginDDT - ***Start of the login validation test***
+16:35:48.813 [main] INFO  testCases.TC_003_LoginDDT - **invoking home page**
+16:35:49.553 [main] INFO  testCases.TC_003_LoginDDT - **invoking login page**
+16:35:49.811 [main] INFO  testCases.TC_003_LoginDDT - **invoking my accont page**
+16:36:00.471 [main] INFO  testCases.TC_003_LoginDDT - ***end of the login validation test***
+16:36:00.473 [main] INFO  testCases.TC_003_LoginDDT - ***Start of the login validation test***
+16:36:00.473 [main] INFO  testCases.TC_003_LoginDDT - **invoking home page**
+16:36:00.897 [main] INFO  testCases.TC_003_LoginDDT - **invoking login page**
+16:36:02.155 [main] INFO  testCases.TC_003_LoginDDT - **invoking my accont page**
+16:36:12.196 [main] INFO  testCases.TC_003_LoginDDT - ***end of the login validation test***
+16:36:12.201 [main] INFO  testCases.TC_003_LoginDDT - ***Start of the login validation test***
+16:36:12.201 [main] INFO  testCases.TC_003_LoginDDT - **invoking home page**
+16:36:12.679 [main] INFO  testCases.TC_003_LoginDDT - **invoking login page**
+16:36:13.717 [main] INFO  testCases.TC_003_LoginDDT - **invoking my accont page**
+16:36:23.790 [main] INFO  testCases.TC_003_LoginDDT - ***end of the login validation test***
+18:02:36.888 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+18:02:36.894 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:02:36.895 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:02:36.895 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:02:36.897 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:02:36.897 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:02:36.898 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:02:36.898 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:02:36.906 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+18:02:36.917 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 11 ms.
+18:02:36.919 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:02:36.919 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:02:36.920 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:02:36.920 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:02:36.921 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:02:36.921 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:02:36.924 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:02:36.924 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:02:36.925 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:02:36.925 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:02:36.927 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:02:36.927 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:02:36.927 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:02:36.927 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:02:36.928 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:02:36.929 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:02:36.931 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:02:36.931 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:02:36.931 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:02:36.931 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:02:36.940 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\CHIDANAND N H\AppData\Local\Temp\testng-eclipse-1525718489\testng-customsuite.xml
+
+18:02:36.961 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+18:02:37.180 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@4a3329b9: 72 ms
+18:02:37.193 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@207ea13: 11 ms
+18:02:37.204 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@53f48368: 11 ms
+18:02:37.214 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@25748410: 10 ms
+18:02:37.229 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@75e01201: 15 ms
+18:02:37.229 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@2783717b: 0 ms
+18:04:52.463 [main] INFO  testCases.TC_012_NewsLetterSubscriptionYes - **Calling the home page object**
+18:04:53.006 [main] INFO  testCases.TC_012_NewsLetterSubscriptionYes - **Calling the login page object**
+18:04:53.214 [main] INFO  testCases.TC_012_NewsLetterSubscriptionYes - **CAlling the search page object**
+18:04:55.255 [main] INFO  testCases.TC_012_NewsLetterSubscriptionYes - **Calling the newsletter page object**
+18:09:48.153 [main] INFO  testCases.TC_013_NewsLetterSubscriptionNo - **Calling the home page object**
+18:09:48.576 [main] INFO  testCases.TC_013_NewsLetterSubscriptionNo - **Calling the login page object**
+18:09:49.682 [main] INFO  testCases.TC_013_NewsLetterSubscriptionNo - **CAlling the search page object**
+18:09:50.133 [main] INFO  testCases.TC_013_NewsLetterSubscriptionNo - **Calling the newsletter page object**
+19:23:16.530 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+19:23:16.534 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:23:16.535 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:23:16.535 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:23:16.535 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:23:16.535 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:23:16.535 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:23:16.535 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:23:16.541 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+19:23:16.547 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 5 ms.
+19:23:16.548 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:23:16.549 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:23:16.549 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:23:16.549 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:23:16.549 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:23:16.549 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:23:16.551 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:23:16.551 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:23:16.551 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:23:16.551 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:23:16.553 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:23:16.553 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:23:16.553 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:23:16.553 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:23:16.554 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+19:23:16.554 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:23:16.555 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:23:16.555 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:23:16.555 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:23:16.555 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:23:16.560 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\CHIDANAND N H\AppData\Local\Temp\testng-eclipse-1344657920\testng-customsuite.xml
+
+19:23:16.572 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+19:23:16.686 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@160ac7fb: 41 ms
+19:23:16.695 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@62dae540: 9 ms
+19:23:16.703 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@f0e995e: 8 ms
+19:23:16.709 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@4264b240: 6 ms
+19:23:16.714 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@76f7d241: 5 ms
+19:23:16.714 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@4a335fa8: 0 ms
+19:26:55.698 [main] INFO  testCases.TC_014_SubmitContactFormP - ***Srart of test execution***
+19:26:55.706 [main] INFO  testCases.TC_014_SubmitContactFormP - **CAlling the home page**
+19:26:56.073 [main] INFO  testCases.TC_014_SubmitContactFormP - **Calling the login page**
+19:26:56.274 [main] INFO  testCases.TC_014_SubmitContactFormP - **Calling the Footer page**
+19:26:57.808 [main] INFO  testCases.TC_014_SubmitContactFormP - **Calling the contact form page**
+19:27:07.874 [main] INFO  testCases.TC_014_SubmitContactFormP - ***End of test execution***
+19:28:27.849 [main] INFO  testCases.TC_014_SubmitContactFormP - ***Srart of test execution***
+19:28:27.853 [main] INFO  testCases.TC_014_SubmitContactFormP - **CAlling the home page**
+19:28:28.324 [main] INFO  testCases.TC_014_SubmitContactFormP - **Calling the login page**
+19:28:28.522 [main] INFO  testCases.TC_014_SubmitContactFormP - **Calling the Footer page**
+19:28:29.810 [main] INFO  testCases.TC_014_SubmitContactFormP - **Calling the contact form page**
+19:28:39.858 [main] INFO  testCases.TC_014_SubmitContactFormP - ***End of test execution***
+19:30:27.151 [main] INFO  testCases.TC_014_SubmitContactFormP - ***Srart of test execution***
+19:30:27.153 [main] INFO  testCases.TC_014_SubmitContactFormP - **CAlling the home page**
+19:30:27.703 [main] INFO  testCases.TC_014_SubmitContactFormP - **Calling the login page**
+19:30:27.902 [main] INFO  testCases.TC_014_SubmitContactFormP - **Calling the Footer page**
+19:30:30.223 [main] INFO  testCases.TC_014_SubmitContactFormP - **Calling the contact form page**
+19:30:31.369 [main] INFO  testCases.TC_014_SubmitContactFormP - ***End of test execution***
+20:29:10.015 [main] INFO  testCases.TC_015_SubmitContactFormN - ***Srart of test execution***
+20:29:10.017 [main] INFO  testCases.TC_015_SubmitContactFormN - **CAlling the home page**
+20:29:10.370 [main] INFO  testCases.TC_015_SubmitContactFormN - **Calling the login page**
+20:29:10.559 [main] INFO  testCases.TC_015_SubmitContactFormN - **Calling the Footer page**
+20:29:11.673 [main] INFO  testCases.TC_015_SubmitContactFormN - **Calling the contact form page**
+20:29:12.192 [main] INFO  testCases.TC_015_SubmitContactFormN - ***End of test execution***
+21:12:40.434 [TestNG-test-EdgeTest-3] INFO  testCases.TC_015_SubmitContactFormN - ***Srart of test execution***
+21:12:40.434 [TestNG-test-EdgeTest-1] INFO  testCases.TC_013_NewsLetterSubscriptionNo - **Calling the home page object**
+21:12:40.434 [TestNG-test-EdgeTest-2] INFO  testCases.TC_014_SubmitContactFormP - ***Srart of test execution***
+21:12:40.438 [TestNG-test-EdgeTest-2] INFO  testCases.TC_014_SubmitContactFormP - **CAlling the home page**
+21:12:40.438 [TestNG-test-EdgeTest-3] INFO  testCases.TC_015_SubmitContactFormN - **CAlling the home page**
+21:12:40.931 [TestNG-test-EdgeTest-2] INFO  testCases.TC_014_SubmitContactFormP - **Calling the login page**
+21:12:40.938 [TestNG-test-EdgeTest-3] INFO  testCases.TC_015_SubmitContactFormN - ***End of test execution***
+21:12:41.185 [TestNG-test-EdgeTest-2] INFO  testCases.TC_014_SubmitContactFormP - ***End of test execution***
+21:13:46.903 [TestNG-test-EdgeTest-1] INFO  testCases.TC_013_NewsLetterSubscriptionNo - **Calling the home page object**
+21:13:46.903 [TestNG-test-EdgeTest-3] INFO  testCases.TC_015_SubmitContactFormN - ***Srart of test execution***
+21:13:46.903 [TestNG-test-EdgeTest-2] INFO  testCases.TC_014_SubmitContactFormP - ***Srart of test execution***
+21:13:46.907 [TestNG-test-EdgeTest-3] INFO  testCases.TC_015_SubmitContactFormN - **CAlling the home page**
+21:13:46.907 [TestNG-test-EdgeTest-2] INFO  testCases.TC_014_SubmitContactFormP - **CAlling the home page**
+21:13:47.407 [TestNG-test-EdgeTest-1] INFO  testCases.TC_013_NewsLetterSubscriptionNo - **Calling the login page object**
+21:13:47.428 [TestNG-test-EdgeTest-2] INFO  testCases.TC_014_SubmitContactFormP - ***End of test execution***
+21:13:47.428 [TestNG-test-EdgeTest-3] INFO  testCases.TC_015_SubmitContactFormN - ***End of test execution***
+21:14:35.452 [main] INFO  testCases.TC_014_SubmitContactFormP - ***Srart of test execution***
+21:14:35.455 [main] INFO  testCases.TC_014_SubmitContactFormP - **CAlling the home page**
+21:14:35.829 [main] INFO  testCases.TC_014_SubmitContactFormP - **Calling the login page**
+21:14:36.060 [main] INFO  testCases.TC_014_SubmitContactFormP - **Calling the Footer page**
+21:14:37.171 [main] INFO  testCases.TC_014_SubmitContactFormP - **Calling the contact form page**
+21:14:37.898 [main] INFO  testCases.TC_014_SubmitContactFormP - ***End of test execution***
+21:14:43.597 [main] INFO  testCases.TC_015_SubmitContactFormN - ***Srart of test execution***
+21:14:43.597 [main] INFO  testCases.TC_015_SubmitContactFormN - **CAlling the home page**
+21:14:44.117 [main] INFO  testCases.TC_015_SubmitContactFormN - **Calling the login page**
+21:14:45.546 [main] INFO  testCases.TC_015_SubmitContactFormN - **Calling the Footer page**
+21:14:45.882 [main] INFO  testCases.TC_015_SubmitContactFormN - **Calling the contact form page**
+21:14:46.391 [main] INFO  testCases.TC_015_SubmitContactFormN - ***End of test execution***
+21:16:33.093 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** This is the start of the test execution ***
+21:16:33.095 [main] INFO  testCases.TC_001_AccountRegistrationTest - This is the execution of the home page
+21:16:33.187 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on my account link
+21:16:36.927 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on registration link
+21:16:36.927 [main] INFO  testCases.TC_001_AccountRegistrationTest - This is the execution of registration page
+21:16:39.558 [main] INFO  testCases.TC_001_AccountRegistrationTest - this is the validation of the registration message
+21:16:39.588 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** This is the completion of the test execution ***
+21:16:50.570 [main] INFO  testCases.TC_002_LoginTest - *** Start of the Login test ***
+21:16:50.570 [main] INFO  testCases.TC_002_LoginTest - **Navigating to home page**
+21:16:50.570 [main] INFO  testCases.TC_002_LoginTest - **Clicking on my account link**
+21:16:50.635 [main] INFO  testCases.TC_002_LoginTest - **Clicking on my login link**
+21:16:50.900 [main] INFO  testCases.TC_002_LoginTest - **Navigating to email login page**
+21:16:51.109 [main] INFO  testCases.TC_002_LoginTest - **Navigating to My Account page**
+21:17:00.693 [main] INFO  testCases.TC_003_LoginDDT - ***Start of the login validation test***
+21:17:00.693 [main] INFO  testCases.TC_003_LoginDDT - **invoking home page**
+21:17:01.211 [main] INFO  testCases.TC_003_LoginDDT - **invoking login page**
+21:17:01.401 [main] INFO  testCases.TC_003_LoginDDT - **invoking my accont page**
+21:17:21.643 [main] INFO  testCases.TC_003_LoginDDT - ***end of the login validation test***
+21:17:21.643 [main] INFO  testCases.TC_003_LoginDDT - ***Start of the login validation test***
+21:17:21.643 [main] INFO  testCases.TC_003_LoginDDT - **invoking home page**
+21:17:22.260 [main] INFO  testCases.TC_003_LoginDDT - **invoking login page**
+21:17:23.513 [main] INFO  testCases.TC_003_LoginDDT - **invoking my accont page**
+21:17:25.804 [main] INFO  testCases.TC_003_LoginDDT - ***end of the login validation test***
+21:17:25.805 [main] INFO  testCases.TC_003_LoginDDT - ***Start of the login validation test***
+21:17:25.805 [main] INFO  testCases.TC_003_LoginDDT - **invoking home page**
+21:17:26.379 [main] INFO  testCases.TC_003_LoginDDT - **invoking login page**
+21:17:26.545 [main] INFO  testCases.TC_003_LoginDDT - **invoking my accont page**
+21:17:27.445 [main] INFO  testCases.TC_003_LoginDDT - ***end of the login validation test***
+21:17:27.446 [main] INFO  testCases.TC_003_LoginDDT - ***Start of the login validation test***
+21:17:27.446 [main] INFO  testCases.TC_003_LoginDDT - **invoking home page**
+21:17:37.512 [main] INFO  testCases.TC_003_LoginDDT - ***end of the login validation test***
+21:17:37.612 [main] INFO  testCases.TC_003_LoginDDT - ***Start of the login validation test***
+21:17:37.612 [main] INFO  testCases.TC_003_LoginDDT - **invoking home page**
+21:17:47.712 [main] INFO  testCases.TC_003_LoginDDT - ***end of the login validation test***
+21:17:47.793 [main] INFO  testCases.TC_003_LoginDDT - ***Start of the login validation test***
+21:17:47.793 [main] INFO  testCases.TC_003_LoginDDT - **invoking home page**
+21:17:57.842 [main] INFO  testCases.TC_003_LoginDDT - ***end of the login validation test***
+21:18:15.414 [main] INFO  testCases.TC_004_LogoutTest - Srart of the test!
+21:18:15.415 [main] INFO  testCases.TC_004_LogoutTest - Calling home page
+21:18:15.818 [main] INFO  testCases.TC_004_LogoutTest - calling login page
+21:18:16.011 [main] INFO  testCases.TC_004_LogoutTest - calling logout page
+21:18:17.256 [main] INFO  testCases.TC_004_LogoutTest - Ending the test!
+21:18:23.328 [main] INFO  testCases.TC_005_SearchIphoneTest - *****Start of test*****
+21:18:23.328 [main] INFO  testCases.TC_005_SearchIphoneTest - **invoke of home page**
+21:18:23.700 [main] INFO  testCases.TC_005_SearchIphoneTest - **invoke of login age**
+21:18:23.899 [main] INFO  testCases.TC_005_SearchIphoneTest - **invoke of logout page where it has search elements**
+21:18:25.582 [main] INFO  testCases.TC_005_SearchIphoneTest - **invoke of search page**
+21:18:26.450 [main] INFO  testCases.TC_005_SearchIphoneTest - **invoke of add to cart page**
+21:18:26.986 [main] INFO  testCases.TC_005_SearchIphoneTest - **invoke of checkout page**
+21:18:27.499 [main] INFO  testCases.TC_005_SearchIphoneTest - ****End of test****
+21:18:31.551 [main] INFO  testCases.TC_008_UpdateAddress - ***Start of the test***
+21:18:31.551 [main] INFO  testCases.TC_008_UpdateAddress - **Start of the home page**
+21:18:32.046 [main] INFO  testCases.TC_008_UpdateAddress - **Start of the login page**
+21:18:32.262 [main] INFO  testCases.TC_008_UpdateAddress - **Start of the search page**
+21:18:33.351 [main] INFO  testCases.TC_008_UpdateAddress - **Start of the address page**
+21:18:34.482 [main] INFO  testCases.TC_008_UpdateAddress - **Start of the add address page**
+21:18:36.451 [main] INFO  testCases.TC_008_UpdateAddress - **Again calling search page for the validation**
+21:18:36.504 [main] INFO  testCases.TC_008_UpdateAddress - **Again calling search page object**
+21:18:36.891 [main] INFO  testCases.TC_008_UpdateAddress - ***Start of the test***
+21:18:36.891 [main] INFO  testCases.TC_008_UpdateAddress - **Start of the home page**
+21:18:37.203 [main] INFO  testCases.TC_008_UpdateAddress - **Start of the login page**
+21:18:38.440 [main] INFO  testCases.TC_008_UpdateAddress - **Start of the search page**
+21:18:39.036 [main] INFO  testCases.TC_008_UpdateAddress - **Start of the address page**
+21:18:39.376 [main] INFO  testCases.TC_008_UpdateAddress - **Start of the add address page**
+21:18:40.261 [main] INFO  testCases.TC_008_UpdateAddress - **Again calling search page for the validation**
+21:18:40.710 [main] INFO  testCases.TC_008_UpdateAddress - **Again calling search page object**
+21:18:44.675 [main] INFO  testCases.TC_009_EditAccount - **Navigating to Home Page**
+21:18:45.009 [main] INFO  testCases.TC_009_EditAccount - **Navigating to Login Page**
+21:18:45.193 [main] INFO  testCases.TC_009_EditAccount - **Navigatting to Search Page**
+21:18:47.063 [main] INFO  testCases.TC_009_EditAccount - **Navigating through My Account Information page**
+21:18:47.853 [main] INFO  testCases.TC_009_EditAccount - **Again looping through Search Page**
+21:18:53.123 [main] INFO  testCases.TC_010_ChangePassword - **Opening the homepage**
+21:18:53.446 [main] INFO  testCases.TC_010_ChangePassword - **Opening the Login page**
+21:18:53.642 [main] INFO  testCases.TC_010_ChangePassword - **Opening the Search page**
+21:18:54.838 [main] INFO  testCases.TC_010_ChangePassword - **Opening the ChangePasswordPage**
+21:18:55.023 [main] INFO  testCases.TC_010_ChangePassword - **Again navigating through Search Page**
+21:19:00.626 [main] INFO  testCases.TC_011_LoginDB - **Calling the home page object**
+21:19:00.961 [main] INFO  testCases.TC_011_LoginDB - **Calling the database method from base class**
+21:19:01.381 [main] INFO  testCases.TC_011_LoginDB - **Calling the login in page object**
+21:19:05.063 [main] INFO  testCases.TC_012_NewsLetterSubscriptionYes - **Calling the home page object**
+21:19:05.398 [main] INFO  testCases.TC_012_NewsLetterSubscriptionYes - **Calling the login page object**
+21:19:06.560 [main] INFO  testCases.TC_012_NewsLetterSubscriptionYes - **CAlling the search page object**
+21:19:07.031 [main] INFO  testCases.TC_012_NewsLetterSubscriptionYes - **Calling the newsletter page object**
+21:19:11.678 [main] INFO  testCases.TC_013_NewsLetterSubscriptionNo - **Calling the home page object**
+21:19:12.051 [main] INFO  testCases.TC_013_NewsLetterSubscriptionNo - **Calling the login page object**
+21:19:12.262 [main] INFO  testCases.TC_013_NewsLetterSubscriptionNo - **CAlling the search page object**
+21:19:13.392 [main] INFO  testCases.TC_013_NewsLetterSubscriptionNo - **Calling the newsletter page object**
+21:19:16.762 [main] INFO  testCases.TC_014_SubmitContactFormP - ***Srart of test execution***
+21:19:16.762 [main] INFO  testCases.TC_014_SubmitContactFormP - **CAlling the home page**
+21:19:17.090 [main] INFO  testCases.TC_014_SubmitContactFormP - **Calling the login page**
+21:19:17.281 [main] INFO  testCases.TC_014_SubmitContactFormP - **Calling the Footer page**
+21:19:18.327 [main] INFO  testCases.TC_014_SubmitContactFormP - **Calling the contact form page**
+21:19:18.843 [main] INFO  testCases.TC_014_SubmitContactFormP - ***End of test execution***
+21:19:21.738 [main] INFO  testCases.TC_015_SubmitContactFormN - ***Srart of test execution***
+21:19:21.738 [main] INFO  testCases.TC_015_SubmitContactFormN - **CAlling the home page**
+21:19:22.192 [main] INFO  testCases.TC_015_SubmitContactFormN - **Calling the login page**
+21:19:23.286 [main] INFO  testCases.TC_015_SubmitContactFormN - **Calling the Footer page**
+21:19:23.535 [main] INFO  testCases.TC_015_SubmitContactFormN - **Calling the contact form page**
+21:19:24.016 [main] INFO  testCases.TC_015_SubmitContactFormN - ***End of test execution***

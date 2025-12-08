@@ -10,15 +10,19 @@
 	<parameter name="OS" value="Windows"/>
     <parameter name="Browser" value="Chrome"/>
     <classes>
-      <!--<class name="testCases.TC_001_AccountRegistrationTest"/>-->
-      <!--<class name="testCases.TC_002_LoginTest"/>-->
-      <!--<class name="testCases.TC_0003LoginDDT"/>-->
-      <!--<class name="testCases.TC_004_LogoutTest"/>-->
-      <!--<class name="testCases.TC_005_SearchIphoneTest"/>-->
-      <!--<class name="testCases.TC_008_UpdateAddress"/>-->
-      <!--<class name="testCases.TC_009_EditAccount"/>-->
-      <!--<class name="testCases.TC_010_ChangePassword"/>-->
+      <class name="testCases.TC_001_AccountRegistrationTest"/>
+      <class name="testCases.TC_002_LoginTest"/>
+      <class name="testCases.TC_003_LoginDDT"/>
+      <class name="testCases.TC_004_LogoutTest"/>
+      <class name="testCases.TC_005_SearchIphoneTest"/>
+      <class name="testCases.TC_008_UpdateAddress"/>
+      <class name="testCases.TC_009_EditAccount"/>
+      <class name="testCases.TC_010_ChangePassword"/>
       <class name="testCases.TC_011_LoginDB"/>
+      <class name="testCases.TC_012_NewsLetterSubscriptionYes"/>
+      <class name="testCases.TC_013_NewsLetterSubscriptionNo"/>
+      <class name="testCases.TC_014_SubmitContactFormP"/>
+      <class name="testCases.TC_015_SubmitContactFormN"/>
     </classes>
   </test>
    

@@ -37,6 +37,8 @@ public class SearchPage extends BasePage{
 	@FindBy(xpath="//div[text()='Success: Your password has been successfully updated.']")
 	WebElement passwordChangeSuccessfulmsg;
 	
+	@FindBy(xpath="//a[@class='list-group-item'][normalize-space()='Newsletter']")
+	WebElement newsLetter;
 	
 	public void clickIphone()
 	{
@@ -81,5 +83,11 @@ public class SearchPage extends BasePage{
 	public void PasswordChangeSuccessfulMessage()
 	{
 		Assert.assertEquals(passwordChangeSuccessfulmsg.getText(), "Success: Your password has been successfully updated.");
+	}
+	
+	
+	public void clickNewsLetter()
+	{
+		newsLetter.click();
 	}
 }
