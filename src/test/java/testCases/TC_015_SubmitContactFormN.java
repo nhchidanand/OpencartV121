@@ -1,7 +1,7 @@
 package testCases;
 import testBase.*;
 import pageObjects.*;
-//Hello, please remo this comment when you pull the code from repository 
+
 import org.testng.Assert;
 import org.testng.annotations.*;
 
