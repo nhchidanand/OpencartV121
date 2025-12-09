@@ -36,7 +36,7 @@
 
 					<configuration>
 						<suiteXmlFiles>
-							<suiteXmlFile>${suiteFiles}</suiteXmlFile>
+							<suiteXmlFile>testng/quicktest.xml</suiteXmlFile>
 						</suiteXmlFiles>
 					</configuration>
 				</plugin>
