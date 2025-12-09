@@ -14,8 +14,17 @@ public class FooterPage extends BasePage{
 	@FindBy(xpath="//a[text()= 'Contact Us']")
 	private WebElement lnkContactUs;
 	
+	@FindBy(xpath="//li//a[text()= 'Returns']")
+	private WebElement lnkReturns;
+	
+	
 	public void Contact_Us()
 	{
 		lnkContactUs.click();
+	}
+	
+	public void Returns()
+	{
+		lnkReturns.click();
 	}
 }

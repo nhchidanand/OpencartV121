@@ -460,3 +460,15 @@
 21:19:23.286 [main] INFO  testCases.TC_015_SubmitContactFormN - **Calling the Footer page**
 21:19:23.535 [main] INFO  testCases.TC_015_SubmitContactFormN - **Calling the contact form page**
 21:19:24.016 [main] INFO  testCases.TC_015_SubmitContactFormN - ***End of test execution***
+00:07:23.815 [main] INFO  testCases.TC_016_ReturnProduct - ***Srart of test execution***
+00:07:23.817 [main] INFO  testCases.TC_016_ReturnProduct - **CAlling the home page**
+00:07:24.639 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the login page**
+00:07:26.466 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the Footer page**
+00:15:01.533 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Work\AutomationTesting\OpencartV121\master.xml
+
+00:15:05.604 [main] INFO  testCases.TC_016_ReturnProduct - ***Srart of test execution***
+00:15:05.604 [main] INFO  testCases.TC_016_ReturnProduct - **CAlling the home page**
+00:15:07.167 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the login page**
+00:15:08.684 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the Footer page**
+00:15:09.621 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the product return page**
