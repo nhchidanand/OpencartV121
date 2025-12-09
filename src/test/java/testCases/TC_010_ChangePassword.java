@@ -5,7 +5,7 @@ import org.testng.annotations.*;
 
 public class TC_010_ChangePassword extends BaseClass{
 	
-	@Test
+	@Test(groups="Regression")
 	public void changePassword()
 	{
 		logger.info("**Opening the homepage**");

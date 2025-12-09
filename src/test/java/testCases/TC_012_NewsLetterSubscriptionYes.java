@@ -7,7 +7,7 @@ import org.testng.annotations.*;
 
 public class TC_012_NewsLetterSubscriptionYes extends BaseClass{
 	
-	@Test
+	@Test(groups="Regression")
 	public void NewsletterYes()
 	{
 		logger.info("**Calling the home page object**");

@@ -8,7 +8,7 @@ import utilities.DataProviders;
 
 public class TC_007_UpdateAddress extends BaseClass{
 	
-	@Test(dataProvider="AddressData", dataProviderClass = DataProviders.class)
+	@Test(dataProvider="AddressData", dataProviderClass = DataProviders.class, groups= "DataProvider")
 	public void UpdateAddress(String Fname, String Lname, String Company, String a1, String a2, String city, String pc, String country, String state)
 	{
 		logger.info("***Start of the test***");

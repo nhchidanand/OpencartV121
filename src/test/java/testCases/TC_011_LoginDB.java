@@ -10,7 +10,7 @@ import testBase.BaseClass;
 
 public class TC_011_LoginDB extends BaseClass{
 	
-	@Test
+	@Test(groups="DataBase")
 	void loginDataBase() throws SQLException, InterruptedException
 	{
 		logger.info("**Calling the home page object**");

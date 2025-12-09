@@ -6,7 +6,7 @@ import pageObjects.*;
 public class TC_004_LogoutTest extends BaseClass{
 	
 	
-	@Test
+	@Test(groups="Regression")
 	public void logoutTest()
 	{
 		logger.info("Srart of the test!");

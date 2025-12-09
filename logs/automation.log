@@ -472,3 +472,346 @@
 00:15:07.167 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the login page**
 00:15:08.684 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the Footer page**
 00:15:09.621 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the product return page**
+10:14:25.210 [main] INFO  testCases.TC_016_ReturnProduct - ***Srart of test execution***
+10:14:25.213 [main] INFO  testCases.TC_016_ReturnProduct - **CAlling the home page**
+10:14:25.590 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the login page**
+10:14:25.813 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the Footer page**
+10:14:27.663 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the product return page**
+10:19:30.076 [main] INFO  testCases.TC_016_ReturnProduct - ***Srart of test execution***
+10:19:30.079 [main] INFO  testCases.TC_016_ReturnProduct - **CAlling the home page**
+10:19:30.641 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the login page**
+10:19:30.855 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the Footer page**
+10:19:32.799 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the product return page**
+10:55:58.316 [main] INFO  testCases.TC_016_ReturnProduct - ***Srart of test execution***
+10:55:58.320 [main] INFO  testCases.TC_016_ReturnProduct - **CAlling the home page**
+10:55:58.696 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the login page**
+10:55:58.886 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the Footer page**
+10:56:01.455 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the product return page**
+10:59:15.792 [main] INFO  testCases.TC_016_ReturnProduct - ***Srart of test execution***
+10:59:15.794 [main] INFO  testCases.TC_016_ReturnProduct - **CAlling the home page**
+10:59:16.144 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the login page**
+10:59:17.288 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the Footer page**
+10:59:17.847 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the product return page**
+11:02:00.104 [main] INFO  testCases.TC_016_ReturnProduct - ***Srart of test execution***
+11:02:00.105 [main] INFO  testCases.TC_016_ReturnProduct - **CAlling the home page**
+11:02:00.499 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the login page**
+11:02:00.708 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the Footer page**
+11:02:02.558 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the product return page**
+11:02:36.198 [main] INFO  testCases.TC_016_ReturnProduct - ***Srart of test execution***
+11:02:36.200 [main] INFO  testCases.TC_016_ReturnProduct - **CAlling the home page**
+11:02:36.540 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the login page**
+11:02:36.763 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the Footer page**
+11:02:38.086 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the product return page**
+11:26:51.696 [main] INFO  testCases.TC_016_ReturnProduct - ***Srart of test execution***
+11:26:51.700 [main] INFO  testCases.TC_016_ReturnProduct - **CAlling the home page**
+11:26:52.236 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the login page**
+11:26:52.500 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the Footer page**
+11:26:54.382 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the product return page**
+11:28:06.098 [main] INFO  testCases.TC_016_ReturnProduct - ***Srart of test execution***
+11:28:06.103 [main] INFO  testCases.TC_016_ReturnProduct - **CAlling the home page**
+11:28:06.577 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the login page**
+11:28:06.847 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the Footer page**
+11:28:09.237 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the product return page**
+11:29:22.806 [main] INFO  testCases.TC_016_ReturnProduct - ***Srart of test execution***
+11:29:22.809 [main] INFO  testCases.TC_016_ReturnProduct - **CAlling the home page**
+11:29:23.385 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the login page**
+11:29:24.998 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the Footer page**
+11:29:25.831 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the product return page**
+11:30:11.306 [main] INFO  testCases.TC_016_ReturnProduct - ***Srart of test execution***
+11:30:11.309 [main] INFO  testCases.TC_016_ReturnProduct - **CAlling the home page**
+11:30:12.837 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the login page**
+11:30:13.088 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the Footer page**
+11:30:19.588 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the product return page**
+11:31:49.955 [main] INFO  testCases.TC_016_ReturnProduct - ***Srart of test execution***
+11:31:49.955 [main] INFO  testCases.TC_016_ReturnProduct - **CAlling the home page**
+11:31:50.419 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the login page**
+11:31:50.689 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the Footer page**
+11:31:53.200 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the product return page**
+12:02:24.776 [main] INFO  testCases.TC_016_ReturnProduct - ***Srart of test execution***
+12:02:24.781 [main] INFO  testCases.TC_016_ReturnProduct - **CAlling the home page**
+12:02:25.234 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the login page**
+12:02:26.555 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the Footer page**
+12:02:27.574 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the product return page**
+12:03:14.212 [main] INFO  testCases.TC_016_ReturnProduct - ***Srart of test execution***
+12:03:14.217 [main] INFO  testCases.TC_016_ReturnProduct - **CAlling the home page**
+12:03:14.687 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the login page**
+12:03:15.018 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the Footer page**
+12:03:17.254 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the product return page**
+12:05:56.752 [main] INFO  testCases.TC_016_ReturnProduct - ***Srart of test execution***
+12:05:56.755 [main] INFO  testCases.TC_016_ReturnProduct - **CAlling the home page**
+12:05:57.287 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the login page**
+12:05:58.705 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the Footer page**
+12:05:59.642 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the product return page**
+12:06:52.638 [main] INFO  testCases.TC_016_ReturnProduct - ***Srart of test execution***
+12:06:52.641 [main] INFO  testCases.TC_016_ReturnProduct - **CAlling the home page**
+12:06:53.110 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the login page**
+12:06:53.389 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the Footer page**
+12:06:57.001 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the product return page**
+12:13:58.829 [main] INFO  testCases.TC_016_ReturnProduct - ***Srart of test execution***
+12:13:58.832 [main] INFO  testCases.TC_016_ReturnProduct - **CAlling the home page**
+12:13:59.272 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the login page**
+12:14:00.591 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the Footer page**
+12:14:01.628 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the product return page**
+12:18:18.948 [main] INFO  testCases.TC_016_ReturnProduct - ***Srart of test execution***
+12:18:18.951 [main] INFO  testCases.TC_016_ReturnProduct - **CAlling the home page**
+12:18:19.467 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the login page**
+12:18:20.883 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the Footer page**
+12:18:22.134 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the product return page**
+12:20:35.609 [main] INFO  testCases.TC_016_ReturnProduct - ***Srart of test execution***
+12:20:35.612 [main] INFO  testCases.TC_016_ReturnProduct - **CAlling the home page**
+12:20:36.056 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the login page**
+12:20:36.335 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the Footer page**
+12:20:38.195 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the product return page**
+12:22:31.072 [main] INFO  testCases.TC_016_ReturnProduct - ***Srart of test execution***
+12:22:31.081 [main] INFO  testCases.TC_016_ReturnProduct - **CAlling the home page**
+12:22:31.591 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the login page**
+12:22:31.974 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the Footer page**
+12:22:34.343 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the product return page**
+12:24:27.740 [main] INFO  testCases.TC_016_ReturnProduct - ***Srart of test execution***
+12:24:27.743 [main] INFO  testCases.TC_016_ReturnProduct - **CAlling the home page**
+12:24:28.416 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the login page**
+12:24:28.686 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the Footer page**
+12:24:30.775 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the product return page**
+12:25:45.430 [main] INFO  testCases.TC_016_ReturnProduct - ***Srart of test execution***
+12:25:45.439 [main] INFO  testCases.TC_016_ReturnProduct - **CAlling the home page**
+12:25:46.023 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the login page**
+12:25:46.281 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the Footer page**
+12:25:48.181 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the product return page**
+12:33:56.394 [main] INFO  testCases.TC_016_ReturnProduct - ***Srart of test execution***
+12:33:56.402 [main] INFO  testCases.TC_016_ReturnProduct - **CAlling the home page**
+12:33:56.944 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the login page**
+12:33:57.195 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the Footer page**
+12:33:59.298 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the product return page**
+12:34:34.723 [main] INFO  testCases.TC_016_ReturnProduct - ***Srart of test execution***
+12:34:34.727 [main] INFO  testCases.TC_016_ReturnProduct - **CAlling the home page**
+12:34:35.246 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the login page**
+12:34:36.644 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the Footer page**
+12:34:37.375 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the product return page**
+12:35:24.921 [main] INFO  testCases.TC_016_ReturnProduct - ***Srart of test execution***
+12:35:24.923 [main] INFO  testCases.TC_016_ReturnProduct - **CAlling the home page**
+12:35:25.394 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the login page**
+12:35:25.677 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the Footer page**
+12:35:27.718 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the product return page**
+12:39:31.969 [main] INFO  testCases.TC_016_ReturnProduct - ***Srart of test execution***
+12:39:31.969 [main] INFO  testCases.TC_016_ReturnProduct - **CAlling the home page**
+12:39:32.431 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the login page**
+12:39:33.703 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the Footer page**
+12:39:34.639 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the product return page**
+12:39:55.915 [main] INFO  testCases.TC_016_ReturnProduct - ***Srart of test execution***
+12:39:55.916 [main] INFO  testCases.TC_016_ReturnProduct - **CAlling the home page**
+12:39:56.344 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the login page**
+12:39:56.617 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the Footer page**
+12:39:58.598 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the product return page**
+15:38:12.373 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Work\AutomationTesting\OpencartV121\parallel.xml
+
+15:38:17.227 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest - *** Start of the Login test ***
+15:38:17.227 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - *** This is the start of the test execution ***
+15:38:17.227 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest - **Navigating to home page**
+15:38:17.227 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - This is the execution of the home page
+15:38:17.247 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest - **Clicking on my account link**
+15:38:17.423 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on my account link
+15:38:17.552 [TestNG-tests-1] INFO  testCases.TC_002_LoginTest - **Clicking on my login link**
+15:38:26.225 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on registration link
+15:38:26.225 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - This is the execution of registration page
+15:38:26.244 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - this is the execution of exception!!
+16:12:44.525 [main] INFO  testCases.TC_016_ReturnProduct - ***Srart of test execution***
+16:12:44.525 [main] INFO  testCases.TC_016_ReturnProduct - **CAlling the home page**
+16:12:45.081 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the login page**
+16:12:46.198 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the Footer page**
+16:12:47.012 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the product return page**
+16:27:26.225 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** This is the start of the test execution ***
+16:27:26.225 [main] INFO  testCases.TC_001_AccountRegistrationTest - This is the execution of the home page
+16:27:26.366 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on my account link
+16:27:27.264 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on registration link
+16:27:27.264 [main] INFO  testCases.TC_001_AccountRegistrationTest - This is the execution of registration page
+16:27:28.882 [main] INFO  testCases.TC_001_AccountRegistrationTest - this is the validation of the registration message
+16:27:28.922 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** This is the completion of the test execution ***
+16:27:31.892 [main] INFO  testCases.TC_002_LoginTest - *** Start of the Login test ***
+16:27:31.892 [main] INFO  testCases.TC_002_LoginTest - **Navigating to home page**
+16:27:31.892 [main] INFO  testCases.TC_002_LoginTest - **Clicking on my account link**
+16:27:31.992 [main] INFO  testCases.TC_002_LoginTest - **Clicking on my login link**
+16:27:32.366 [main] INFO  testCases.TC_002_LoginTest - **Navigating to email login page**
+16:27:33.900 [main] INFO  testCases.TC_002_LoginTest - **Navigating to My Account page**
+16:27:37.207 [main] INFO  testCases.TC_004_LogoutTest - Srart of the test!
+16:27:37.207 [main] INFO  testCases.TC_004_LogoutTest - Calling home page
+16:27:37.683 [main] INFO  testCases.TC_004_LogoutTest - calling login page
+16:27:37.975 [main] INFO  testCases.TC_004_LogoutTest - calling logout page
+16:27:39.290 [main] INFO  testCases.TC_004_LogoutTest - Ending the test!
+16:27:43.685 [main] INFO  testCases.TC_005_SearchIphoneTest - *****Start of test*****
+16:27:43.685 [main] INFO  testCases.TC_005_SearchIphoneTest - **invoke of home page**
+16:27:44.149 [main] INFO  testCases.TC_005_SearchIphoneTest - **invoke of login age**
+16:27:44.422 [main] INFO  testCases.TC_005_SearchIphoneTest - **invoke of logout page where it has search elements**
+16:27:45.996 [main] INFO  testCases.TC_005_SearchIphoneTest - **invoke of search page**
+16:27:46.988 [main] INFO  testCases.TC_005_SearchIphoneTest - **invoke of add to cart page**
+16:27:47.817 [main] INFO  testCases.TC_005_SearchIphoneTest - **invoke of checkout page**
+16:27:48.368 [main] INFO  testCases.TC_005_SearchIphoneTest - ****End of test****
+16:27:51.628 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - **Start of the test**
+16:27:51.628 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - *Invoke of homepage*
+16:27:52.038 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - *Invoke of login page*
+16:27:52.341 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - invoke of logout page where it has element for entering for the search
+16:27:54.047 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - *Invoke of searchpage*
+16:27:55.062 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - *Invoke of Add to cart page*
+16:27:55.333 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - *calling the method which is present inside the base page*
+16:28:08.821 [main] INFO  testCases.TC_009_EditAccount - **Navigating to Home Page**
+16:28:09.417 [main] INFO  testCases.TC_009_EditAccount - **Navigating to Login Page**
+16:28:10.735 [main] INFO  testCases.TC_009_EditAccount - **Navigatting to Search Page**
+16:28:11.662 [main] INFO  testCases.TC_009_EditAccount - **Navigating through My Account Information page**
+16:28:12.626 [main] INFO  testCases.TC_009_EditAccount - **Again looping through Search Page**
+16:28:16.726 [main] INFO  testCases.TC_010_ChangePassword - **Opening the homepage**
+16:28:17.212 [main] INFO  testCases.TC_010_ChangePassword - **Opening the Login page**
+16:28:17.509 [main] INFO  testCases.TC_010_ChangePassword - **Opening the Search page**
+16:28:19.046 [main] INFO  testCases.TC_010_ChangePassword - **Opening the ChangePasswordPage**
+16:28:20.587 [main] INFO  testCases.TC_010_ChangePassword - **Again navigating through Search Page**
+16:28:23.465 [main] INFO  testCases.TC_012_NewsLetterSubscriptionYes - **Calling the home page object**
+16:28:23.877 [main] INFO  testCases.TC_012_NewsLetterSubscriptionYes - **Calling the login page object**
+16:28:24.127 [main] INFO  testCases.TC_012_NewsLetterSubscriptionYes - **CAlling the search page object**
+16:28:25.425 [main] INFO  testCases.TC_012_NewsLetterSubscriptionYes - **Calling the newsletter page object**
+16:28:31.075 [main] INFO  testCases.TC_013_NewsLetterSubscriptionNo - **Calling the home page object**
+16:28:31.541 [main] INFO  testCases.TC_013_NewsLetterSubscriptionNo - **Calling the login page object**
+16:28:31.819 [main] INFO  testCases.TC_013_NewsLetterSubscriptionNo - **CAlling the search page object**
+16:28:33.176 [main] INFO  testCases.TC_013_NewsLetterSubscriptionNo - **Calling the newsletter page object**
+16:28:38.627 [main] INFO  testCases.TC_014_SubmitContactFormP - ***Srart of test execution***
+16:28:38.627 [main] INFO  testCases.TC_014_SubmitContactFormP - **CAlling the home page**
+16:28:39.069 [main] INFO  testCases.TC_014_SubmitContactFormP - **Calling the login page**
+16:28:39.314 [main] INFO  testCases.TC_014_SubmitContactFormP - **Calling the Footer page**
+16:28:40.953 [main] INFO  testCases.TC_014_SubmitContactFormP - **Calling the contact form page**
+16:28:41.671 [main] INFO  testCases.TC_014_SubmitContactFormP - ***End of test execution***
+16:28:45.376 [main] INFO  testCases.TC_015_SubmitContactFormN - ***Srart of test execution***
+16:28:45.376 [main] INFO  testCases.TC_015_SubmitContactFormN - **CAlling the home page**
+16:28:45.885 [main] INFO  testCases.TC_015_SubmitContactFormN - **Calling the login page**
+16:28:47.091 [main] INFO  testCases.TC_015_SubmitContactFormN - **Calling the Footer page**
+16:28:47.406 [main] INFO  testCases.TC_015_SubmitContactFormN - **Calling the contact form page**
+16:28:48.041 [main] INFO  testCases.TC_015_SubmitContactFormN - ***End of test execution***
+16:28:50.653 [main] INFO  testCases.TC_016_ReturnProduct - ***Srart of test execution***
+16:28:50.654 [main] INFO  testCases.TC_016_ReturnProduct - **CAlling the home page**
+16:28:51.301 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the login page**
+16:28:52.724 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the Footer page**
+16:28:53.888 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the product return page**
+16:31:16.179 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** This is the start of the test execution ***
+16:31:16.183 [main] INFO  testCases.TC_001_AccountRegistrationTest - This is the execution of the home page
+16:31:16.312 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on my account link
+16:31:17.332 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on registration link
+16:31:17.332 [main] INFO  testCases.TC_001_AccountRegistrationTest - This is the execution of registration page
+16:31:19.722 [main] INFO  testCases.TC_001_AccountRegistrationTest - this is the validation of the registration message
+16:31:19.759 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** This is the completion of the test execution ***
+16:31:22.694 [main] INFO  testCases.TC_002_LoginTest - *** Start of the Login test ***
+16:31:22.694 [main] INFO  testCases.TC_002_LoginTest - **Navigating to home page**
+16:31:22.694 [main] INFO  testCases.TC_002_LoginTest - **Clicking on my account link**
+16:31:22.786 [main] INFO  testCases.TC_002_LoginTest - **Clicking on my login link**
+16:31:23.153 [main] INFO  testCases.TC_002_LoginTest - **Navigating to email login page**
+16:31:23.395 [main] INFO  testCases.TC_002_LoginTest - **Navigating to My Account page**
+16:31:27.953 [main] INFO  testCases.TC_004_LogoutTest - Srart of the test!
+16:31:27.953 [main] INFO  testCases.TC_004_LogoutTest - Calling home page
+16:31:28.521 [main] INFO  testCases.TC_004_LogoutTest - calling login page
+16:31:30.088 [main] INFO  testCases.TC_004_LogoutTest - calling logout page
+16:31:30.644 [main] INFO  testCases.TC_004_LogoutTest - Ending the test!
+16:31:35.489 [main] INFO  testCases.TC_005_SearchIphoneTest - *****Start of test*****
+16:31:35.489 [main] INFO  testCases.TC_005_SearchIphoneTest - **invoke of home page**
+16:31:35.960 [main] INFO  testCases.TC_005_SearchIphoneTest - **invoke of login age**
+16:31:37.466 [main] INFO  testCases.TC_005_SearchIphoneTest - **invoke of logout page where it has search elements**
+16:31:38.090 [main] INFO  testCases.TC_005_SearchIphoneTest - **invoke of search page**
+16:31:39.721 [main] INFO  testCases.TC_005_SearchIphoneTest - **invoke of add to cart page**
+16:31:40.278 [main] INFO  testCases.TC_005_SearchIphoneTest - **invoke of checkout page**
+16:32:13.244 [main] INFO  testCases.TC_002_LoginTest - *** Start of the Login test ***
+16:32:13.251 [main] INFO  testCases.TC_002_LoginTest - **Navigating to home page**
+16:32:13.274 [main] INFO  testCases.TC_002_LoginTest - **Clicking on my account link**
+16:32:13.381 [main] INFO  testCases.TC_002_LoginTest - **Clicking on my login link**
+16:32:13.749 [main] INFO  testCases.TC_002_LoginTest - **Navigating to email login page**
+16:32:14.034 [main] INFO  testCases.TC_002_LoginTest - **Navigating to My Account page**
+16:32:18.354 [main] INFO  testCases.TC_004_LogoutTest - Srart of the test!
+16:32:18.354 [main] INFO  testCases.TC_004_LogoutTest - Calling home page
+16:32:19.064 [main] INFO  testCases.TC_004_LogoutTest - calling login page
+16:32:19.300 [main] INFO  testCases.TC_004_LogoutTest - calling logout page
+16:32:21.384 [main] INFO  testCases.TC_004_LogoutTest - Ending the test!
+16:32:26.694 [main] INFO  testCases.TC_005_SearchIphoneTest - *****Start of test*****
+16:32:26.694 [main] INFO  testCases.TC_005_SearchIphoneTest - **invoke of home page**
+16:32:27.187 [main] INFO  testCases.TC_005_SearchIphoneTest - **invoke of login age**
+16:32:28.661 [main] INFO  testCases.TC_005_SearchIphoneTest - **invoke of logout page where it has search elements**
+16:32:29.279 [main] INFO  testCases.TC_005_SearchIphoneTest - **invoke of search page**
+16:32:30.715 [main] INFO  testCases.TC_005_SearchIphoneTest - **invoke of add to cart page**
+16:32:31.201 [main] INFO  testCases.TC_005_SearchIphoneTest - **invoke of checkout page**
+16:32:31.797 [main] INFO  testCases.TC_005_SearchIphoneTest - ****End of test****
+16:32:35.119 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - **Start of the test**
+16:32:35.119 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - *Invoke of homepage*
+16:32:35.588 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - *Invoke of login page*
+16:32:37.058 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - invoke of logout page where it has element for entering for the search
+16:32:37.572 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - *Invoke of searchpage*
+16:32:38.597 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - *Invoke of Add to cart page*
+16:32:38.924 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - *calling the method which is present inside the base page*
+16:32:53.136 [main] INFO  testCases.TC_010_ChangePassword - **Opening the homepage**
+16:32:53.599 [main] INFO  testCases.TC_010_ChangePassword - **Opening the Login page**
+16:32:53.859 [main] INFO  testCases.TC_010_ChangePassword - **Opening the Search page**
+16:32:55.301 [main] INFO  testCases.TC_010_ChangePassword - **Opening the ChangePasswordPage**
+16:32:55.520 [main] INFO  testCases.TC_010_ChangePassword - **Again navigating through Search Page**
+16:32:59.693 [main] INFO  testCases.TC_012_NewsLetterSubscriptionYes - **Calling the home page object**
+16:33:00.139 [main] INFO  testCases.TC_012_NewsLetterSubscriptionYes - **Calling the login page object**
+16:33:01.544 [main] INFO  testCases.TC_012_NewsLetterSubscriptionYes - **CAlling the search page object**
+16:33:01.966 [main] INFO  testCases.TC_012_NewsLetterSubscriptionYes - **Calling the newsletter page object**
+16:33:06.362 [main] INFO  testCases.TC_013_NewsLetterSubscriptionNo - **Calling the home page object**
+16:33:06.894 [main] INFO  testCases.TC_013_NewsLetterSubscriptionNo - **Calling the login page object**
+16:33:08.042 [main] INFO  testCases.TC_013_NewsLetterSubscriptionNo - **CAlling the search page object**
+16:33:08.419 [main] INFO  testCases.TC_013_NewsLetterSubscriptionNo - **Calling the newsletter page object**
+16:33:12.247 [main] INFO  testCases.TC_014_SubmitContactFormP - ***Srart of test execution***
+16:33:12.247 [main] INFO  testCases.TC_014_SubmitContactFormP - **CAlling the home page**
+16:33:12.731 [main] INFO  testCases.TC_014_SubmitContactFormP - **Calling the login page**
+16:33:14.025 [main] INFO  testCases.TC_014_SubmitContactFormP - **Calling the Footer page**
+16:33:14.363 [main] INFO  testCases.TC_014_SubmitContactFormP - **Calling the contact form page**
+16:33:14.732 [main] INFO  testCases.TC_014_SubmitContactFormP - ***End of test execution***
+16:33:18.153 [main] INFO  testCases.TC_015_SubmitContactFormN - ***Srart of test execution***
+16:33:18.153 [main] INFO  testCases.TC_015_SubmitContactFormN - **CAlling the home page**
+16:33:18.872 [main] INFO  testCases.TC_015_SubmitContactFormN - **Calling the login page**
+16:33:20.272 [main] INFO  testCases.TC_015_SubmitContactFormN - **Calling the Footer page**
+16:33:20.608 [main] INFO  testCases.TC_015_SubmitContactFormN - **Calling the contact form page**
+16:33:21.206 [main] INFO  testCases.TC_015_SubmitContactFormN - ***End of test execution***
+16:33:25.053 [main] INFO  testCases.TC_016_ReturnProduct - ***Srart of test execution***
+16:33:25.053 [main] INFO  testCases.TC_016_ReturnProduct - **CAlling the home page**
+16:33:25.541 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the login page**
+16:33:26.823 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the Footer page**
+16:33:27.775 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the product return page**
+16:47:56.704 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** This is the start of the test execution ***
+16:47:56.709 [main] INFO  testCases.TC_001_AccountRegistrationTest - This is the execution of the home page
+16:47:56.858 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on my account link
+16:47:57.624 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on registration link
+16:47:57.624 [main] INFO  testCases.TC_001_AccountRegistrationTest - This is the execution of registration page
+16:47:59.350 [main] INFO  testCases.TC_001_AccountRegistrationTest - this is the validation of the registration message
+16:47:59.409 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** This is the completion of the test execution ***
+16:48:03.662 [main] INFO  testCases.TC_002_LoginTest - *** Start of the Login test ***
+16:48:03.662 [main] INFO  testCases.TC_002_LoginTest - **Navigating to home page**
+16:48:03.664 [main] INFO  testCases.TC_002_LoginTest - **Clicking on my account link**
+16:48:03.794 [main] INFO  testCases.TC_002_LoginTest - **Clicking on my login link**
+16:48:04.204 [main] INFO  testCases.TC_002_LoginTest - **Navigating to email login page**
+16:48:04.499 [main] INFO  testCases.TC_002_LoginTest - **Navigating to My Account page**
+16:48:10.270 [main] INFO  testCases.TC_005_SearchIphoneTest - *****Start of test*****
+16:48:10.271 [main] INFO  testCases.TC_005_SearchIphoneTest - **invoke of home page**
+16:48:10.888 [main] INFO  testCases.TC_005_SearchIphoneTest - **invoke of login age**
+16:48:12.779 [main] INFO  testCases.TC_005_SearchIphoneTest - **invoke of logout page where it has search elements**
+16:48:13.296 [main] INFO  testCases.TC_005_SearchIphoneTest - **invoke of search page**
+16:48:14.214 [main] INFO  testCases.TC_005_SearchIphoneTest - **invoke of add to cart page**
+16:48:14.875 [main] INFO  testCases.TC_005_SearchIphoneTest - **invoke of checkout page**
+16:48:15.432 [main] INFO  testCases.TC_005_SearchIphoneTest - ****End of test****
+16:48:53.673 [main] INFO  testCases.TC_016_ReturnProduct - ***Srart of test execution***
+16:48:53.677 [main] INFO  testCases.TC_016_ReturnProduct - **CAlling the home page**
+16:48:54.180 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the login page**
+16:48:54.478 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the Footer page**
+16:48:56.317 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the product return page**
+17:24:56.062 [main] INFO  testCases.TC_016_ReturnProduct - ***Srart of test execution***
+17:24:56.062 [main] INFO  testCases.TC_016_ReturnProduct - **CAlling the home page**
+17:24:56.531 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the login page**
+17:24:56.858 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the Footer page**
+17:24:59.015 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the product return page**
+17:26:52.888 [main] INFO  testCases.TC_016_ReturnProduct - ***Srart of test execution***
+17:26:52.888 [main] INFO  testCases.TC_016_ReturnProduct - **CAlling the home page**
+17:26:53.489 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the login page**
+17:26:55.195 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the Footer page**
+17:26:56.346 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the product return page**
+17:28:09.755 [main] INFO  testCases.TC_016_ReturnProduct - ***Srart of test execution***
+17:28:09.758 [main] INFO  testCases.TC_016_ReturnProduct - **CAlling the home page**
+17:28:10.286 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the login page**
+17:28:11.688 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the Footer page**
+17:28:12.850 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the product return page**
+17:33:34.761 [main] INFO  testCases.TC_016_ReturnProduct - ***Srart of test execution***
+17:33:34.761 [main] INFO  testCases.TC_016_ReturnProduct - **CAlling the home page**
+17:33:35.306 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the login page**
+17:33:36.703 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the Footer page**
+17:33:37.667 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the product return page**

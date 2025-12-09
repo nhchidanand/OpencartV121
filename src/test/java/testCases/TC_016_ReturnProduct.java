@@ -1,4 +1,5 @@
 package testCases;
+import org.testng.Assert;
 import org.testng.annotations.*;
 
 import pageObjects.*;
@@ -7,7 +8,7 @@ import testBase.*;
 
 public class TC_016_ReturnProduct extends BaseClass{
 	
-	@Test
+	@Test(groups="Regression")
 	public void returnProduct()
 	{
 		logger.info("***Srart of test execution***");
@@ -31,15 +32,22 @@ public class TC_016_ReturnProduct extends BaseClass{
 		ProductsReturnPage prp = new ProductsReturnPage(driver);
 		prp.FirstName(randomStringValue_1());
 		prp.LastName(randomStringValue_2());
-		prp.email(randomStringValue_1()+"gmail.com");
+		prp.email(randomStringValue_1()+"@gmail.com");
 		prp.TelePhone(randomNumeric());
 		prp.OrderID(randomNumeric());
-		prp.SelectDate();
+		prp.calendarButton();
+		prp.buttonMonthAndYear();
+		prp.buttonYear();
+		prp.selectDesiredYear();
+		prp.selectDesiredmonth();
+		prp.selectDesiredDay();
 		prp.ProductName(randomStringValue_1());
 		prp.ProductCode(randomNumeric());
+		prp.productQuanity(randoNumeric_2());
 		prp.reasonForReturns();
 		prp.productOpened();
 		prp.faultyOrOtherDetails(randomAlphaNumeric());
 		prp.submitButtom();
+		Assert.assertTrue(prp.returnResponseMessage().contains("Thank"), "Response is invalid");
 	}
 }

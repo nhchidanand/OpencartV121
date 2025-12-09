@@ -4,17 +4,22 @@
   <listeners>
     <listener class-name="utilities.ExtentReportUtility"/>
   </listeners>
-  <test thread-count="5" name="EdgeTest(failed)" verbose="0">
+  <test thread-count="5" name="EdgeBrowser(failed)" verbose="0">
     <parameter name="OS" value="Windows"/>
-    <parameter name="Browser" value="Chrome"/>
+    <parameter name="Browser" value="Edge"/>
+    <groups>
+      <run>
+        <include name="Regression"/>
+      </run>
+    </groups>
     <classes>
-      <class name="testCases.TC_003_LoginDDT">
+      <class name="testCases.TC_006_ValidateProductInWishlsit">
         <methods>
           <include name="tearDown"/>
-          <include name="Login_validation" invocation-numbers="3 4 5"/>
+          <include name="wishListValidation"/>
           <include name="setUp"/>
         </methods>
-      </class> <!-- testCases.TC_003_LoginDDT -->
+      </class> <!-- testCases.TC_006_ValidateProductInWishlsit -->
     </classes>
-  </test> <!-- EdgeTest(failed) -->
+  </test> <!-- EdgeBrowser(failed) -->
 </suite> <!-- Failed suite [Suite] -->

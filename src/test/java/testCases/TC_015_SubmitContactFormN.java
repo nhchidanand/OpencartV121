@@ -7,7 +7,7 @@ import org.testng.annotations.*;
 
 public class TC_015_SubmitContactFormN extends BaseClass{
 	
-	@Test
+	@Test(groups={"Sanity", "Regression", "Master"})
 	public void contactFormPositive()
 	{
 		logger.info("***Srart of test execution***");

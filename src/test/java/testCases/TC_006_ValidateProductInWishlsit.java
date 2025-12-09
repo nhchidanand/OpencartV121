@@ -9,7 +9,7 @@ import basePage.BasePage;
 
 public class TC_006_ValidateProductInWishlsit extends BaseClass{
 	
-	@Test
+	@Test(groups= {"Regression", "Master"})
 	public void wishListValidation()
 	{
 		try {

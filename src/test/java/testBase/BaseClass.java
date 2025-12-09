@@ -131,6 +131,10 @@ public Properties property;
 		return (RandomStringUtils.randomAlphanumeric(15));
 	}
 	
+	public String randoNumeric_2()
+	{
+		return RandomStringUtils.randomNumeric(1);
+	}
 	
 	public String captureScreen(String tname)
 	{

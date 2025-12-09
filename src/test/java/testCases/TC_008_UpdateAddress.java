@@ -14,7 +14,7 @@ import utilities.DataProviders;
 
 public class TC_008_UpdateAddress extends BaseClass{
 	
-	@Test(dataProvider="AddressData2", dataProviderClass = DataProviders.class)
+	@Test(dataProvider="AddressData2", dataProviderClass = DataProviders.class, groups="DataProvider")
 	public void UpdateAddress(HashMap<String, String> input)
 	{
 		logger.info("***Start of the test***");

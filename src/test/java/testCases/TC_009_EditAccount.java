@@ -5,7 +5,7 @@ import org.testng.annotations.*;
 
 public class TC_009_EditAccount extends BaseClass{
 	
-	@Test
+	@Test(groups="Sanity")
 	public void editAccount()
 	{
 		

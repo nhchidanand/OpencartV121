@@ -12,8 +12,10 @@ utilities\JSONUtility$1.class
 testCases\TC_014_SubmitContactFormP.class
 testCases\TC_005_SearchIphoneTest.class
 testCases\TC_013_NewsLetterSubscriptionNo.class
+pageObjects\ProductsReturnPage.class
 pageObjects\ChangePasswordPage.class
 testCases\TC_001_AccountRegistrationTest.class
+testCases\TC_016_ReturnProduct.class
 testCases\TC_002_LoginTest.class
 utilities\JSONUtility.class
 pageObjects\LogoutPage.class

@@ -26,16 +26,28 @@ public class ProductsReturnPage extends BasePage {
 
 	@FindBy(css = "[placeholder='Order ID']")
 	WebElement txtOrderid;
+	
+	@FindBy(xpath="//i[@class='fa fa-calendar']")
+	WebElement btnCalendar;
 
-	@FindBy(css = "div[class='datepicker-days'] th[class='picker-switch']")
-	WebElement month_year;
-
-	@FindBy(css = "div[class='datepicker-months'] th[class='prev']")
+	@FindBy(xpath="//div[@class='datepicker-days']//th[@class='picker-switch']")
+	WebElement btnMonth_Year;
+	
+	@FindBy(xpath="//div[@class='datepicker-months']//th[@class='picker-switch']")
+	WebElement btnYear;
+	
+	@FindBy(xpath="//span[@class='year']")
+	List<WebElement> yearSelect;
+	
+	@FindBy(xpath="//div[@class='datepicker-years']//th[@class='prev'][contains(text(),'‹')]")
 	WebElement btnPrev;
-
+	
 	@FindBy(css = "div[class='datepicker-days'] th[class='next']")
 	WebElement btnNext;
-
+	
+	@FindBy(xpath="//span[@class='month']")
+	List<WebElement> monthSelect;
+	
 	@FindBy(xpath = "//td[@class='day']")
 	List<WebElement> days;
 
@@ -48,7 +60,7 @@ public class ProductsReturnPage extends BasePage {
 	@FindBy(xpath="//input[@id='input-quantity']")
 	WebElement txtQuantity;
 	
-	@FindBy(xpath="//div[@class='col-sm-10']//div//input[@type='radio']")
+	@FindBy(xpath="//div[@class='radio']//label")
 	List<WebElement> rdBtnReasonsForReturn;
 	
 	@FindBy(xpath="//input[@value='0']")
@@ -59,6 +71,9 @@ public class ProductsReturnPage extends BasePage {
 	
 	@FindBy(xpath="//input[@value='Submit']")
 	WebElement btnSubmit;
+	
+	@FindBy(xpath="//p[contains(text(), 'Thank you for submitting your return request')]")
+	WebElement responseMessage;
 	
 	
 	public void FirstName(String fname)
@@ -91,20 +106,54 @@ public class ProductsReturnPage extends BasePage {
 		txtOrderid.sendKeys(order_id);
 	}
 	
-	public void SelectDate()
+	public void calendarButton()
+	{
+		btnCalendar.click();
+	}
+	
+	public void buttonMonthAndYear()
+	{
+		btnMonth_Year.click();
+	}
+	
+	public void buttonYear()
+	{
+		btnYear.click();
+	}
+	
+	public void selectDesiredYear()
 	{
 		while(true)
 		{
-			if(month_year.getText().trim().equalsIgnoreCase("January 2025"))
+			for(WebElement year: yearSelect)
 			{
-				break;
+				if(year.getText().trim().equalsIgnoreCase("2022"))
+				{
+					year.click();
+					return;
+				}
 			}
 			btnPrev.click();
 		}
-		
+	}
+	
+	public void selectDesiredmonth()
+	{
+		for(WebElement month: monthSelect)
+		{
+			if(month.getText().trim().equalsIgnoreCase("Feb"))
+			{
+				month.click();
+				break;
+			}
+		}
+	}
+	
+	public void selectDesiredDay()
+	{
 		for(WebElement day: days)
 		{
-			if(day.getText().trim().equalsIgnoreCase("30"))
+			if(day.getText().trim().equalsIgnoreCase("15"))
 			{
 				day.click();
 				break;
@@ -122,6 +171,12 @@ public class ProductsReturnPage extends BasePage {
 	{
 		txtProductCode.clear();
 		txtProductCode.sendKeys(p_code);
+	}
+	
+	public void productQuanity(String qty)
+	{
+		txtQuantity.clear();
+		txtQuantity.sendKeys(qty);
 	}
 	
 	public void reasonForReturns()
@@ -142,12 +197,17 @@ public class ProductsReturnPage extends BasePage {
 	
 	public void faultyOrOtherDetails(String details)
 	{
-		btnSubmit.clear();
-		btnSubmit.sendKeys(details);
+		txtOtherDetails.clear();
+		txtOtherDetails.sendKeys(details);
 	}
 	
 	public void submitButtom()
 	{
 		btnSubmit.click();
+	}
+	
+	public String returnResponseMessage()
+	{
+		return responseMessage.getText();
 	}
 }

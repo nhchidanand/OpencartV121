@@ -36,7 +36,7 @@
 
 					<configuration>
 						<suiteXmlFiles>
-							<suiteXmlFile>master.xml</suiteXmlFile>
+							<suiteXmlFile>${suiteFiles}</suiteXmlFile>
 						</suiteXmlFiles>
 					</configuration>
 				</plugin>
