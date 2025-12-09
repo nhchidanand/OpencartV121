@@ -1,5 +1,5 @@
-# Created at 2025-12-09T17:33:22.551
-org.apache.maven.surefire.api.testset.TestSetFailedException: Suite file D:\Work\AutomationTesting\OpencartV121\testng\quicktest is not a valid file
+# Created at 2025-12-09T21:49:28.714
+org.apache.maven.surefire.api.testset.TestSetFailedException: Suite file D:\Work\AutomationTesting\OpencartV121\quicktest.xml is not a valid file
 	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.locateTestSets(TestNGXmlTestSuite.java:89)
 	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:112)
 	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
