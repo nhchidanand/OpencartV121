@@ -26,8 +26,10 @@
       <class name="testCases.TC_013_NewsLetterSubscriptionNo"/>
       <class name="testCases.TC_014_SubmitContactFormP"/>
       <class name="testCases.TC_015_SubmitContactFormN"/>
-      -->
       <class name="testCases.TC_016_ReturnProduct"/>
+      -->
+
+      <class name="testCases.TC_017_OrderHistory"/>
     </classes>
   </test>
 </suite>

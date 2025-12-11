@@ -815,3 +815,8 @@
 17:33:35.306 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the login page**
 17:33:36.703 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the Footer page**
 17:33:37.667 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the product return page**
+17:05:54.290 [main] INFO  testCases.TC_017_OrderHistory - ***Start of the order history check test***
+17:05:54.296 [main] INFO  testCases.TC_017_OrderHistory - **Calling the home page**
+17:05:54.781 [main] INFO  testCases.TC_017_OrderHistory - **calling the login page**
+17:05:55.060 [main] INFO  testCases.TC_017_OrderHistory - **Calling the search page**
+17:05:56.328 [main] INFO  testCases.TC_017_OrderHistory - **Calling the order history page**

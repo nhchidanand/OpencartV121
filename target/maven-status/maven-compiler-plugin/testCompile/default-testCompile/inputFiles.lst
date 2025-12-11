@@ -1,4 +1,5 @@
 D:\Work\AutomationTesting\OpencartV121\src\test\java\utilities\DataProviders.java
+D:\Work\AutomationTesting\OpencartV121\src\test\java\utilities\WaitUtility.java
 D:\Work\AutomationTesting\OpencartV121\src\test\java\testCases\TC_009_EditAccount.java
 D:\Work\AutomationTesting\OpencartV121\src\test\java\testCases\TC_010_ChangePassword.java
 D:\Work\AutomationTesting\OpencartV121\src\test\java\pageObjects\FooterPage.java
@@ -21,8 +22,10 @@ D:\Work\AutomationTesting\OpencartV121\src\test\java\pageObjects\NewsLetterPage.
 D:\Work\AutomationTesting\OpencartV121\src\test\java\utilities\JSONUtility.java
 D:\Work\AutomationTesting\OpencartV121\src\test\java\pageObjects\RegistrationPage.java
 D:\Work\AutomationTesting\OpencartV121\src\test\java\testCases\TC_013_NewsLetterSubscriptionNo.java
+D:\Work\AutomationTesting\OpencartV121\src\test\java\testCases\TC_017_OrderHistory.java
 D:\Work\AutomationTesting\OpencartV121\src\test\java\testCases\TC_012_NewsLetterSubscriptionYes.java
 D:\Work\AutomationTesting\OpencartV121\src\test\java\pageObjects\MyAccount.java
+D:\Work\AutomationTesting\OpencartV121\src\test\java\pageObjects\OrderHistoryPage.java
 D:\Work\AutomationTesting\OpencartV121\src\test\java\utilities\ExcelUtility.java
 D:\Work\AutomationTesting\OpencartV121\src\test\java\testCases\TC_004_LogoutTest.java
 D:\Work\AutomationTesting\OpencartV121\src\test\java\testCases\TC_011_LoginDB.java

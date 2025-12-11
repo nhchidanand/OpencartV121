@@ -40,6 +40,10 @@ public class SearchPage extends BasePage{
 	@FindBy(xpath="//a[@class='list-group-item'][normalize-space()='Newsletter']")
 	WebElement newsLetter;
 	
+	@FindBy(xpath="//div[@class='list-group']//a[contains(text(), 'Order History')]")
+	WebElement orderHistory;
+	
+	
 	public void clickIphone()
 	{
 		clkIphone.click();
@@ -89,5 +93,10 @@ public class SearchPage extends BasePage{
 	public void clickNewsLetter()
 	{
 		newsLetter.click();
+	}
+	
+	public void clickOrderHistory()
+	{
+		orderHistory.click();
 	}
 }
