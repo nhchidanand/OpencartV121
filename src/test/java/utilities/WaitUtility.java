@@ -9,16 +9,31 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class WaitUtility {
 	
-	public WebElement waitForElementToBeClickable(WebDriver driver, By locator)
+	private static final int DEFAULT_TIMEOUT = 10;
+	
+	private static WebDriverWait getWait(WebDriver driver)
 	{
-		WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
-		return wait.until(ExpectedConditions.elementToBeClickable(locator));
+		WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(DEFAULT_TIMEOUT));
+		return wait;
 	}
 	
-	public WebElement waitForelementTobeVisible(WebDriver driver, By locator)
+	public static WebElement waitForElementToBeClickable(WebDriver driver, By locator)
 	{
-		WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
-		WebElement s = wait.until(ExpectedConditions.visibilityOfElementLocated(locator));
-		return s;
+		return getWait(driver).until(ExpectedConditions.elementToBeClickable(locator));
+	}
+	
+	public static WebElement waitForElementToBeVisible(WebDriver driver, By locator)
+	{
+		return getWait(driver).until(ExpectedConditions.visibilityOfElementLocated(locator));
+	}
+	
+	public static Boolean waitForElementToBeInvisible(WebDriver driver, By locator)
+	{
+		return getWait(driver).until(ExpectedConditions.invisibilityOfElementLocated(locator));
+	}
+	
+	public static WebElement waitForPresenceOfElement(WebDriver driver, By locator)
+	{
+		return getWait(driver).until(ExpectedConditions.presenceOfElementLocated(locator));
 	}
 }

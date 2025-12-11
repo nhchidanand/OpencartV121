@@ -9,8 +9,6 @@ import utilities.*;
 
 public class OrderHistoryPage extends BasePage{
 	
-	
-	WaitUtility util = new WaitUtility();
 	public OrderHistoryPage(WebDriver driver)
 	{
 		super(driver);
@@ -30,7 +28,7 @@ public class OrderHistoryPage extends BasePage{
 	public void clickContinueButton()
 	{
 
-		WebElement btnclk = util.waitForElementToBeClickable(driver, btnContinue);
+		WebElement btnclk = WaitUtility.waitForElementToBeClickable(driver, btnContinue);
 		btnclk.click();
 	}
 }
