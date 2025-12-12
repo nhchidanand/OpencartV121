@@ -820,3 +820,15 @@
 17:05:54.781 [main] INFO  testCases.TC_017_OrderHistory - **calling the login page**
 17:05:55.060 [main] INFO  testCases.TC_017_OrderHistory - **Calling the search page**
 17:05:56.328 [main] INFO  testCases.TC_017_OrderHistory - **Calling the order history page**
+00:19:04.853 [main] INFO  testCases.TC_017_OrderHistory - ***Start of the order history check test***
+00:19:04.856 [main] INFO  testCases.TC_017_OrderHistory - **Calling the home page**
+00:19:05.438 [main] INFO  testCases.TC_017_OrderHistory - **calling the login page**
+00:19:06.946 [main] INFO  testCases.TC_017_OrderHistory - **Calling the search page**
+00:19:07.476 [main] INFO  testCases.TC_017_OrderHistory - **Calling the order history page**
+00:20:19.836 [main] INFO  testCases.TC_018_GetAllDesktops - ***Start of the test***
+00:20:19.846 [main] INFO  testCases.TC_018_GetAllDesktops - **calling the home page**
+00:20:20.588 [main] INFO  testCases.TC_018_GetAllDesktops - **calling the login page**
+00:20:20.953 [main] INFO  testCases.TC_018_GetAllDesktops - calling the footer page
+00:20:22.848 [main] INFO  testCases.TC_018_GetAllDesktops - **calling the site map page**
+00:20:23.932 [main] INFO  testCases.TC_018_GetAllDesktops - **calling the desktop page**
+00:20:24.098 [main] INFO  testCases.TC_018_GetAllDesktops - **End of test**

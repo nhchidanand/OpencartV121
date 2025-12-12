@@ -13,8 +13,7 @@ public class WaitUtility {
 	
 	private static WebDriverWait getWait(WebDriver driver)
 	{
-		WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(DEFAULT_TIMEOUT));
-		return wait;
+		return new WebDriverWait(driver, Duration.ofSeconds(DEFAULT_TIMEOUT));
 	}
 	
 	public static WebElement waitForElementToBeClickable(WebDriver driver, By locator)

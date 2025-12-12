@@ -1,6 +1,8 @@
 pageObjects\FooterPage.class
 testCases\TC_008_UpdateAddress.class
+testCases\TC_017_OrderHistory.class
 pageObjects\ContactFormPage.class
+pageObjects\SiteMapPage.class
 pageObjects\HomePage.class
 basePage\BasePage.class
 testCases\TC_003_LoginDDT.class
@@ -14,14 +16,18 @@ testCases\TC_005_SearchIphoneTest.class
 testCases\TC_013_NewsLetterSubscriptionNo.class
 pageObjects\ProductsReturnPage.class
 pageObjects\ChangePasswordPage.class
+pageObjects\DeskTopsPage.class
 testCases\TC_001_AccountRegistrationTest.class
 testCases\TC_016_ReturnProduct.class
+utilities\WaitUtility.class
+pageObjects\OrderHistoryPage.class
 testCases\TC_002_LoginTest.class
 utilities\JSONUtility.class
 pageObjects\LogoutPage.class
 testCases\TC_015_SubmitContactFormN.class
 pageObjects\MyAccount.class
 testCases\TC_012_NewsLetterSubscriptionYes.class
+testCases\TC_018_GetAllDesktops.class
 pageObjects\AddToCartPage.class
 pageObjects\CheckOutPage.class
 utilities\ExtentReportUtility.class
