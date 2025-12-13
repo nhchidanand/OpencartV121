@@ -1,6 +1,8 @@
 package utilities;
 
 import java.time.Duration;
+import java.util.List;
+
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -34,5 +36,10 @@ public class WaitUtility {
 	public static WebElement waitForPresenceOfElement(WebDriver driver, By locator)
 	{
 		return getWait(driver).until(ExpectedConditions.presenceOfElementLocated(locator));
+	}
+	
+	public static List<WebElement> waitForElementsToBeVisible(WebDriver driver, By locator)
+	{
+		return getWait(driver).until(ExpectedConditions.visibilityOfAllElementsLocatedBy(locator));
 	}
 }
