@@ -39,8 +39,8 @@ public class DeskTopsPage extends BasePage{
 	//Using locator
 	public List<String> productsList()
 	{
-		List<WebElement> products = WaitUtility.waitForElementsToBeVisible(driver, prdts);
 		List<String> names = new ArrayList<>();
+		List<WebElement> products = WaitUtility.waitForElementsToBeVisible(driver, prdts);
 		for(WebElement product: products)
 		{
 			names.add(product.getText());

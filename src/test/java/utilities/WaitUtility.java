@@ -23,6 +23,11 @@ public class WaitUtility {
 		return getWait(driver).until(ExpectedConditions.elementToBeClickable(locator));
 	}
 	
+	public static WebElement waitForElementToBeClickable(WebDriver driver, WebElement element)
+	{
+		return getWait(driver).until(ExpectedConditions.elementToBeClickable(element));
+	}
+	
 	public static WebElement waitForElementToBeVisible(WebDriver driver, By locator)
 	{
 		return getWait(driver).until(ExpectedConditions.visibilityOfElementLocated(locator));
