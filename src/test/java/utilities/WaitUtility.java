@@ -47,4 +47,9 @@ public class WaitUtility {
 	{
 		return getWait(driver).until(ExpectedConditions.visibilityOfAllElementsLocatedBy(locator));
 	}
+	
+	public static Boolean waitForElementsToBeInvisible(WebDriver driver, WebElement element)
+	{
+		return getWait(driver).until(ExpectedConditions.invisibilityOfAllElements(element));
+	}
 }

@@ -846,3 +846,30 @@
 19:46:52.166 [main] INFO  testCases.TC_018_GetAllDesktops - **calling the site map page**
 19:46:53.259 [main] INFO  testCases.TC_018_GetAllDesktops - **calling the desktop page**
 19:46:53.369 [main] INFO  testCases.TC_018_GetAllDesktops - **End of test**
+22:34:56.227 [main] INFO  testCases.TC_018_GetAllDesktops - ***Start of the test***
+22:34:56.229 [main] INFO  testCases.TC_018_GetAllDesktops - **calling the home page**
+22:34:56.745 [main] INFO  testCases.TC_018_GetAllDesktops - **calling the login page**
+22:34:58.131 [main] INFO  testCases.TC_018_GetAllDesktops - calling the footer page
+22:34:58.502 [main] INFO  testCases.TC_018_GetAllDesktops - **calling the site map page**
+22:34:59.231 [main] INFO  testCases.TC_018_GetAllDesktops - **calling the desktop page**
+22:34:59.417 [main] INFO  testCases.TC_018_GetAllDesktops - **End of test**
+18:22:58.076 [main] INFO  testCases.TC_018_GetAllDesktops - ***Start of the test***
+18:22:58.083 [main] INFO  testCases.TC_018_GetAllDesktops - **calling the home page**
+18:22:58.490 [main] INFO  testCases.TC_018_GetAllDesktops - **calling the login page**
+18:22:58.770 [main] INFO  testCases.TC_018_GetAllDesktops - calling the footer page
+18:23:00.067 [main] INFO  testCases.TC_018_GetAllDesktops - **calling the site map page**
+18:23:00.925 [main] INFO  testCases.TC_018_GetAllDesktops - **calling the desktop page**
+18:23:01.059 [main] INFO  testCases.TC_018_GetAllDesktops - **End of test**
+21:56:56.894 [main] INFO  testCases.TC_018_GetAllDesktops - ***Start of the test***
+21:56:56.898 [main] INFO  testCases.TC_018_GetAllDesktops - **calling the home page**
+21:56:57.332 [main] INFO  testCases.TC_018_GetAllDesktops - **calling the login page**
+21:56:57.635 [main] INFO  testCases.TC_018_GetAllDesktops - calling the footer page
+21:57:00.296 [main] INFO  testCases.TC_018_GetAllDesktops - **calling the site map page**
+21:57:01.610 [main] INFO  testCases.TC_018_GetAllDesktops - **calling the desktop page**
+21:57:01.799 [main] INFO  testCases.TC_018_GetAllDesktops - **End of test**
+22:00:02.781 [main] INFO  testCases.TC_018_GetAllDesktops - ***Start of the test***
+22:00:02.784 [main] INFO  testCases.TC_018_GetAllDesktops - **calling the home page**
+22:00:05.241 [main] INFO  testCases.TC_018_GetAllDesktops - **calling the login page**
+22:00:05.556 [main] INFO  testCases.TC_018_GetAllDesktops - calling the footer page
+22:00:09.685 [main] INFO  testCases.TC_018_GetAllDesktops - **calling the site map page**
+22:00:11.252 [main] INFO  testCases.TC_018_GetAllDesktops - **calling the desktop page**

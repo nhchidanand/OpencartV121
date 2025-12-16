@@ -7,6 +7,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.List;
 
+import org.openqa.selenium.By;
 import org.testng.ITestContext;
 import org.testng.ITestListener;
 import org.testng.ITestResult;
@@ -83,13 +84,26 @@ public class ExtentReportUtility implements ITestListener{
 		
 		try
 		{
-		String imgPath = new BaseClass().captureScreen(result.getName());
-		test.addScreenCaptureFromPath(imgPath);
+			String imgPath = ScreenshotUtility.captureScreenshot(BaseClass.driver, result.getName());
+			//ScreenshotUtility.captureScreenshot(BaseClass.driver, By.id("username"), result.getMethod().getMethodName());
+			test.addScreenCaptureFromPath(imgPath);
+		}
+		catch(Exception e)
+		{
+			e.printStackTrace();
+		}
+		
+		/*
+		try
+		{
+		String imgpath = new BaseClass().captureScreen(result.getName());
+		test.addScreenCaptureFromPath(imgpath);
 		}
 		catch(Exception e1)
 		{
 			e1.printStackTrace();
 		}
+		*/
 	 }
 	 
 	 

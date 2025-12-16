@@ -1,6 +1,7 @@
 package testCases;
 import java.util.List;
 
+import org.testng.Assert;
 import org.testng.annotations.Test;
 
 import pageObjects.DeskTopsPage;
