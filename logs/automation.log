@@ -873,3 +873,166 @@
 22:00:05.556 [main] INFO  testCases.TC_018_GetAllDesktops - calling the footer page
 22:00:09.685 [main] INFO  testCases.TC_018_GetAllDesktops - **calling the site map page**
 22:00:11.252 [main] INFO  testCases.TC_018_GetAllDesktops - **calling the desktop page**
+22:58:38.754 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** This is the start of the test execution ***
+22:58:38.763 [main] INFO  testCases.TC_001_AccountRegistrationTest - This is the execution of the home page
+22:58:38.898 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on my account link
+22:58:39.679 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on registration link
+22:58:39.679 [main] INFO  testCases.TC_001_AccountRegistrationTest - This is the execution of registration page
+22:58:41.323 [main] INFO  testCases.TC_001_AccountRegistrationTest - this is the validation of the registration message
+22:58:41.350 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** This is the completion of the test execution ***
+22:58:45.456 [main] INFO  testCases.TC_002_LoginTest - *** Start of the Login test ***
+22:58:45.456 [main] INFO  testCases.TC_002_LoginTest - **Navigating to home page**
+22:58:45.457 [main] INFO  testCases.TC_002_LoginTest - **Clicking on my account link**
+22:58:45.544 [main] INFO  testCases.TC_002_LoginTest - **Clicking on my login link**
+22:58:45.948 [main] INFO  testCases.TC_002_LoginTest - **Navigating to email login page**
+22:58:47.343 [main] INFO  testCases.TC_002_LoginTest - **Navigating to My Account page**
+22:58:51.132 [main] INFO  testCases.TC_003_LoginDDT - ***Start of the login validation test***
+22:58:51.132 [main] INFO  testCases.TC_003_LoginDDT - **invoking home page**
+22:58:51.649 [main] INFO  testCases.TC_003_LoginDDT - **invoking login page**
+22:58:51.967 [main] INFO  testCases.TC_003_LoginDDT - **invoking my accont page**
+22:58:53.293 [main] INFO  testCases.TC_003_LoginDDT - ***end of the login validation test***
+22:58:53.296 [main] INFO  testCases.TC_003_LoginDDT - ***Start of the login validation test***
+22:58:53.296 [main] INFO  testCases.TC_003_LoginDDT - **invoking home page**
+22:58:53.720 [main] INFO  testCases.TC_003_LoginDDT - **invoking login page**
+22:58:54.751 [main] INFO  testCases.TC_003_LoginDDT - **invoking my accont page**
+22:58:55.253 [main] INFO  testCases.TC_003_LoginDDT - ***end of the login validation test***
+22:58:55.254 [main] INFO  testCases.TC_003_LoginDDT - ***Start of the login validation test***
+22:58:55.254 [main] INFO  testCases.TC_003_LoginDDT - **invoking home page**
+22:58:55.615 [main] INFO  testCases.TC_003_LoginDDT - **invoking login page**
+22:58:55.856 [main] INFO  testCases.TC_003_LoginDDT - **invoking my accont page**
+22:58:56.797 [main] INFO  testCases.TC_003_LoginDDT - ***end of the login validation test***
+22:58:56.800 [main] INFO  testCases.TC_003_LoginDDT - ***Start of the login validation test***
+22:58:56.800 [main] INFO  testCases.TC_003_LoginDDT - **invoking home page**
+22:59:06.924 [main] INFO  testCases.TC_003_LoginDDT - ***end of the login validation test***
+22:59:07.064 [main] INFO  testCases.TC_003_LoginDDT - ***Start of the login validation test***
+22:59:07.064 [main] INFO  testCases.TC_003_LoginDDT - **invoking home page**
+22:59:17.171 [main] INFO  testCases.TC_003_LoginDDT - ***end of the login validation test***
+22:59:17.292 [main] INFO  testCases.TC_003_LoginDDT - ***Start of the login validation test***
+22:59:17.292 [main] INFO  testCases.TC_003_LoginDDT - **invoking home page**
+22:59:27.379 [main] INFO  testCases.TC_003_LoginDDT - ***end of the login validation test***
+22:59:30.505 [main] INFO  testCases.TC_004_LogoutTest - Srart of the test!
+22:59:30.505 [main] INFO  testCases.TC_004_LogoutTest - Calling home page
+22:59:31.093 [main] INFO  testCases.TC_004_LogoutTest - calling login page
+22:59:32.498 [main] INFO  testCases.TC_004_LogoutTest - calling logout page
+22:59:33.065 [main] INFO  testCases.TC_004_LogoutTest - Ending the test!
+22:59:35.691 [main] INFO  testCases.TC_005_SearchIphoneTest - *****Start of test*****
+22:59:35.691 [main] INFO  testCases.TC_005_SearchIphoneTest - **invoke of home page**
+22:59:36.067 [main] INFO  testCases.TC_005_SearchIphoneTest - **invoke of login age**
+22:59:37.311 [main] INFO  testCases.TC_005_SearchIphoneTest - **invoke of logout page where it has search elements**
+22:59:37.858 [main] INFO  testCases.TC_005_SearchIphoneTest - **invoke of search page**
+22:59:39.997 [main] INFO  testCases.TC_005_SearchIphoneTest - **invoke of add to cart page**
+22:59:40.522 [main] INFO  testCases.TC_005_SearchIphoneTest - **invoke of checkout page**
+22:59:41.043 [main] INFO  testCases.TC_005_SearchIphoneTest - ****End of test****
+22:59:44.752 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - **Start of the test**
+22:59:44.752 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - *Invoke of homepage*
+22:59:45.121 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - *Invoke of login page*
+22:59:46.425 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - invoke of logout page where it has element for entering for the search
+22:59:47.043 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - *Invoke of searchpage*
+22:59:48.123 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - *Invoke of Add to cart page*
+22:59:48.463 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - *calling the method which is present inside the base page*
+22:59:48.907 [main] INFO  testCases.TC_006_ValidateProductInWishlsit - *Invoke of wish list page*
+22:59:52.282 [main] INFO  testCases.TC_007_UpdateAddress - ***Start of the test***
+22:59:52.282 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the home page**
+22:59:52.701 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the login page**
+22:59:52.973 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the search page**
+22:59:54.239 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the address page**
+22:59:55.056 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the add address page**
+22:59:56.563 [main] INFO  testCases.TC_007_UpdateAddress - **Again calling search page for the validation**
+22:59:56.613 [main] INFO  testCases.TC_007_UpdateAddress - **Again calling search page object**
+22:59:57.105 [main] INFO  testCases.TC_007_UpdateAddress - ***Start of the test***
+22:59:57.105 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the home page**
+22:59:57.518 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the login page**
+22:59:57.799 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the search page**
+22:59:58.944 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the address page**
+22:59:59.251 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the add address page**
+23:00:01.939 [main] INFO  testCases.TC_007_UpdateAddress - **Again calling search page for the validation**
+23:00:01.960 [main] INFO  testCases.TC_007_UpdateAddress - **Again calling search page object**
+23:00:03.874 [main] INFO  testCases.TC_007_UpdateAddress - ***Start of the test***
+23:00:03.876 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the home page**
+23:00:05.308 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the login page**
+23:00:05.630 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the search page**
+23:00:10.108 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the address page**
+23:00:10.468 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the add address page**
+23:00:12.367 [main] INFO  testCases.TC_007_UpdateAddress - **Again calling search page for the validation**
+23:00:12.385 [main] INFO  testCases.TC_007_UpdateAddress - **Again calling search page object**
+23:00:12.866 [main] INFO  testCases.TC_007_UpdateAddress - ***Start of the test***
+23:00:12.866 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the home page**
+23:00:13.276 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the login page**
+23:00:13.576 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the search page**
+23:00:14.920 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the address page**
+23:00:15.238 [main] INFO  testCases.TC_007_UpdateAddress - **Start of the add address page**
+23:00:16.740 [main] INFO  testCases.TC_007_UpdateAddress - **Again calling search page for the validation**
+23:00:16.793 [main] INFO  testCases.TC_007_UpdateAddress - **Again calling search page object**
+23:00:20.126 [main] INFO  testCases.TC_008_UpdateAddress - ***Start of the test***
+23:00:20.126 [main] INFO  testCases.TC_008_UpdateAddress - **Start of the home page**
+23:00:20.551 [main] INFO  testCases.TC_008_UpdateAddress - **Start of the login page**
+23:00:20.820 [main] INFO  testCases.TC_008_UpdateAddress - **Start of the search page**
+23:00:21.983 [main] INFO  testCases.TC_008_UpdateAddress - **Start of the address page**
+23:00:22.640 [main] INFO  testCases.TC_008_UpdateAddress - **Start of the add address page**
+23:00:24.214 [main] INFO  testCases.TC_008_UpdateAddress - **Again calling search page for the validation**
+23:00:24.267 [main] INFO  testCases.TC_008_UpdateAddress - **Again calling search page object**
+23:00:24.688 [main] INFO  testCases.TC_008_UpdateAddress - ***Start of the test***
+23:00:24.688 [main] INFO  testCases.TC_008_UpdateAddress - **Start of the home page**
+23:00:25.036 [main] INFO  testCases.TC_008_UpdateAddress - **Start of the login page**
+23:00:25.354 [main] INFO  testCases.TC_008_UpdateAddress - **Start of the search page**
+23:00:26.560 [main] INFO  testCases.TC_008_UpdateAddress - **Start of the address page**
+23:00:26.905 [main] INFO  testCases.TC_008_UpdateAddress - **Start of the add address page**
+23:00:28.076 [main] INFO  testCases.TC_008_UpdateAddress - **Again calling search page for the validation**
+23:00:28.459 [main] INFO  testCases.TC_008_UpdateAddress - **Again calling search page object**
+23:00:31.119 [main] INFO  testCases.TC_009_EditAccount - **Navigating to Home Page**
+23:00:31.618 [main] INFO  testCases.TC_009_EditAccount - **Navigating to Login Page**
+23:00:33.015 [main] INFO  testCases.TC_009_EditAccount - **Navigatting to Search Page**
+23:00:33.761 [main] INFO  testCases.TC_009_EditAccount - **Navigating through My Account Information page**
+23:00:34.889 [main] INFO  testCases.TC_009_EditAccount - **Again looping through Search Page**
+23:00:37.183 [main] INFO  testCases.TC_010_ChangePassword - **Opening the homepage**
+23:00:37.661 [main] INFO  testCases.TC_010_ChangePassword - **Opening the Login page**
+23:00:37.910 [main] INFO  testCases.TC_010_ChangePassword - **Opening the Search page**
+23:00:39.515 [main] INFO  testCases.TC_010_ChangePassword - **Opening the ChangePasswordPage**
+23:00:41.361 [main] INFO  testCases.TC_010_ChangePassword - **Again navigating through Search Page**
+23:00:46.599 [main] INFO  testCases.TC_011_LoginDB - **Calling the home page object**
+23:00:47.184 [main] INFO  testCases.TC_011_LoginDB - **Calling the database method from base class**
+23:00:47.746 [main] INFO  testCases.TC_011_LoginDB - **Calling the login in page object**
+23:00:51.131 [main] INFO  testCases.TC_012_NewsLetterSubscriptionYes - **Calling the home page object**
+23:00:51.585 [main] INFO  testCases.TC_012_NewsLetterSubscriptionYes - **Calling the login page object**
+23:00:51.826 [main] INFO  testCases.TC_012_NewsLetterSubscriptionYes - **CAlling the search page object**
+23:00:53.216 [main] INFO  testCases.TC_012_NewsLetterSubscriptionYes - **Calling the newsletter page object**
+23:01:01.341 [main] INFO  testCases.TC_013_NewsLetterSubscriptionNo - **Calling the home page object**
+23:01:01.929 [main] INFO  testCases.TC_013_NewsLetterSubscriptionNo - **Calling the login page object**
+23:01:03.132 [main] INFO  testCases.TC_013_NewsLetterSubscriptionNo - **CAlling the search page object**
+23:01:03.459 [main] INFO  testCases.TC_013_NewsLetterSubscriptionNo - **Calling the newsletter page object**
+23:01:06.562 [main] INFO  testCases.TC_014_SubmitContactFormP - ***Srart of test execution***
+23:01:06.562 [main] INFO  testCases.TC_014_SubmitContactFormP - **CAlling the home page**
+23:01:07.037 [main] INFO  testCases.TC_014_SubmitContactFormP - **Calling the login page**
+23:01:08.649 [main] INFO  testCases.TC_014_SubmitContactFormP - **Calling the Footer page**
+23:01:08.980 [main] INFO  testCases.TC_014_SubmitContactFormP - **Calling the contact form page**
+23:01:09.667 [main] INFO  testCases.TC_014_SubmitContactFormP - ***End of test execution***
+23:01:11.927 [main] INFO  testCases.TC_015_SubmitContactFormN - ***Srart of test execution***
+23:01:11.930 [main] INFO  testCases.TC_015_SubmitContactFormN - **CAlling the home page**
+23:01:12.363 [main] INFO  testCases.TC_015_SubmitContactFormN - **Calling the login page**
+23:01:12.637 [main] INFO  testCases.TC_015_SubmitContactFormN - **Calling the Footer page**
+23:01:13.988 [main] INFO  testCases.TC_015_SubmitContactFormN - **Calling the contact form page**
+23:01:14.586 [main] INFO  testCases.TC_015_SubmitContactFormN - ***End of test execution***
+23:01:17.698 [main] INFO  testCases.TC_016_ReturnProduct - ***Srart of test execution***
+23:01:17.698 [main] INFO  testCases.TC_016_ReturnProduct - **CAlling the home page**
+23:01:18.132 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the login page**
+23:01:18.401 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the Footer page**
+23:01:20.939 [main] INFO  testCases.TC_016_ReturnProduct - **Calling the product return page**
+23:01:26.308 [main] INFO  testCases.TC_017_OrderHistory - ***Start of the order history check test***
+23:01:26.308 [main] INFO  testCases.TC_017_OrderHistory - **Calling the home page**
+23:01:26.707 [main] INFO  testCases.TC_017_OrderHistory - **calling the login page**
+23:01:28.210 [main] INFO  testCases.TC_017_OrderHistory - **Calling the search page**
+23:01:28.650 [main] INFO  testCases.TC_017_OrderHistory - **Calling the order history page**
+23:01:31.036 [main] INFO  testCases.TC_018_GetAllDesktops - ***Start of the test***
+23:01:31.036 [main] INFO  testCases.TC_018_GetAllDesktops - **calling the home page**
+23:01:31.517 [main] INFO  testCases.TC_018_GetAllDesktops - **calling the login page**
+23:01:32.816 [main] INFO  testCases.TC_018_GetAllDesktops - calling the footer page
+23:01:33.155 [main] INFO  testCases.TC_018_GetAllDesktops - **calling the site map page**
+23:01:33.940 [main] INFO  testCases.TC_018_GetAllDesktops - **calling the desktop page**
+23:01:34.055 [main] INFO  testCases.TC_018_GetAllDesktops - **End of test**
+23:03:40.603 [main] INFO  testCases.TC_018_GetAllDesktops - ***Start of the test***
+23:03:40.612 [main] INFO  testCases.TC_018_GetAllDesktops - **calling the home page**
+23:03:41.147 [main] INFO  testCases.TC_018_GetAllDesktops - **calling the login page**
+23:03:42.556 [main] INFO  testCases.TC_018_GetAllDesktops - calling the footer page
+23:03:42.989 [main] INFO  testCases.TC_018_GetAllDesktops - **calling the site map page**
+23:03:43.992 [main] INFO  testCases.TC_018_GetAllDesktops - **calling the desktop page**
+23:03:44.131 [main] INFO  testCases.TC_018_GetAllDesktops - **End of test**

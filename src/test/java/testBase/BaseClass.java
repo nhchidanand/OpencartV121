@@ -1,6 +1,5 @@
 package testBase;
 
-import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.net.URL;
@@ -9,18 +8,14 @@ import java.sql.DriverManager;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
-import java.text.SimpleDateFormat;
 import java.time.Duration;
-import java.util.Date;
 import java.util.HashMap;
 import java.util.Properties;
 
 import org.apache.commons.lang3.RandomStringUtils;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-import org.openqa.selenium.OutputType;
 import org.openqa.selenium.Platform;
-import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
@@ -135,18 +130,6 @@ public Properties property;
 	{
 		return RandomStringUtils.randomNumeric(1);
 	}
-	
-	public String captureScreen(String tname)
-	{
-		String timeStamp = new SimpleDateFormat("yyyyMMddHHmmss").format(new Date());
-		TakesScreenshot ts = (TakesScreenshot) driver;
-		File sourceFile = ts.getScreenshotAs(OutputType.FILE);
-		String targetFilePath = System.getProperty("user.dir")+"\\screenshots\\"+tname+"_"+timeStamp+".png";
-		File targetFile = new File(targetFilePath);
-		sourceFile.renameTo(targetFile);
-		return targetFilePath;
-	}
-	
 	
 	public HashMap<String, String> DataBaseConnection() throws SQLException
 	{

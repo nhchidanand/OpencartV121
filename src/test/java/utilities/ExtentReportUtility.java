@@ -7,7 +7,6 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.List;
 
-import org.openqa.selenium.By;
 import org.testng.ITestContext;
 import org.testng.ITestListener;
 import org.testng.ITestResult;
@@ -27,15 +26,8 @@ public class ExtentReportUtility implements ITestListener{
 	public ExtentTest test;
 	String repName;
 	
-	
 	 public void onStart(ITestContext context) 
-	 {
-		 /*
-		 SimpleDateFormat df = new SimpleDateFormat("yyyy.MM.dd.HH.mm.ss");
-		 Date dt = new Date();
-		 String currentdatetimestamp = df.format(dt);
-		 */
-		 
+	 { 
 		 String timeStamp =new SimpleDateFormat("yyyy.MM.dd.HH.mm.ss").format(new Date());
 		 repName = "test-report-"+timeStamp+".html";
 		 
@@ -63,9 +55,7 @@ public class ExtentReportUtility implements ITestListener{
 		 {
 			 extent.setSystemInfo("Groups", includeGroup.toString());
 		 }
-		 
 	 }
-	 
 	 
 	 public void onTestSuccess(ITestResult result) 
 	 {
@@ -74,19 +64,17 @@ public class ExtentReportUtility implements ITestListener{
 		test.log(Status.PASS, result.getName() + "passed successfully");
 	 }
 	 
-	 
 	 public void onTestFailure(ITestResult result) 
 	 {
 		test = extent.createTest(result.getClass().getName());
 		test.assignCategory(result.getMethod().getGroups());
 		test.log(Status.FAIL, result.getName()+"got failed");
 		test.log(Status.INFO, result.getThrowable().getMessage());
-		
 		try
 		{
 			String imgPath = ScreenshotUtility.captureScreenshot(BaseClass.driver, result.getName());
-			//ScreenshotUtility.captureScreenshot(BaseClass.driver, By.id("username"), result.getMethod().getMethodName());
 			test.addScreenCaptureFromPath(imgPath);
+			//ScreenshotUtility.captureScreenshot(BaseClass.driver, By.id("username"), result.getMethod().getMethodName());
 		}
 		catch(Exception e)
 		{
@@ -106,7 +94,6 @@ public class ExtentReportUtility implements ITestListener{
 		*/
 	 }
 	 
-	 
 	 public void onTestSkipped(ITestResult result) 
 	 {
 		test = extent.createTest(result.getClass().getName());
@@ -115,21 +102,17 @@ public class ExtentReportUtility implements ITestListener{
 		test.log(Status.INFO, result.getThrowable().getMessage());
 	 }
 
-	 
 	 public void onFinish(ITestContext context) 
 	 {
 		 extent.flush();
-		 
 		 String pathOfTheExtentReport = System.getProperty("user.dir")+"\\reports\\"+repName;
 		 File filePath = new File(pathOfTheExtentReport);
 		 try {
 			Desktop.getDesktop().browse(filePath.toURI());
 		} catch (IOException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-		 
-		 
+		 		 
 		 /*
 		 try {
 	         URL url = new URL("file://" + System.getProperty("user.dir") + "\\reports\\yourReportFile.html");
@@ -154,6 +137,4 @@ public class ExtentReportUtility implements ITestListener{
 	     } 
 		 */
 	 }
-	 
-
 }
