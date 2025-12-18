@@ -1,4 +1,5 @@
 package testCases;
+
 import java.util.List;
 
 import org.testng.Assert;
@@ -13,47 +14,42 @@ import pageObjects.SiteMapPage;
 import testBase.BaseClass;
 import utilities.*;
 
-@Listeners(RetryListener.class)
-public class TC_018_GetAllDesktops extends BaseClass{
-	
-	@Test(groups="Smoke", retryAnalyzer=RetryAnalyzer.class)
-	public void displayAllDesktops()
-	{
+//@Listeners(RetryListener.class)
+public class TC_018_GetAllDesktops extends BaseClass {
+
+	// @Test(groups="Smoke", retryAnalyzer=RetryAnalyzer.class)
+	@Test(groups = "Smoke")
+	public void displayAllDesktops() {
 		logger.info("***Start of the test***");
-		try
-		{
-			
-			logger.info("**calling the home page**");
-			HomePage hm = new HomePage(driver);
-			hm.clickMyaccount();
-			hm.clickLogin();
-			
-			logger.info("**calling the login page**");
-			LoginPage lp = new LoginPage(driver);
-			lp.setEmail(property.getProperty("email"));
-			lp.setPassword(property.getProperty("password"));
-			lp.clickLogin();
-			
-			logger.info("calling the footer page");
-			FooterPage fp = new FooterPage(driver);
-			fp.linkSiteMap();
-			
-			logger.info("**calling the site map page**");
-			SiteMapPage smp = new SiteMapPage(driver);
-			smp.clickDesktop();
-			
-			logger.info("**calling the desktop page**");
-			DeskTopsPage dtp = new DeskTopsPage(driver);
-			List<String> products = dtp.listOfProducts();
-			for(String product: products)
-			{
-				System.out.println(product);
-			}
+
+		logger.info("**calling the home page**");
+		HomePage hm = new HomePage(driver);
+		hm.clickMyaccount();
+		hm.clickLogin();
+
+		logger.info("**calling the login page**");
+		LoginPage lp = new LoginPage(driver);
+		lp.setEmail(property.getProperty("email"));
+		lp.setPassword(property.getProperty("password"));
+		lp.clickLogin();
+
+		logger.info("calling the footer page");
+		FooterPage fp = new FooterPage(driver);
+		fp.linkSiteMap();
+
+		logger.info("**calling the site map page**");
+		SiteMapPage smp = new SiteMapPage(driver);
+		smp.clickDesktop();
+
+		logger.info("**calling the desktop page**");
+		DeskTopsPage dtp = new DeskTopsPage(driver);
+		List<String> products = dtp.listOfProducts();
+		for (String product : products) {
+			System.out.println(product);
 		}
-		catch(Exception e)
-		{
-			System.out.println(e.getMessage());
-		}
+
+		//Assert.assertTrue(false);
+		
 		logger.info("**End of test**");
 	}
 }

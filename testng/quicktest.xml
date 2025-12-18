@@ -3,7 +3,8 @@
 <suite name="Suite">
 
 <listeners>
-	<listener class-name="utilities.ExtentReportUtility"></listener>
+	<listener class-name="utilities.ExtentReportUtility"/>
+	<listener class-name="utilities.RetryListener"/>
 </listeners>
 
   <test name="EdgeTest">
