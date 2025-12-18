@@ -8,7 +8,7 @@ import testBase.*;
 
 public class TC_016_ReturnProduct extends BaseClass{
 	
-	@Test(groups="Regression")
+	@Test(groups={"Regression, Smoke"})
 	public void returnProduct()
 	{
 		logger.info("***Srart of test execution***");

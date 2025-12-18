@@ -7,7 +7,7 @@ import org.testng.Assert;
 import pageObjects.*;
 public class TC_017_OrderHistory extends BaseClass{
 
-	@Test
+	@Test(groups="Smoke")
 	public void orderHistoryCheck()
 	{
 		logger.info("***Start of the order history check test***");

@@ -2,6 +2,7 @@ D:\Work\AutomationTesting\OpencartV121\src\test\java\utilities\DataProviders.jav
 D:\Work\AutomationTesting\OpencartV121\src\test\java\utilities\WaitUtility.java
 D:\Work\AutomationTesting\OpencartV121\src\test\java\testCases\TC_009_EditAccount.java
 D:\Work\AutomationTesting\OpencartV121\src\test\java\testCases\TC_010_ChangePassword.java
+D:\Work\AutomationTesting\OpencartV121\src\test\java\utilities\RetryAnalyzer.java
 D:\Work\AutomationTesting\OpencartV121\src\test\java\pageObjects\FooterPage.java
 D:\Work\AutomationTesting\OpencartV121\src\test\java\testCases\TC_001_AccountRegistrationTest.java
 D:\Work\AutomationTesting\OpencartV121\src\test\java\basePage\BasePage.java
@@ -18,6 +19,7 @@ D:\Work\AutomationTesting\OpencartV121\src\test\java\pageObjects\WishlistPage.ja
 D:\Work\AutomationTesting\OpencartV121\src\test\java\testCases\TC_008_UpdateAddress.java
 D:\Work\AutomationTesting\OpencartV121\src\test\java\utilities\ExtentReportUtility.java
 D:\Work\AutomationTesting\OpencartV121\src\test\java\testCases\TC_007_UpdateAddress.java
+D:\Work\AutomationTesting\OpencartV121\src\test\java\utilities\RetryListener.java
 D:\Work\AutomationTesting\OpencartV121\src\test\java\pageObjects\LogoutPage.java
 D:\Work\AutomationTesting\OpencartV121\src\test\java\pageObjects\NewsLetterPage.java
 D:\Work\AutomationTesting\OpencartV121\src\test\java\utilities\JSONUtility.java

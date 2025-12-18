@@ -1036,3 +1036,95 @@
 23:03:42.989 [main] INFO  testCases.TC_018_GetAllDesktops - **calling the site map page**
 23:03:43.992 [main] INFO  testCases.TC_018_GetAllDesktops - **calling the desktop page**
 23:03:44.131 [main] INFO  testCases.TC_018_GetAllDesktops - **End of test**
+12:07:40.151 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:07:40.154 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:07:40.156 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:07:40.156 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:07:40.156 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:07:40.156 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:07:40.157 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:07:40.157 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:07:40.161 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+12:07:40.167 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 5 ms.
+12:07:40.167 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:07:40.168 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+12:07:40.168 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:07:40.168 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:07:40.168 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:07:40.168 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:07:40.170 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:07:40.170 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:07:40.170 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:07:40.170 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:07:40.171 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:07:40.171 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:07:40.171 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:07:40.171 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:07:40.172 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:07:40.172 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:07:40.173 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:07:40.173 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:07:40.173 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:07:40.173 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:07:40.178 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\CHIDANAND N H\AppData\Local\Temp\testng-eclipse--1483470556\testng-customsuite.xml
+
+12:07:40.189 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+12:07:40.314 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@13e3c1c7: 51 ms
+12:07:40.324 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@56c9bbd8: 8 ms
+12:07:40.332 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@71b3bc45: 7 ms
+12:07:40.337 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@6bb75258: 5 ms
+12:07:40.345 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@3829ac1: 7 ms
+12:07:40.345 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@4baf352a: 0 ms
+12:26:46.355 [main] INFO  testCases.TC_018_GetAllDesktops - ***Start of the test***
+12:26:46.359 [main] INFO  testCases.TC_018_GetAllDesktops - **calling the home page**
+12:26:46.868 [main] INFO  testCases.TC_018_GetAllDesktops - **calling the login page**
+12:26:47.172 [main] INFO  testCases.TC_018_GetAllDesktops - calling the footer page
+12:26:48.701 [main] INFO  testCases.TC_018_GetAllDesktops - **calling the site map page**
+12:26:49.622 [main] INFO  testCases.TC_018_GetAllDesktops - ***Start of the test***
+12:26:49.622 [main] INFO  testCases.TC_018_GetAllDesktops - **calling the home page**
+12:26:59.732 [main] INFO  testCases.TC_018_GetAllDesktops - **End of test**
+13:05:35.759 [main] INFO  testCases.TC_018_GetAllDesktops - ***Start of the test***
+13:05:35.762 [main] INFO  testCases.TC_018_GetAllDesktops - **calling the home page**
+13:05:36.293 [main] INFO  testCases.TC_018_GetAllDesktops - **calling the login page**
+13:05:37.634 [main] INFO  testCases.TC_018_GetAllDesktops - calling the footer page
+13:05:38.081 [main] INFO  testCases.TC_018_GetAllDesktops - **calling the site map page**
+13:05:40.011 [main] INFO  testCases.TC_018_GetAllDesktops - **calling the desktop page**
+13:05:40.190 [main] INFO  testCases.TC_018_GetAllDesktops - **End of test**
+13:06:38.796 [main] INFO  testCases.TC_018_GetAllDesktops - ***Start of the test***
+13:06:38.829 [main] INFO  testCases.TC_018_GetAllDesktops - ***Start of the test***
+13:06:38.832 [main] INFO  testCases.TC_018_GetAllDesktops - ***Start of the test***
+13:07:48.456 [main] INFO  testCases.TC_018_GetAllDesktops - ***Start of the test***
+13:07:48.460 [main] INFO  testCases.TC_018_GetAllDesktops - **calling the home page**
+13:07:48.967 [main] INFO  testCases.TC_018_GetAllDesktops - ***Start of the test***
+13:07:48.967 [main] INFO  testCases.TC_018_GetAllDesktops - **calling the home page**
+13:07:49.354 [main] INFO  testCases.TC_018_GetAllDesktops - ***Start of the test***
+13:07:49.354 [main] INFO  testCases.TC_018_GetAllDesktops - **calling the home page**
+13:08:48.912 [main] INFO  testCases.TC_018_GetAllDesktops - ***Start of the test***
+13:08:48.915 [main] INFO  testCases.TC_018_GetAllDesktops - **calling the home page**
+13:08:49.363 [main] INFO  testCases.TC_018_GetAllDesktops - **calling the login page**
+13:08:50.658 [main] INFO  testCases.TC_018_GetAllDesktops - calling the footer page
+13:08:51.000 [main] INFO  testCases.TC_018_GetAllDesktops - **calling the site map page**
+13:08:52.189 [main] INFO  testCases.TC_018_GetAllDesktops - **calling the desktop page**
+13:08:52.338 [main] INFO  testCases.TC_018_GetAllDesktops - **End of test**
+13:09:21.364 [main] INFO  testCases.TC_018_GetAllDesktops - ***Start of the test***
+13:09:21.367 [main] INFO  testCases.TC_018_GetAllDesktops - **calling the home page**
+13:09:21.828 [main] INFO  testCases.TC_018_GetAllDesktops - **calling the login page**
+13:09:22.130 [main] INFO  testCases.TC_018_GetAllDesktops - calling the footer page
+13:09:23.447 [main] INFO  testCases.TC_018_GetAllDesktops - **calling the site map page**
+13:09:24.987 [main] INFO  testCases.TC_018_GetAllDesktops - **calling the desktop page**
+13:09:25.146 [main] INFO  testCases.TC_018_GetAllDesktops - **End of test**
+13:10:01.448 [main] INFO  testCases.TC_018_GetAllDesktops - ***Start of the test***
+13:10:01.456 [main] INFO  testCases.TC_018_GetAllDesktops - **calling the home page**
+13:10:02.743 [main] INFO  testCases.TC_018_GetAllDesktops - ***Start of the test***
+13:10:02.743 [main] INFO  testCases.TC_018_GetAllDesktops - **calling the home page**
+13:10:04.010 [main] INFO  testCases.TC_018_GetAllDesktops - ***Start of the test***
+13:10:04.010 [main] INFO  testCases.TC_018_GetAllDesktops - **calling the home page**
+13:10:50.773 [main] INFO  testCases.TC_018_GetAllDesktops - ***Start of the test***
+13:10:50.776 [main] INFO  testCases.TC_018_GetAllDesktops - **calling the home page**
+13:10:51.335 [main] INFO  testCases.TC_018_GetAllDesktops - ***Start of the test***
+13:10:51.335 [main] INFO  testCases.TC_018_GetAllDesktops - **calling the home page**
+13:10:51.823 [main] INFO  testCases.TC_018_GetAllDesktops - ***Start of the test***
+13:10:51.829 [main] INFO  testCases.TC_018_GetAllDesktops - **calling the home page**
+13:10:52.213 [main] INFO  testCases.TC_018_GetAllDesktops - ***Start of the test***
+13:10:52.213 [main] INFO  testCases.TC_018_GetAllDesktops - **calling the home page**

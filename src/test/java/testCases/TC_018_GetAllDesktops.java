@@ -2,6 +2,7 @@ package testCases;
 import java.util.List;
 
 import org.testng.Assert;
+import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 
 import pageObjects.DeskTopsPage;
@@ -10,15 +11,18 @@ import pageObjects.HomePage;
 import pageObjects.LoginPage;
 import pageObjects.SiteMapPage;
 import testBase.BaseClass;
+import utilities.*;
 
+@Listeners(RetryListener.class)
 public class TC_018_GetAllDesktops extends BaseClass{
 	
-	@Test
+	@Test(groups="Smoke", retryAnalyzer=RetryAnalyzer.class)
 	public void displayAllDesktops()
 	{
 		logger.info("***Start of the test***");
 		try
 		{
+			
 			logger.info("**calling the home page**");
 			HomePage hm = new HomePage(driver);
 			hm.clickMyaccount();

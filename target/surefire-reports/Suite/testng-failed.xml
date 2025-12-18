@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
-  <test thread-count="5" name="Default test(failed)">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <listeners>
+    <listener class-name="utilities.ExtentReportUtility"/>
+  </listeners>
+  <test thread-count="5" name="EdgeTest(failed)" verbose="0">
+    <parameter name="OS" value="Windows"/>
+    <parameter name="Browser" value="Chrome"/>
     <classes>
       <class name="testCases.TC_018_GetAllDesktops">
         <methods>
@@ -11,5 +16,5 @@
         </methods>
       </class> <!-- testCases.TC_018_GetAllDesktops -->
     </classes>
-  </test> <!-- Default test(failed) -->
-</suite> <!-- Failed suite [Default suite] -->
+  </test> <!-- EdgeTest(failed) -->
+</suite> <!-- Failed suite [Suite] -->
