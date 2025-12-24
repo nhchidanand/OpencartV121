@@ -46,6 +46,26 @@ public class DataProviders {
 	}
 	
 	
+
+	@DataProvider (name="LoginTestDataValidAndInvalid")
+	public String[][] validAndInvalid() throws IOException
+	{
+		String path = ".\\testData\\ReadData.xlsx";
+		ExcelUtility ExUtil = new ExcelUtility(path);
+		int rows = ExUtil.getRowCount("Sheet3");
+		int columns = ExUtil.getCellCount("Sheet3", 1);
+		String logindata[][] =new String[rows][columns];
+		for(int r=1; r<=rows; r++)
+		{
+			for(int c=0; c<columns; c++)
+			{
+				logindata[r-1][c] = ExUtil.getCellData("Sheet3", r, c);
+			}
+		}
+		return logindata;
+	}
+	
+	
 	
 	@DataProvider(name="AddressData2")
 	public Object[][] AddressData2() throws IOException

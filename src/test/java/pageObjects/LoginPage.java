@@ -23,6 +23,9 @@ public class LoginPage extends BasePage{
 	@FindBy(xpath="//input[@value='Login']")
 	WebElement btnLogin;
 	
+	@FindBy(xpath="//div[contains(text(), 'Warning: No match for E-Mail Address and/or Password.')]")
+	WebElement warningNoMatchEmail;
+	
 	
 	public void setEmail(String mailID)
 	{
@@ -37,6 +40,11 @@ public class LoginPage extends BasePage{
 	public void clickLogin()
 	{
 		btnLogin.click();
+	}
+	
+	public String warningMessageValidation()
+	{
+		return warningNoMatchEmail.getText();
 	}
 	
 }

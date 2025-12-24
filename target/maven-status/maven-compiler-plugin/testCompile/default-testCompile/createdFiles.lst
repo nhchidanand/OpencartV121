@@ -34,6 +34,7 @@ testCases\TC_002_LoginTest.class
 pageObjects\LogoutPage.class
 pageObjects\MyAccount.class
 testCases\TC_012_NewsLetterSubscriptionYes.class
+testCases\TC_019_LoginTestValidAndInvalidCred.class
 testCases\TC_018_GetAllDesktops.class
 pageObjects\AddToCartPage.class
 pageObjects\CheckOutPage.class

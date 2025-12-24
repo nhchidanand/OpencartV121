@@ -29,8 +29,9 @@
       <class name="testCases.TC_015_SubmitContactFormN"/>
       <class name="testCases.TC_016_ReturnProduct"/>
       <class name="testCases.TC_017_OrderHistory"/>
-      -->
       <class name="testCases.TC_018_GetAllDesktops"/>
+      -->
+      <class name="testCases.TC_019_LoginTestValidAndInvalidCred"/>
     </classes>
   </test>
 </suite>

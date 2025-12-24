@@ -1181,3 +1181,10 @@
 13:57:01.403 [main] INFO  testCases.TC_018_GetAllDesktops - **calling the site map page**
 13:57:02.028 [main] INFO  testCases.TC_018_GetAllDesktops - **calling the desktop page**
 13:57:02.140 [main] INFO  testCases.TC_018_GetAllDesktops - **End of test**
+09:54:53.041 [main] INFO  testCases.TC_019_LoginTestValidAndInvalidCred - *Start of the valida validation test*
+09:54:53.049 [main] INFO  testCases.TC_019_LoginTestValidAndInvalidCred - **Calling the home page**
+09:54:53.399 [main] INFO  testCases.TC_019_LoginTestValidAndInvalidCred - *Calling the login page*
+09:54:54.824 [main] INFO  testCases.TC_019_LoginTestValidAndInvalidCred - **Calling my account page**
+09:54:55.339 [main] INFO  testCases.TC_019_LoginTestValidAndInvalidCred - *Start of the invalid validation test*
+09:54:55.339 [main] INFO  testCases.TC_019_LoginTestValidAndInvalidCred - **Calling the home page**
+09:54:55.647 [main] INFO  testCases.TC_019_LoginTestValidAndInvalidCred - *Calling the login page*
