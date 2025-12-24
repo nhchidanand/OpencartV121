@@ -26,7 +26,6 @@ public class DataProviders {
 	}
 	
 	
-	
 	@DataProvider(name = "AddressData")
 	public String[][] AddressData() throws IOException
 	{
