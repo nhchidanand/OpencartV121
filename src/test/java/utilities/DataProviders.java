@@ -57,7 +57,7 @@ public class DataProviders {
 		{
 			for(int c=0; c<columns; c++)
 			{
-				logindata[r-1][c] = ExUtil.getCellData("Sheet3", r, c);
+				loginTestDataValidAndInvalid[r-1][c] = ExUtil.getCellData("Sheet3", r, c);
 			}
 		}
 		return loginTestDataValidAndInvalid;
