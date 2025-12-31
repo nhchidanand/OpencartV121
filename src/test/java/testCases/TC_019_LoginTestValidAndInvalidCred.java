@@ -8,7 +8,7 @@ import pageObjects.*;
 
 public class TC_019_LoginTestValidAndInvalidCred extends BaseClass {
 
-	@Test(dataProvider = "LoginTestDataValidAndInvalid", dataProviderClass=DataProviders.class, priority = 1)
+	@Test(dataProvider = "LoginTestDataValidAndInvalid", dataProviderClass=DataProviders.class, priority = 1, groups="Sanity")
 	public void ValidLoginTest(String email, String pass, String result) {
 		if (result.equalsIgnoreCase("Valid")) {
 
@@ -33,7 +33,7 @@ public class TC_019_LoginTestValidAndInvalidCred extends BaseClass {
 
 	}
 
-	@Test(dataProvider = "LoginTestDataValidAndInvalid", dataProviderClass=DataProviders.class, priority = 2)
+	@Test(dataProvider = "LoginTestDataValidAndInvalid", dataProviderClass=DataProviders.class, priority = 2, groups= {"Smoke", "Sanity"})
 	public void InvalidLoginTest(String email, String pass, String result) {
 		if (result.equalsIgnoreCase("Invalid")) {
 			logger.info("*Start of the invalid validation test*");
