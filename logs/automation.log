@@ -1188,3 +1188,17 @@
 09:54:55.339 [main] INFO  testCases.TC_019_LoginTestValidAndInvalidCred - *Start of the invalid validation test*
 09:54:55.339 [main] INFO  testCases.TC_019_LoginTestValidAndInvalidCred - **Calling the home page**
 09:54:55.647 [main] INFO  testCases.TC_019_LoginTestValidAndInvalidCred - *Calling the login page*
+19:06:54.697 [main] INFO  testCases.TC_019_LoginTestValidAndInvalidCred - *Start of the valida validation test*
+19:06:54.700 [main] INFO  testCases.TC_019_LoginTestValidAndInvalidCred - **Calling the home page**
+19:06:55.094 [main] INFO  testCases.TC_019_LoginTestValidAndInvalidCred - *Calling the login page*
+19:06:56.216 [main] INFO  testCases.TC_019_LoginTestValidAndInvalidCred - **Calling my account page**
+19:06:56.799 [main] INFO  testCases.TC_019_LoginTestValidAndInvalidCred - *Start of the invalid validation test*
+19:06:56.799 [main] INFO  testCases.TC_019_LoginTestValidAndInvalidCred - **Calling the home page**
+19:06:57.157 [main] INFO  testCases.TC_019_LoginTestValidAndInvalidCred - *Calling the login page*
+19:12:07.058 [main] INFO  testCases.TC_019_LoginTestValidAndInvalidCred - *Start of the valida validation test*
+19:12:07.064 [main] INFO  testCases.TC_019_LoginTestValidAndInvalidCred - **Calling the home page**
+19:12:07.483 [main] INFO  testCases.TC_019_LoginTestValidAndInvalidCred - *Calling the login page*
+19:12:07.724 [main] INFO  testCases.TC_019_LoginTestValidAndInvalidCred - **Calling my account page**
+19:12:09.148 [main] INFO  testCases.TC_019_LoginTestValidAndInvalidCred - *Start of the invalid validation test*
+19:12:09.148 [main] INFO  testCases.TC_019_LoginTestValidAndInvalidCred - **Calling the home page**
+19:12:09.491 [main] INFO  testCases.TC_019_LoginTestValidAndInvalidCred - *Calling the login page*

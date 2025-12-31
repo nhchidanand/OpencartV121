@@ -60,7 +60,7 @@
                 </li>
                 <li>
                   <a href="#" panel-name="group-Suite" class="navigator-link ">
-                    <span>0 groups</span>
+                    <span>2 groups</span>
                   </a> <!-- navigator-link  -->
                 </li>
                 <li>
@@ -103,22 +103,22 @@
                     <div class="method-list-content passed suite-Suite">
                       <span>
                         <img src="passed.png" width="3%"/>
-                        <a href="#" panel-name="suite-Suite" title="testCases.TC_019_LoginTestValidAndInvalidCred" class="method navigator-link" hash-for-method="InvalidLoginTest(cnh@mail.com, Test@123, Valid)">InvalidLoginTest(cnh@mail.com, Test@123, Valid)</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
-                      <span>
-                        <img src="passed.png" width="3%"/>
                         <a href="#" panel-name="suite-Suite" title="testCases.TC_019_LoginTestValidAndInvalidCred" class="method navigator-link" hash-for-method="InvalidLoginTest(snh@gmail.com, test@123, Invalid)">InvalidLoginTest(snh@gmail.com, test@123, Invalid)</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                       <span>
                         <img src="passed.png" width="3%"/>
-                        <a href="#" panel-name="suite-Suite" title="testCases.TC_019_LoginTestValidAndInvalidCred" class="method navigator-link" hash-for-method="ValidLoginTest(cnh@mail.com, Test@123, Valid)">ValidLoginTest(cnh@mail.com, Test@123, Valid)</a> <!-- method navigator-link -->
+                        <a href="#" panel-name="suite-Suite" title="testCases.TC_019_LoginTestValidAndInvalidCred" class="method navigator-link" hash-for-method="InvalidLoginTest(cnh@mail.com, Test@123, Valid)">InvalidLoginTest(cnh@mail.com, Test@123, Valid)</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                       <span>
                         <img src="passed.png" width="3%"/>
                         <a href="#" panel-name="suite-Suite" title="testCases.TC_019_LoginTestValidAndInvalidCred" class="method navigator-link" hash-for-method="ValidLoginTest(snh@gmail.com, test@123, Invalid)">ValidLoginTest(snh@gmail.com, test@123, Invalid)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Suite" title="testCases.TC_019_LoginTestValidAndInvalidCred" class="method navigator-link" hash-for-method="ValidLoginTest(cnh@mail.com, Test@123, Valid)">ValidLoginTest(cnh@mail.com, Test@123, Valid)</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                     </div> <!-- method-list-content passed suite-Suite -->
@@ -141,14 +141,6 @@
             <div class="main-panel-content rounded-window-bottom">
               <div class="method">
                 <div class="method-content">
-                  <a name="InvalidLoginTest(cnh@mail.com, Test@123, Valid)">
-                  </a> <!-- InvalidLoginTest(cnh@mail.com, Test@123, Valid) -->
-                  <span class="method-name">InvalidLoginTest</span>
-                  <span class="parameters">(cnh@mail.com,Test@123,Valid)</span>
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-              <div class="method">
-                <div class="method-content">
                   <a name="InvalidLoginTest(snh@gmail.com, test@123, Invalid)">
                   </a> <!-- InvalidLoginTest(snh@gmail.com, test@123, Invalid) -->
                   <span class="method-name">InvalidLoginTest</span>
@@ -157,9 +149,9 @@
               </div> <!-- method -->
               <div class="method">
                 <div class="method-content">
-                  <a name="ValidLoginTest(cnh@mail.com, Test@123, Valid)">
-                  </a> <!-- ValidLoginTest(cnh@mail.com, Test@123, Valid) -->
-                  <span class="method-name">ValidLoginTest</span>
+                  <a name="InvalidLoginTest(cnh@mail.com, Test@123, Valid)">
+                  </a> <!-- InvalidLoginTest(cnh@mail.com, Test@123, Valid) -->
+                  <span class="method-name">InvalidLoginTest</span>
                   <span class="parameters">(cnh@mail.com,Test@123,Valid)</span>
                 </div> <!-- method-content -->
               </div> <!-- method -->
@@ -169,6 +161,14 @@
                   </a> <!-- ValidLoginTest(snh@gmail.com, test@123, Invalid) -->
                   <span class="method-name">ValidLoginTest</span>
                   <span class="parameters">(snh@gmail.com,test@123,Invalid)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="ValidLoginTest(cnh@mail.com, Test@123, Valid)">
+                  </a> <!-- ValidLoginTest(cnh@mail.com, Test@123, Valid) -->
+                  <span class="method-name">ValidLoginTest</span>
+                  <span class="parameters">(cnh@mail.com,Test@123,Valid)</span>
                 </div> <!-- method-content -->
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
@@ -215,6 +215,26 @@
             <span class="header-content">Groups for Suite</span>
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
+            <div class="test-group">
+              <span class="test-group-name">Sanity</span>
+              <br/>
+              <div class="method-in-group">
+                <span class="method-in-group-name">InvalidLoginTest</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">ValidLoginTest</span>
+                <br/>
+              </div> <!-- method-in-group -->
+            </div> <!-- test-group -->
+            <div class="test-group">
+              <span class="test-group-name">Smoke</span>
+              <br/>
+              <div class="method-in-group">
+                <span class="method-in-group-name">InvalidLoginTest</span>
+                <br/>
+              </div> <!-- method-in-group -->
+            </div> <!-- test-group -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->
         <div panel-name="times-Suite" class="panel">
@@ -235,17 +255,17 @@ data.addRows(4);
 data.setCell(0, 0, 0)
 data.setCell(0, 1, 'ValidLoginTest')
 data.setCell(0, 2, 'testCases.TC_019_LoginTestValidAndInvalidCred')
-data.setCell(0, 3, 2130);
+data.setCell(0, 3, 1900);
 data.setCell(1, 0, 1)
 data.setCell(1, 1, 'InvalidLoginTest')
 data.setCell(1, 2, 'testCases.TC_019_LoginTestValidAndInvalidCred')
-data.setCell(1, 3, 1127);
+data.setCell(1, 3, 1124);
 data.setCell(2, 0, 2)
-data.setCell(2, 1, 'InvalidLoginTest')
+data.setCell(2, 1, 'ValidLoginTest')
 data.setCell(2, 2, 'testCases.TC_019_LoginTestValidAndInvalidCred')
-data.setCell(2, 3, 1);
+data.setCell(2, 3, 3);
 data.setCell(3, 0, 3)
-data.setCell(3, 1, 'ValidLoginTest')
+data.setCell(3, 1, 'InvalidLoginTest')
 data.setCell(3, 2, 'testCases.TC_019_LoginTestValidAndInvalidCred')
 data.setCell(3, 3, 0);
 window.suiteTableData['Suite']= { tableData: data, tableDiv: 'times-div-Suite'}
@@ -285,23 +305,23 @@ return data;
               </div> <!-- configuration-class before -->
               <div class="test-method">
                 <span class="method-name">ValidLoginTest(cnh@mail.com, Test@123, Valid)</span>
-                <span class="method-start">3434 ms</span>
+                <span class="method-start">16803 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">ValidLoginTest(snh@gmail.com, test@123, Invalid)</span>
-                <span class="method-start">5572 ms</span>
-              </div> <!-- test-method -->
-              <div class="test-method">
-                <span class="method-name">InvalidLoginTest(cnh@mail.com, Test@123, Valid)</span>
-                <span class="method-start">5737 ms</span>
+                <span class="method-start">18717 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">InvalidLoginTest(snh@gmail.com, test@123, Invalid)</span>
-                <span class="method-start">5739 ms</span>
+                <span class="method-start">18908 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">InvalidLoginTest(cnh@mail.com, Test@123, Valid)</span>
+                <span class="method-start">18908 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-class after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">6867 ms</span>
+                <span class="method-start">20032 ms</span>
               </div> <!-- configuration-class after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->
