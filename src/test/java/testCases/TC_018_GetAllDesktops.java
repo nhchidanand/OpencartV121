@@ -2,8 +2,6 @@ package testCases;
 
 import java.util.List;
 
-import org.testng.Assert;
-import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 
 import pageObjects.DeskTopsPage;
@@ -12,7 +10,6 @@ import pageObjects.HomePage;
 import pageObjects.LoginPage;
 import pageObjects.SiteMapPage;
 import testBase.BaseClass;
-import utilities.*;
 
 //@Listeners(RetryListener.class)
 public class TC_018_GetAllDesktops extends BaseClass {

@@ -33,7 +33,7 @@ public class TC_019_LoginTestValidAndInvalidCred extends BaseClass {
 
 	}
 
-	@Test(dataProvider = "LoginTestDataValidAndInvalid", dataProviderClass=DataProviders.class, priority = 2, groups= {"Smoke", "Sanity"})
+	@Test(dataProvider = "LoginTestDataValidAndInvalid", dataProviderClass=DataProviders.class, priority = 2, groups= {"Smoke", "Sanity"}, alwaysRun=true)
 	public void InvalidLoginTest(String email, String pass, String result) {
 		if (result.equalsIgnoreCase("Invalid")) {
 			logger.info("*Start of the invalid validation test*");
