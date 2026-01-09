@@ -7,7 +7,7 @@ import testBase.BaseClass;
 
 public class TC_020_EditAffiliateInformation extends BaseClass{
 	
-	@Test
+	@Test(groups={"Regression", "Sanity"})
 	public void editAffiliateInformation()
 	{
 		logger.info("**Start of the edit affiliate test**");
