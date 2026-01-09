@@ -1,4 +1,5 @@
 package pageObjects;
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.FindBy;
 import org.testng.Assert;
@@ -42,6 +43,10 @@ public class SearchPage extends BasePage{
 	
 	@FindBy(xpath="//div[@class='list-group']//a[contains(text(), 'Order History')]")
 	WebElement orderHistory;
+	
+	By editAffiliateInfo= By.linkText("Edit your affiliate information");
+	
+	By affiliateUpdateSuccessfulMsg= By.xpath("//div[contains(text(), 'successfully')]");
 	
 	
 	public void clickIphone()
@@ -99,4 +104,15 @@ public class SearchPage extends BasePage{
 	{
 		orderHistory.click();
 	}
+	
+	public void editAffiliateInformation()
+	{
+		click(editAffiliateInfo);
+	}
+	
+	public String affiliateSuccessfulMessage()
+	{
+		return getText(affiliateUpdateSuccessfulMsg);
+	}
+	
 }

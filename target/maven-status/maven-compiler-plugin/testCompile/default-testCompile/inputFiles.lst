@@ -1,4 +1,5 @@
 D:\Work\AutomationTesting\OpencartV121\src\test\java\utilities\DataProviders.java
+D:\Work\AutomationTesting\OpencartV121\src\test\java\testCases\TC_020_EditAffiliateInformation.java
 D:\Work\AutomationTesting\OpencartV121\src\test\java\testCases\TC_009_EditAccount.java
 D:\Work\AutomationTesting\OpencartV121\src\test\java\pageObjects\FooterPage.java
 D:\Work\AutomationTesting\OpencartV121\src\test\java\testCases\TC_001_AccountRegistrationTest.java
@@ -26,6 +27,7 @@ D:\Work\AutomationTesting\OpencartV121\src\test\java\testCases\TC_019_LoginTestV
 D:\Work\AutomationTesting\OpencartV121\src\test\java\utilities\WaitUtility.java
 D:\Work\AutomationTesting\OpencartV121\src\test\java\testCases\TC_010_ChangePassword.java
 D:\Work\AutomationTesting\OpencartV121\src\test\java\utilities\RetryAnalyzer.java
+D:\Work\AutomationTesting\OpencartV121\src\test\java\pageObjects\YourAffiliateInfoPage.java
 D:\Work\AutomationTesting\OpencartV121\src\test\java\pageObjects\SearchPage.java
 D:\Work\AutomationTesting\OpencartV121\src\test\java\pageObjects\AddressPage.java
 D:\Work\AutomationTesting\OpencartV121\src\test\java\pageObjects\SiteMapPage.java
