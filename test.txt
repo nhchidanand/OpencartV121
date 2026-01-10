@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is the code from developer B
+=======
+this is the code from developer A
+>>>>>>> 73151a2d4fa9cac0eeee57a3513d41f18a44807d
