@@ -1,2 +1,1 @@
-this code is from developer BB
-this is a bad soft commit 
+this code is from developer A
