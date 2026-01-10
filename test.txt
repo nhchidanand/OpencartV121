@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-this is the comment from opencart.
-=======
-this is the comment from opencart..
->>>>>>> 77bbb9203fb89d5cfcbd7fec175a720be2068fd3
+this is the code from developer B
