@@ -18,3 +18,5 @@
 20:19:51.083 [main] INFO  testCases.TC_020_EditAffiliateInformation - *Calling the search page*
 20:19:51.554 [main] INFO  testCases.TC_020_EditAffiliateInformation - *Calling the affiliate info page*
 20:19:53.817 [main] INFO  testCases.TC_020_EditAffiliateInformation - *Calling method's from search page*
+12:52:54.485 [main] INFO  testCases.TC_020_EditAffiliateInformation - **Start of the edit affiliate test**
+12:52:54.498 [main] INFO  testCases.TC_020_EditAffiliateInformation - *Calling home page*

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <listeners>
+    <listener class-name="utilities.ExtentReportUtility"/>
+    <listener class-name="utilities.RetryListener"/>
+  </listeners>
+  <test thread-count="5" name="EdgeTest(failed)" verbose="0">
+    <parameter name="OS" value="Windows"/>
+    <parameter name="Browser" value="Chrome"/>
+    <classes>
+      <class name="testCases.TC_020_EditAffiliateInformation">
+        <methods>
+          <include name="tearDown"/>
+          <include name="editAffiliateInformation"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- testCases.TC_020_EditAffiliateInformation -->
+    </classes>
+  </test> <!-- EdgeTest(failed) -->
+</suite> <!-- Failed suite [Suite] -->
