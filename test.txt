@@ -1,4 +1,0 @@
-This is to test git command
-this is the latest line
-
-**Comment added to test login test automation**
