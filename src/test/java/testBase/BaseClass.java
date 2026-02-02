@@ -147,4 +147,21 @@ public Properties property;
 		}
 		return data;
 	}
+	
+	
+	public HashMap<String, String> productDataBaseData() throws SQLException
+	{
+		HashMap<String, String> productData= new HashMap<>();
+		String host = "localhost";
+		String port = "3306";
+		String database = "opencart";
+		Connection con= DriverManager.getConnection("jdbc:mysql://"+host+":"+port+"/"+database+"", "root", "root");
+		Statement stmt= con.createStatement();
+		ResultSet rs= stmt.executeQuery("select * from products where pName= 'mac';");
+		while(rs.next())
+		{
+			productData.put("productName", rs.getString("pName"));
+		}
+		return productData;
+	}
 }

@@ -15,6 +15,7 @@ D:\Work\AutomationTesting\OpencartV121\src\test\java\pageObjects\LogoutPage.java
 D:\Work\AutomationTesting\OpencartV121\src\test\java\pageObjects\NewsLetterPage.java
 D:\Work\AutomationTesting\OpencartV121\src\test\java\utilities\JSONUtility.java
 D:\Work\AutomationTesting\OpencartV121\src\test\java\utilities\ExcelUtility.java
+D:\Work\AutomationTesting\OpencartV121\src\test\java\pageObjects\ViewCartPage.java
 D:\Work\AutomationTesting\OpencartV121\src\test\java\testCases\TC_011_LoginDB.java
 D:\Work\AutomationTesting\OpencartV121\src\test\java\pageObjects\ChangePasswordPage.java
 D:\Work\AutomationTesting\OpencartV121\src\test\java\testCases\TC_003_LoginDDT.java
@@ -25,6 +26,7 @@ D:\Work\AutomationTesting\OpencartV121\src\test\java\testCases\TC_018_GetAllDesk
 D:\Work\AutomationTesting\OpencartV121\src\test\java\testCases\TC_006_ValidateProductInWishlsit.java
 D:\Work\AutomationTesting\OpencartV121\src\test\java\testCases\TC_019_LoginTestValidAndInvalidCred.java
 D:\Work\AutomationTesting\OpencartV121\src\test\java\utilities\WaitUtility.java
+D:\Work\AutomationTesting\OpencartV121\src\test\java\testCases\TC_021_MacTest.java
 D:\Work\AutomationTesting\OpencartV121\src\test\java\testCases\TC_010_ChangePassword.java
 D:\Work\AutomationTesting\OpencartV121\src\test\java\utilities\RetryAnalyzer.java
 D:\Work\AutomationTesting\OpencartV121\src\test\java\pageObjects\YourAffiliateInfoPage.java
@@ -38,6 +40,7 @@ D:\Work\AutomationTesting\OpencartV121\src\test\java\utilities\RetryListener.jav
 D:\Work\AutomationTesting\OpencartV121\src\test\java\pageObjects\RegistrationPage.java
 D:\Work\AutomationTesting\OpencartV121\src\test\java\testCases\TC_013_NewsLetterSubscriptionNo.java
 D:\Work\AutomationTesting\OpencartV121\src\test\java\testCases\TC_017_OrderHistory.java
+D:\Work\AutomationTesting\OpencartV121\src\test\java\pageObjects\MacProductsPage.java
 D:\Work\AutomationTesting\OpencartV121\src\test\java\testCases\TC_012_NewsLetterSubscriptionYes.java
 D:\Work\AutomationTesting\OpencartV121\src\test\java\pageObjects\MyAccount.java
 D:\Work\AutomationTesting\OpencartV121\src\test\java\pageObjects\OrderHistoryPage.java

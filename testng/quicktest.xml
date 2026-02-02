@@ -31,8 +31,9 @@
       <class name="testCases.TC_017_OrderHistory"/>
       <class name="testCases.TC_018_GetAllDesktops"/>
       <class name="testCases.TC_019_LoginTestValidAndInvalidCred"/>
-      -->
       <class name="testCases.TC_020_EditAffiliateInformation"/>
+      -->
+      <class name="testCases.TC_021_MacTest"/>
     </classes>
   </test>
 </suite>

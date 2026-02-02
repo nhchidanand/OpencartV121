@@ -13,6 +13,9 @@ public class SearchPage extends BasePage{
 		super(driver);
 	}
 
+	By searchArea= By.cssSelector("input[name='search']");
+	
+	By searchButtom= By.xpath("//span//button[@type='button']");
 	
 	@FindBy(xpath="//div[@class='caption']//a[contains(text(),'iPhone')]")
 	private WebElement clkIphone;
@@ -47,6 +50,17 @@ public class SearchPage extends BasePage{
 	By editAffiliateInfo= By.linkText("Edit your affiliate information");
 	
 	By affiliateUpdateSuccessfulMsg= By.xpath("//div[contains(text(), 'successfully')]");
+	
+	public void searchProduct(String product)
+	{
+		type(searchArea, product);
+	}
+	
+	
+	public void clickSearchButton()
+	{
+		click(searchButtom);
+	}
 	
 	
 	public void clickIphone()

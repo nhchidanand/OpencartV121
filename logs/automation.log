@@ -1,22 +1,20 @@
-20:17:47.111 [main] INFO  testCases.TC_020_EditAffiliateInformation - **Start of the edit affiliate test**
-20:17:47.116 [main] INFO  testCases.TC_020_EditAffiliateInformation - *Calling home page*
-20:17:47.669 [main] INFO  testCases.TC_020_EditAffiliateInformation - *Calling the login page*
-20:17:49.467 [main] INFO  testCases.TC_020_EditAffiliateInformation - *Calling the search page*
-20:17:49.834 [main] INFO  testCases.TC_020_EditAffiliateInformation - *Calling the affiliate info page*
-20:17:51.315 [main] INFO  testCases.TC_020_EditAffiliateInformation - *Calling method's from search page*
-20:18:28.769 [main] INFO  testCases.TC_020_EditAffiliateInformation - **Start of the edit affiliate test**
-20:18:28.774 [main] INFO  testCases.TC_020_EditAffiliateInformation - *Calling home page*
-20:18:29.538 [main] INFO  testCases.TC_020_EditAffiliateInformation - *Calling the login page*
-20:18:31.455 [main] INFO  testCases.TC_020_EditAffiliateInformation - *Calling the search page*
-20:18:31.894 [main] INFO  testCases.TC_020_EditAffiliateInformation - *Calling the affiliate info page*
-20:18:33.400 [main] INFO  testCases.TC_020_EditAffiliateInformation - *Calling method's from search page*
-20:18:33.490 [main] INFO  testCases.TC_020_EditAffiliateInformation - **Start of the edit affiliate test**
-20:18:33.490 [main] INFO  testCases.TC_020_EditAffiliateInformation - *Calling home page*
-20:19:49.265 [main] INFO  testCases.TC_020_EditAffiliateInformation - **Start of the edit affiliate test**
-20:19:49.270 [main] INFO  testCases.TC_020_EditAffiliateInformation - *Calling home page*
-20:19:49.826 [main] INFO  testCases.TC_020_EditAffiliateInformation - *Calling the login page*
-20:19:51.083 [main] INFO  testCases.TC_020_EditAffiliateInformation - *Calling the search page*
-20:19:51.554 [main] INFO  testCases.TC_020_EditAffiliateInformation - *Calling the affiliate info page*
-20:19:53.817 [main] INFO  testCases.TC_020_EditAffiliateInformation - *Calling method's from search page*
-12:52:54.485 [main] INFO  testCases.TC_020_EditAffiliateInformation - **Start of the edit affiliate test**
-12:52:54.498 [main] INFO  testCases.TC_020_EditAffiliateInformation - *Calling home page*
+19:48:48.569 [main] INFO  testCases.TC_021_MacTest - *Start of the test*
+19:48:48.573 [main] INFO  testCases.TC_021_MacTest - **Calling home page**
+19:48:49.229 [main] INFO  testCases.TC_021_MacTest - **Calling the login page**
+19:48:49.231 [main] INFO  testCases.TC_021_MacTest - **Calling the database connection page**
+19:48:50.117 [main] INFO  testCases.TC_021_MacTest - **calling the search page**
+19:48:50.120 [main] INFO  testCases.TC_021_MacTest - **Calling the product data method**
+19:48:51.856 [main] INFO  testCases.TC_021_MacTest - **calling mac products page**
+19:48:52.899 [main] INFO  testCases.TC_021_MacTest - **Calling add to cart page**
+19:48:53.698 [main] INFO  testCases.TC_021_MacTest - **Calling view cart page**
+19:48:53.744 [main] INFO  testCases.TC_021_MacTest - this should be executing
+19:55:18.473 [main] INFO  testCases.TC_021_MacTest - *Start of the test*
+19:55:18.475 [main] INFO  testCases.TC_021_MacTest - **Calling home page**
+19:55:19.011 [main] INFO  testCases.TC_021_MacTest - **Calling the login page**
+19:55:19.015 [main] INFO  testCases.TC_021_MacTest - **Calling the database connection page**
+19:55:20.648 [main] INFO  testCases.TC_021_MacTest - **calling the search page**
+19:55:20.652 [main] INFO  testCases.TC_021_MacTest - **Calling the product data method**
+19:55:21.457 [main] INFO  testCases.TC_021_MacTest - **calling mac products page**
+19:55:22.434 [main] INFO  testCases.TC_021_MacTest - **Calling add to cart page**
+19:55:23.250 [main] INFO  testCases.TC_021_MacTest - **Calling view cart page**
+19:55:23.285 [main] INFO  testCases.TC_021_MacTest - this should be executing
