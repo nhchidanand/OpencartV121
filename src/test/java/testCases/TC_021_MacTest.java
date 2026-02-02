@@ -47,7 +47,6 @@ public class TC_021_MacTest extends BaseClass{
 			logger.info("**Calling view cart page**");
 			ViewCartPage vcp= new ViewCartPage(driver);
 			Assert.assertEquals(vcp.cartProductNameVerify(), "iMac", "Product name mismatch!");
-			logger.info("this should be executing");
 		}
 		catch(Exception e)
 		{
